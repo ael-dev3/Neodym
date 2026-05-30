@@ -16,6 +16,46 @@ Required fields:
 
 ---
 
+## 2026-05-30 — Owner agency directive
+
+**Focus of the day:** Record owner permission for autonomous creative choices.
+
+**Files changed:**
+
+- `book-one/owner-feedback.md`
+- `book-one/10-open-questions.md`
+- `book-one/daily-changelog.md`
+
+**What was improved:**
+
+- Clarified that open questions are steering prompts, not blockers.
+- Recorded that the agent has full creative agency to make the story as interesting as possible within the established Book One constraints.
+- Directed future passes to choose strong craft defaults, record assumptions, and let the owner react while reading.
+
+**What was removed or compressed:**
+
+- No story material removed.
+
+**Current estimated word count:**
+
+- Current manuscript prose drafted: 0 words.
+- Planned final manuscript estimate: 22,800 words.
+
+**Current estimated page count:**
+
+- Current manuscript prose pages: 0 pages.
+- Planned final manuscript estimate: 91 pages at 250 words/page.
+
+**Risks / concerns:**
+
+- The agent should still respect all established scale, POV, lore-restraint, and hard-cap rules while exercising creative agency.
+
+**Questions for the human owner:**
+
+1. As you read, mark anything that feels too large-scale, too explained, or not emotionally sharp enough.
+2. Flag any names you dislike so future passes can replace them quickly.
+3. If a future autonomous choice feels wrong, owner feedback overrides it immediately.
+
 ## 2026-05-30 — Initial Book One foundation
 
 **Focus of the day:** Replace the earlier larger urban novella direction with a small, rural, human-perspective Book One outline under the 100-page hard cap.

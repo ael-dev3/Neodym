@@ -1,5 +1,7 @@
 # 10 — Open Questions
 
+These are steering prompts for Ael, not permission gates. The agent has full creative agency to keep improving the story inside the established Book One constraints, choose strong defaults, and record assumptions for later owner reaction.
+
 ## Owner-level story decisions
 
 1. Which title feels strongest: **The Bell on Starvel Hill**, **The Road That Hummed Back**, or **The Child the Ledger Named**?
@@ -32,6 +34,7 @@
 
 - Working title: **The Bell on Starvel Hill**.
 - Single close human POV through Nera Brindle.
+- When owner feedback has not answered a craft question yet, the agent should choose the most interesting option that keeps the story local, human, emotionally specific, and under the hard cap.
 - Final manuscript target: roughly 22,800 words, about 91 pages.
 - No Aurelith POV and no direct explanation of Starvel Hill.
 - Pell is saved from immediate correction, but remains socially marked.

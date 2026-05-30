@@ -19,6 +19,8 @@ This file tracks owner preferences, approved story direction, rejected ideas, an
 - Elven power should feel distant, rare, mysterious, and socially unreachable.
 - Public docs should use guide/foundation/outline terminology rather than the avoided document-set label.
 - The provided cover art is the primary visual anchor for Neodym overall, but Book One visual prompts should stay small-scale rather than epic.
+- The agent has full creative agency to make the story as interesting as possible within the established constraints.
+- Do not wait for owner answers before improving the outline; make the strongest craft choice available, record assumptions clearly, and let the owner react while reading.
 
 ## Approved story direction unless changed
 
@@ -85,6 +87,8 @@ Pending owner feedback.
 - Any visual spectacle that makes the story feel larger than Low Wicker.
 
 ## Questions awaiting owner decision
+
+These questions are steering hooks, not blockers. If no owner answer exists, the agent should choose the option that makes the novella more specific, emotionally sharp, locally grounded, and readable under the page cap.
 
 1. Preferred title?
 2. Single POV only, or include human document fragments?
