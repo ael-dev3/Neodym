@@ -12,7 +12,7 @@ At the heart of the project is one dramatic question:
 
 > Should humanity remain safe beneath immortal intelligence, or reclaim a dangerous freedom that may destroy the world again?
 
-This material is early-stage and evolving. It favors structured outlines over final prose so writers, artists, image models, and future contributors can extend it without having to reverse-engineer the canon.
+This material is early-stage and evolving. The world guide and outlines remain the canon foundation, and Book One is now also being drafted as actual novella manuscript prose under `book-one/manuscript/`.
 
 ## Proposed initial file structure
 
@@ -58,6 +58,12 @@ book-one/10-open-questions.md
 book-one/page-budget.md
 book-one/daily-changelog.md
 book-one/owner-feedback.md
+book-one/manuscript/00-title-page.md
+book-one/manuscript/00-manuscript-status.md
+book-one/manuscript/00-prose-style-guide.md
+book-one/manuscript/00-continuity-notes.md
+book-one/manuscript/00-revision-log.md
+book-one/manuscript/chapter-*.md
 ```
 
 ## How to use this repo
@@ -66,7 +72,7 @@ book-one/owner-feedback.md
 - Use `assets/neodym-cover.png` as the primary visual anchor for the project.
 - Use `world/01-*` through `world/09-*` as the first world outline.
 - Use `story/` for higher-level story directions and older outline entry points.
-- Use `book-one/` for the active first novella outline, page budget, owner feedback, and daily improvement log.
+- Use `book-one/` for the active first novella outline, page budget, owner feedback, daily improvement log, and manuscript draft.
 - Use `characters/` for cast development and scene hooks.
 - Use `glossary.md` to keep names consistent.
 - Use `visual-prompts/` as a copy-paste-ready image-generation prompt library for concept art.

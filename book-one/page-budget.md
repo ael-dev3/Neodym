@@ -11,12 +11,14 @@
 
 ## Current state
 
-- Current manuscript prose drafted: **0 words**.
-- Current manuscript prose pages: **0 pages**.
+- Current manuscript prose drafted: **1,937 words**.
+- Current manuscript prose pages: **8 pages**.
+- Drafted manuscript chapters: **1 of 12**.
 - Current outline/planned final estimate: **22,800 words**.
 - Current planned page estimate: **91 pages**.
-- Remaining available words under hard cap after planned estimate: **2,200 words**.
-- Status: **Near compression threshold by design. Future work should revise, sharpen, and replace before adding new scenes.**
+- Remaining available words under hard cap after current draft: **23,063 words**.
+- Remaining cushion under planned final estimate: **2,200 words**.
+- Status: **Drafting mode. Planned final length remains near compression threshold by design; future chapters should stay close to budget and revision should sharpen before expanding.**
 
 ## Planned chapter budget
 

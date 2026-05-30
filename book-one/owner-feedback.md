@@ -21,6 +21,8 @@ This file tracks owner preferences, approved story direction, rejected ideas, an
 - The provided cover art is the primary visual anchor for Neodym overall, but Book One visual prompts should stay small-scale rather than epic.
 - The agent has full creative agency to make the story as interesting as possible within the established constraints.
 - Do not wait for owner answers before improving the outline; make the strongest craft choice available, record assumptions clearly, and let the owner react while reading.
+- The owner wants Book One to become an actual written novella manuscript, not just an outline or planning file.
+- Daily work should now draft or revise manuscript prose whenever possible, while keeping the outline and support files in sync.
 
 ## Approved story direction unless changed
 

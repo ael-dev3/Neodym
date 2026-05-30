@@ -16,6 +16,58 @@ Required fields:
 
 ---
 
+
+## 2026-05-30 — Manuscript drafting begins
+
+**Mode:** drafting.
+
+**Files changed:**
+
+- `README.md`
+- `book-one/owner-feedback.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/manuscript/00-title-page.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/00-prose-style-guide.md`
+- `book-one/manuscript/00-continuity-notes.md`
+- `book-one/manuscript/00-revision-log.md`
+- `book-one/manuscript/chapter-01-market-bell.md`
+
+**Chapter worked on:** Chapter 1 — Market Bell.
+
+**Words added:** 1,937 manuscript words.
+
+**Words removed:** 0 manuscript words.
+
+**Net word-count change:** +1,937 manuscript words.
+
+**Current manuscript word count:** 1,937 words.
+
+**Current manuscript page estimate:** 8 pages at 250 words/page.
+
+**Distance from 25,000-word hard cap:** 23,063 words.
+
+**What improved:**
+
+- Began the actual novella manuscript instead of adding more outline-only material.
+- Created manuscript support files for status, style, continuity, and revision tracking.
+- Drafted the opening market scene in close human POV through Nera.
+- Established Low Wicker's bridge market, Pell's cracked bell, casual road discrimination, safe song customs, and the unexplained Starvel Hill response.
+
+**What remains weak:**
+
+- Chapter 2 must now turn the incident into law without explaining Aurelith systems.
+- The Bridge-Bell Rhyme should keep accumulating meaning gradually rather than becoming fully decoded too early.
+- Nera's guilt over knowing the unsafe verse should deepen in later chapters.
+
+**Questions for the human owner:**
+
+1. Does the opening feel grounded and readable enough to continue?
+2. Does Pell's voice feel charming without making him too whimsical?
+3. Does the Starvel Hill response feel mysterious rather than over-explained?
+4. Should the exact last-verse fragment be kept, roughened, or made more childlike in revision?
+
 ## 2026-05-30 — Owner agency directive
 
 **Focus of the day:** Record owner permission for autonomous creative choices.
