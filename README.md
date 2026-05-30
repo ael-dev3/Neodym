@@ -4,6 +4,10 @@
   <img src="assets/neodym-cover.png" alt="Neodym cover art: silver Aurelith rulers above a crystal city and a human rebellion below, divided by a Neodym sigil." width="720">
 </p>
 
+<p align="center">
+  <a href="assets/neodym-main-audio.mp3">▶ Listen to the Neodym main audio</a>
+</p>
+
 Neodym is an AI-assisted high-fantasy writing experiment set in Edrath, a mostly human world of kingdoms, border wars, faiths, roads, songs, ruins, old violence, and ordinary hunger.
 
 Beyond and between human lands exist the Aurelith: an ancient, elf-like civilization bound to Neodym, too advanced and too distant to be fully understood. They do not rule every village. They do not educate humanity. They do not explain themselves. Most humans live and die without ever seeing one.
@@ -40,6 +44,7 @@ book-one/manuscript/chapter-01-levy-bell.md
 
 ```text
 assets/neodym-cover.png
+assets/neodym-main-audio.mp3
 rework/
   00-thin-veil-manifesto.md
   01-current-problems.md
