@@ -4,6 +4,20 @@
 
 Neodym should look like a dark epic fantasy world where sacred empire, rare-earth mineral mysticism, archive mythology, and beautiful oppression have grown together for centuries. The Aurelith world is elegant, cold, silver, predictive, and inhumanly composed. Human life is warm, irregular, crowded, smoky, musical, and emotionally immediate.
 
+## Primary cover reference
+
+Use [`assets/neodym-cover.png`](../assets/neodym-cover.png) as the main visual anchor for future covers, repo imagery, concept prompts, and mood boards.
+
+Key motifs to preserve:
+
+- A high-contrast split between a cold, silver Aurelith city above and a hot, smoky human rebellion below.
+- Monumental crystal towers, suspended bridges, moons, hanging Neodym shards, and an ornamental silver sigil.
+- Immortal elf-like figures staged with ritual stillness, distance, and control.
+- Human rebels seen from below and behind, moving through ash, firelight, banners, crowds, and ruined streets.
+- Typography and ornament that feel carved from silver, old stone, and sacred geometry rather than modern branding.
+
+The reference image should guide composition and atmosphere, not freeze every design choice. New art can vary characters, locations, scale, and narrative moment as long as it keeps the same tension: beautiful immortal order above, mortal heat and danger below.
+
 ## Main color palette
 
 - **Neodym silver-blue:** luminous blue-silver used for sacred metal, memory light, archive seams, identity seals.
