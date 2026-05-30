@@ -40,6 +40,7 @@ Start here:
 
 ```text
 assets/
+  audio/
 archive/
 book-one/
   logic/
@@ -66,3 +67,7 @@ glossary.md
 ## Visual direction
 
 Book One should look like wet wool, candle wax, grave earth, ferries, chapel stone, river mud, iron keys, cheap ink, old ledgers, floodwater, and one unreachable white road in the distance.
+
+## Audio direction
+
+Main theme music and atmosphere notes live in [`assets/audio/`](assets/audio/README.md). The audio should feel human-scale, sacred-haunted, restrained, and atmospheric rather than heroic fantasy bombast.
