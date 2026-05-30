@@ -1,32 +1,65 @@
-# 24h writing workflow
+# Hourly writing workflow
 
-Suggested schedule: `0 6 * * *`.
+Suggested schedule: `0 * * * *`.
 
-## Daily priority order
+This workflow exists to prevent the old failure mode: framework, outline, and lore expansion replacing the actual manuscript.
 
-1. Read `book-one/owner-feedback.md`.
-2. Read `book-one/09-risk-register.md`.
-3. Read `book-one/logic/premise-logic-audit.md`.
-4. Read `book-one/logic/institutional-plausibility.md`.
-5. Read current manuscript chapters, if any.
-6. Identify the weakest logic, character, or causality problem.
-7. Fix that problem before adding prose.
-8. If the foundation is stable and chapters are missing, draft the next chapter.
-9. If chapters exist, improve or compress them.
-10. Update changelog, page budget, risk register, and manuscript status.
-11. Commit, push, and verify remote.
+## Hourly run order
 
-## Modes
+1. Read the repo state.
+2. Read `book-one/owner-feedback.md`.
+3. Read current manuscript chapters in `book-one/manuscript/`.
+4. Read `book-one/page-budget.md`, `book-one/daily-changelog.md`, and `book-one/cron/last-run-report.md` if present.
+5. Read Book One premise, plot, chapter, logic, character, and location files that exist.
+6. Recalculate manuscript word count directly from `book-one/manuscript/chapter-*.md`.
+7. Create a new audit note in `book-one/cron/audits/YYYY-MM-DD-HHMM-audit.md` before any other repo change.
+8. Make exactly one focused manuscript change.
+9. Update page budget.
+10. Update daily changelog.
+11. Update `book-one/cron/last-run-report.md`.
+12. Commit, push, verify remote, and stop.
+
+## Required audit format
+
+Each audit must include:
+
+- Run Goal
+- Repo Files Reviewed
+- Current Manuscript State
+- Grounded Logic Check
+- Human-First Check
+- Aurelith Thin-Veil Check
+- Candidate Changes Considered
+- Chosen Change
+- Why This Change
+- Files Expected To Change
+- Risks / Questions For Owner
+
+The audit must contain concise reviewable decision notes, not private chain-of-thought.
+
+## Valid modes
 
 Choose exactly one:
 
-- logic audit mode;
-- premise repair mode;
 - drafting mode;
 - revision mode;
+- logic repair mode;
 - compression mode;
-- continuity mode;
-- organization mode.
+- rewrite mode.
+
+Do not use framework mode unless the owner explicitly asks for framework work.
+
+## Primary success rule
+
+Every run must either:
+
+1. write a new manuscript chapter;
+2. revise an existing manuscript chapter;
+3. compress existing manuscript prose;
+4. fix a concrete logic flaw inside manuscript prose;
+5. rewrite a broken chapter from scratch.
+
+A run that only updates README files, indexes, character files, location files, lore files, planning notes, or framework documents is a failed run.
 
 ## Hard constraints
 
@@ -37,7 +70,8 @@ Choose exactly one:
 - No scene that exists only for atmosphere.
 - No prose expansion around unresolved structural logic.
 - Keep manuscript under 25,000 words.
+- Enter compression at 22,500 words, 90 pages, or any chapter more than 20% above target.
 
 ## Current next action
 
-Do one more logic audit of **The Ninth Candle**, then draft Chapter 1 only if the access, institution, and causality mechanisms still hold.
+Draft Chapter 2, `book-one/manuscript/chapter-02-the-missing-ninth.md`, only after creating the next hourly audit note.

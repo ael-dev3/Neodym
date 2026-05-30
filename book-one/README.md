@@ -4,9 +4,9 @@
 
 Book One has been restarted from the ground up. The prior levy-bell premise is archived under `archive/book-one-failed-levy-bell/` and is not live canon.
 
-Current mode: **logic-first foundation**.
+Current mode: **hourly audit-first drafting**.
 
-No Chapter 1 prose has been drafted for this new version yet. That is intentional. The premise must survive the logic audit before prose starts.
+Chapter 1 prose now exists for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
 ## Working title
 
@@ -40,14 +40,11 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **0**
-- Estimated manuscript pages: **0**
+- Drafted manuscript words: **2,036**
+- Estimated manuscript pages: **8.1**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 
 ## Next action
 
-Use the next run for either:
-
-1. owner feedback on the premise logic, or
-2. drafting Chapter 1 only if the logic files still pass skeptical review.
+Use the next run to create a fresh hourly audit, then draft Chapter 2: `book-one/manuscript/chapter-02-the-missing-ninth.md`.

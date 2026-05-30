@@ -1,9 +1,22 @@
 # Manuscript
 
-No new Book One chapter prose exists yet.
+Book One manuscript prose has begun for **The Ninth Candle**.
 
-The previous Chapter 1 was archived with the failed levy-bell direction. The new story must pass the logic-first audit before prose begins.
+## Current chapter files
 
-Next planned file, if approved by logic review:
+| Chapter | File | Words | Status |
+|---|---|---:|---|
+| 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
 
-- `chapter-01-the-fair-copy.md`
+## Current manuscript count
+
+- Total manuscript words: 2,036
+- Estimated pages: 8.1
+- Hard cap: 25,000 words / 100 pages
+- Compression mode: not active
+
+## Next planned file
+
+- `chapter-02-the-missing-ninth.md`
+
+Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

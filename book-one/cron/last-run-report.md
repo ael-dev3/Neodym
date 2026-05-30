@@ -1,36 +1,37 @@
 # Last run report
 
-## Date
+## Audit file created
 
-2026-05-31
+`book-one/cron/audits/2026-05-31-0140-audit.md`
 
-## Mode
+## What I did this hour
 
-Premise repair / logic audit.
+Drafted Chapter 1 of **The Ninth Candle**: `book-one/manuscript/chapter-01-the-fair-copy.md`.
 
-## What changed
+## Why I did it
 
-- Archived the failed levy-bell Book One direction.
-- Created a fresh Book One track: **The Ninth Candle**.
-- Added logic-first audit files.
-- Replaced Book One premise, setting, characters, plot outline, chapter beats, rules, themes, risk register, open questions, page budget, owner feedback, and manuscript status.
-- Updated the daily writing workflow to prioritize logic before prose.
+The required audit found no blocking logic failure. The restarted mechanism now has plausible access, motive, institutional custody, and causality, so the best next change was actual manuscript prose instead of more planning.
+
+## What to read next
+
+1. `book-one/cron/audits/2026-05-31-0140-audit.md`
+2. `book-one/manuscript/chapter-01-the-fair-copy.md`
+3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 0 of 12.
-- Current manuscript word count: 0.
-- Page estimate: 0.
-- Remaining words before hard cap: 25,000.
+- Drafted chapters: 1 of 12
+- Current manuscript word count: 2,036
+- Page estimate: 8.1
+- Remaining words before hard cap: 22,964
+- Compression mode: not active
 
-## What improved
+## Risks
 
-The protagonist's access now comes from job and institution. Elsbet can see the record because she is the chapel copyist. The antagonist needs her hand and seal chain because court procedure makes a clean fair copy useful. The central problem is human, local, and testable.
+- Chapter 1 is 336 words over target, but it is still below the 20% over-target compression trigger.
+- Wren needs to become present and emotionally vivid soon.
+- Future chapters must avoid repeating the rough-register/fair-copy explanation.
 
-## What remains weak
+## Suggested owner feedback
 
-Chapter 1 must prove the mechanism through action. If it opens with explanation, the restart will fail at the prose level even if the logic is sound.
-
-## Next recommended action
-
-Run one more skeptic audit, then draft `book-one/manuscript/chapter-01-the-fair-copy.md` if the mechanism still passes.
+Check whether Chapter 1 makes the record mechanism clear enough, whether Elsbet's voice works, and whether Chapter 2 should bring Wren on-page immediately.
