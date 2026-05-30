@@ -46,7 +46,7 @@ External Hermes cron job updated: `f6c43e8202cf`.
 - Schedule: `0 6 * * *`
 - Delivery: origin chat
 - Workdir: `/Users/marko/.openclaw/workspace/Neodym`
-- Skills: `worldbuilding-bible`, `github-pr-workflow`
+- Skills: worldbuilding guidance and GitHub workflow guidance
 
 ## Suggested owner feedback
 
