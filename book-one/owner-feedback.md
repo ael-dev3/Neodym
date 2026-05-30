@@ -1,101 +1,42 @@
-# Owner Feedback
+# Owner feedback
 
-This file tracks owner preferences, approved story direction, rejected ideas, and questions awaiting decision. Owner feedback wins over prior agent choices.
+Owner feedback wins over prior agent choices.
 
-## Confirmed owner preferences
+## Current confirmed direction
 
-- Book One / first novella should be short, intimate, rural, grounded, and human-perspective.
-- Target final manuscript length: 80–100 pages.
-- Hard cap: 100 pages / about 25,000 words.
-- The agent must improve the same novella over time, not endlessly expand it.
-- Quality problems should be solved by revision, compression, replacement, and sharpening before adding scenes.
-- Aurelith dominance should exist mostly as background pressure.
-- No Aurelith POV chapters.
-- No deep explanation of Aurelith society.
-- No grand rebellion arc for Book One.
-- No world-saving stakes.
-- Human technology should remain medieval / high fantasy.
-- Human discrimination should be shown through practical details, not speeches.
-- Elven power should feel distant, rare, mysterious, and socially unreachable.
-- Public docs should use guide/foundation/outline terminology rather than the avoided document-set label.
-- The provided cover art is the primary visual anchor for Neodym overall, but Book One visual prompts should stay small-scale rather than epic.
-- The agent has full creative agency to make the story as interesting as possible within the established constraints.
-- Do not wait for owner answers before improving the outline; make the strongest craft choice available, record assumptions clearly, and let the owner react while reading.
-- The owner wants Book One to become an actual written novella manuscript, not just an outline or planning file.
-- Daily work should now draft or revise manuscript prose whenever possible, while keeping the outline and support files in sync.
+- The current chapter felt uninteresting and too much like worldbuilding performance.
+- Random market activity should be reduced unless it drives plot, character, stakes, or theme.
+- Character introduction and description need to be stronger.
+- The point of the plot and theme must become clear earlier.
+- The repo was trying too hard to integrate the elven theme into every layer of society.
+- The elven layer should be thin as a veil.
+- Humans must keep full agency: wars, kingdoms, feuds, trade, religion, courts, peasants, knights, bandits, tyrants, fools, heroes, and disasters.
+- Elves should not educate humans in any broad or systematic way.
+- Elves should not administer every village or correct every human mistake.
+- The Aurelith should feel like a vastly advanced civilization sharing a world with a much less advanced species, not fantasy schoolmasters.
+- Aurelith influence should be subtler, rarer, more realistic, and harder for humans to interpret.
+- Book One must become interesting as a human story first.
 
-## Approved story direction unless changed
+## Active Book One replacement
 
-- Working Book One concept: **The Bell on Starvel Hill**.
-- Main character: Nera Brindle, a low-born village letter-reader and toll scribe.
-- Setting: Low Wicker, a rural sheep valley in the Wickerlow Hearthmarch.
-- Central plot engine: Pell Quick is marked by silver law after singing an old bridge song near Starvel Hill.
-- Core conflict: save a child and preserve a human custom without turning the story into a rebellion epic.
-- Ending direction: Pell is spared from immediate correction, the bridge record is corrected locally, the song survives in hidden form, and the larger order remains intact.
+Working title: **The Field Where No Banners Go**.
 
-## Rejected or deprioritized directions
+Active premise: Nera Brindle, a low-born village letter-reader, must carry proof of a false human war levy before Pell Quick is taken into a lord's border war. The Aurelith layer is Starvel Field, an old boundary no banner crosses. No elf needs to appear on page.
 
-- Prior active urban/city novella scope around Selachor, Moon Vault infiltration, mass arrests, and a public uprising symbol.
-- Aurelith dissident as a main companion for Book One.
-- Large archive-city visuals for Book One prompts.
-- Grand explanation of Neodym, prophecy engines, Mirror Choir mechanics, or Aurelith political structure.
-- Adding new factions, races, regions, or lore for flavor.
+## Rejected or deprecated direction
 
-## Names the owner likes
+The prior Bell on Starvel Hill version is no longer live canon. Its Name-Iron, silver-law case, mirror-pillar, and direct Aurelith legal machinery are archived in `archive/book-one-old-bell-on-starvel-hill.md`.
 
-Pending owner feedback.
+Salvageable from the old direction:
 
-## Names the owner dislikes
+- Low Wicker's rural texture.
+- Nera as a low-born reader/scribe.
+- Pell as a hungry orphan child worth saving.
+- Osa, Auma, Bruk, and Joryn as grounded human-scale figures.
+- Starvel as a forbidden landmark, now much subtler.
 
-Pending owner feedback.
+## Standing quality bar
 
-## Themes to emphasize
+Make the story interesting first. Make the elves subtle second. Let theme emerge third.
 
-- Human warmth under immortal pressure.
-- Local custom versus unreadable law.
-- Memory carried through song, bread, tolls, and records.
-- Human second-class status in daily life.
-- Survival versus dignity.
-- Small moral victories.
-- Power made more frightening by being unexplained.
-
-## Themes to reduce
-
-- Open rebellion.
-- Epic destiny.
-- Lore mastery.
-- Technical explanation.
-- Clean hero/villain binaries.
-- Modern political speech patterns.
-
-## Scenes to keep
-
-- Market song waking Starvel Hill.
-- Moot-house edict and mirror-pillar.
-- Split Loaf debate over Pell's fate.
-- Chapel register and Saint Orra's hidden memory.
-- Bruk reading the moved road stones.
-- Osric mill confrontation.
-- Osa hiding Pell under oven stones.
-- Judgment at Saint Orra's bridge.
-- Nera copying the full song into a false flour account.
-
-## Scenes to cut or compress if needed
-
-- Any repeated clue-search scene.
-- Any long explanation of Starvel Hill.
-- Any excessive village debate with too many side characters.
-- Any Aurelith appearance beyond distant social pressure.
-- Any visual spectacle that makes the story feel larger than Low Wicker.
-
-## Questions awaiting owner decision
-
-These questions are steering hooks, not blockers. If no owner answer exists, the agent should choose the option that makes the novella more specific, emotionally sharp, locally grounded, and readable under the page cap.
-
-1. Preferred title?
-2. Single POV only, or include human document fragments?
-3. Keep Bruk as Cairnkin outsider, or make the outsider human?
-4. Nera leaves Low Wicker or stays?
-5. Draft the Bridge-Bell Rhyme next?
-6. Should Pell be 12, older, or younger?
-7. Should the Silver Rider speak one line, or remain completely silent?
+Do not redesign forever. After this rework, daily passes should continue drafting and revising the same novella unless owner feedback redirects it.

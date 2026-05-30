@@ -1,23 +1,16 @@
-# Manuscript Revision Log
+# Manuscript revision log
 
-## 2026-05-30 — Drafted Chapter 1: Market Bell
+## 2026-05-30 - Replaced Chapter 1 for thin-veil rework
 
-- Mode: drafting.
-- Files changed:
-  - `book-one/manuscript/00-title-page.md`
-  - `book-one/manuscript/00-manuscript-status.md`
-  - `book-one/manuscript/00-prose-style-guide.md`
-  - `book-one/manuscript/00-continuity-notes.md`
-  - `book-one/manuscript/00-revision-log.md`
-  - `book-one/manuscript/chapter-01-market-bell.md`
-  - `book-one/page-budget.md`
-  - `book-one/daily-changelog.md`
-  - `book-one/owner-feedback.md`
-  - `README.md`
-- Chapter worked on: Chapter 1, `Market Bell`.
-- Words added: 1,937.
-- Words removed: 0.
-- Net manuscript change: +1,937 words.
-- Current manuscript word count: 1,937 words.
-- Current manuscript page estimate: 8 pages.
-- Result: first actual prose chapter drafted; manuscript support files created.
+- Mode: rework and drafting.
+- Archived old Book One direction in `archive/book-one-old-bell-on-starvel-hill.md`.
+- Removed the old live `chapter-01-market-bell.md` after archiving it.
+- Drafted new Chapter 1: `chapter-01-levy-bell.md`.
+- Words added in new live Chapter 1: 1,746.
+- Words removed from live manuscript count: 1,937 old-direction words.
+- Net live manuscript reset: new direction begins at 1,746 words.
+- Current manuscript page estimate: 7 pages.
+- What improved: the opening now starts with Nera acting under pressure, Pell's stakes are immediate, the conflict is human, and the Aurelith layer is reduced to Starvel Field as an unexplained boundary.
+- What remains weak: Chapter 2 must make the dead carter's letter and Pell's witness emotionally credible without turning the plot into exposition.
+
+- Added a short Pell/Nera relationship memory so the levy threat lands emotionally before the letter arrives. Current Chapter 1 count: 1,746 words.

@@ -1,148 +1,90 @@
-# 02 — Characters
+# 02 - Characters
 
-## Cast size rule
+## Cast rule
 
-Keep the cast small enough for an 80–100 page novella. No new major factions. No elven point of view. The Aurelith presence should remain distant, socially unreachable, and mostly unnamed.
+Keep the cast small. Every named character should tighten the human conflict around Nera, Pell, the letter, the levy, or Starvel Field's taboo.
 
-## Protagonist — Nera Brindle
+## Nera Brindle
 
-**Role:** Low-born village letter-reader, toll scribe, and baker's assistant.
+Role: low-born village letter-reader, toll scribe, and baker's assistant.
 
-**Age:** 24.
+Age: 24.
 
-**Social position:** Useful but small. She reads for others, writes for others, and is trusted with secrets that do not make her powerful.
+Want: keep Pell off the levy roll today, then get the dead carter's letter to someone with enough authority to stop the levy.
 
-**Practical strengths:** Memory, handwriting, local knowledge, stubborn loyalty, dry humor, ability to hear when someone is leaving out the important part.
+Need: stop confusing survival with silence. Nera is good at making words safer. This story forces her to make words dangerous on purpose.
 
-**Flaw:** Nera thinks keeping quiet is the same as keeping people safe. She has survived by trimming truths into acceptable shapes, and this habit causes real harm when Pell needs someone to speak plainly.
+Strengths:
 
-**Wound:** Her mother taught her the Bridge-Bell Rhyme and later died after being questioned for singing at a funeral without approval. Nera remembers the song as love and danger in the same breath.
+- quick reading
+- careful handwriting
+- practical memory
+- knowing what people leave unsaid
+- dry courage that appears only after fear has done its work
 
-**Want:** Save Pell without destroying the village's fragile peace.
+Flaw: she trims truth to protect people, even when the trimmed truth becomes someone else's rope.
 
-**Need:** Understand that a custom can be worth defending even when defending it makes life harder.
+## Pell Quick
 
-**Arc:** Nera begins as a careful local fixer who believes survival depends on knowing what not to say. She ends as someone willing to say one small forbidden truth in public, not to start a rebellion, but to stop a child from being swallowed by a lie.
+Role: orphaned errand boy, thirteen, unofficial younger brother to Nera.
 
-## Human companion — Pell Quick
+Want: not to be useless, not to be left behind, not to be taken by men who call him old enough only when they need a body.
 
-**Role:** Orphaned bell-runner, errand child, unofficial apprentice to everyone.
+Function: Pell makes the levy personal. He is not magical, chosen, royal, or secretly important. He matters because Nera loves him and because human systems eat boys like him first.
 
-**Age:** 12.
+Object: a cracked handbell tied with red wool, kept from his old bell-runner days. In the new direction it is personal, not a magical trigger.
 
-**Function:** Pell is not a chosen child. He is quick, funny, hungry, nosy, and careless with songs. He knows every shortcut and repeats adult phrases at the worst possible time.
+## Osa Fen
 
-**Why he matters:** Pell's marking makes the valley choose between a child and its winter security.
+Role: owner of the Split Loaf, baker, widow, and Nera's hard practical guardian figure.
 
-**Arc:** Pell starts by treating rules as obstacles in a game. By the end, he understands enough fear to become quieter, but not enough to lose his spark.
+Belief: people survive lords by bending early enough that they do not break.
 
-**Object:** A cracked handbell tied with red wool, stolen from the chapel refuse pile and treated as treasure.
+Arc: Osa begins by urging caution and hiding bread. She later risks her ovens and license to hide Pell and the letter.
 
-## Human authority collaborator — Reeve Halven Marr
+## Osric Venn
 
-**Role:** Human reeve of Low Wicker, keeper of taxes, bridge order, and local obedience.
+Role: local debt-holder, bailiff's man, and human antagonist.
 
-**Public face:** Polite, tired, fair when fairness is cheap.
+Motive: war can make his house rich and cancel debts that shame him. He would not call himself evil. He would call himself practical.
 
-**Private pressure:** His grain allotment, road license, and daughter's medicine depend on the district remaining obedient.
+Function: puts human greed at the center of the plot. He uses fear of border raids and old taboos to make a false levy feel lawful.
 
-**Function:** He enforces elven law without understanding all of it. He is not cruel by taste. He is cruel by arrangement.
+## Joryn Hale
 
-**Arc:** Halven wants Pell spared but not enough to risk the whole valley until Nera forces the lie into public view.
+Role: local guard with a poor man's oath to richer men.
 
-## Ordinary human who benefits from the order — Osa Fen
+Motive: keep order, keep his mother fed, and avoid making a brave choice until Nera leaves him no room.
 
-**Role:** Owner of the Split Loaf, widowed innkeeper, village baker.
+Function: gives enforcement a familiar face. He is not cruel by taste, but he carries orders that are cruel in effect.
 
-**Belief:** The roads are safer under silver law. Bread arrives. Plague carts stopped coming. Her dead husband might have lived if older human lords had been as orderly.
+## Sister Auma
 
-**Function:** Osa voices the ordinary human fear of disorder without becoming a villain. She loves Pell and still considers surrendering him.
+Role: keeper of Saint Orra's chapel.
 
-**Arc:** She moves from cautious obedience to one costly mercy: hiding Pell for one night under the oven stones while pretending not to know where he is.
+Knowledge: old witness customs, chapel roads, and which oaths still frighten human nobles.
 
-## Marginalized outsider — Bruk of the Low Cairns
+Function: gives Nera a route and a moral frame without solving the plot.
 
-**Role:** Cairnkin stone-mender and knife-sharpener who repairs boundary stones, mill wheels, and oven lintels.
+## Bruk of the Low Cairns
 
-**Social position:** Needed, mistrusted, underpaid. People call him when stone cracks and blame him when old things wake.
+Role: Cairnkin stonemender and road guide.
 
-**Knowledge:** He can read stone wear, flood shifts, and old road beds better than any human clerk.
+Knowledge: roadbeds, burn marks, old boundary stones, and how human fear settles into paths.
 
-**Function:** Bruk proves that the bridge moved and the legal record did not. He also shows how discrimination travels downward: humans oppressed by silver law still find someone lower to suspect.
+Function: helps prove the fire and route are human-made. Also shows that humans under pressure still find someone lower to blame.
 
-**Arc:** He begins ready to leave the valley to its own fear. He stays because Pell once shared bread with him without asking whether Cairnkin eat the same prayers.
+## Reeve Halven Marr
 
-## Local antagonist — Osric Venn
+Role: human reeve of Low Wicker.
 
-**Role:** Miller, debt-holder, and informal leader of families who need the road reopened.
-
-**Understandable motive:** If the bridge stays closed, flour rots, sheep miss market, and his sick wife loses access to medicine from the district store. He believes one child's fate cannot outweigh the whole valley.
-
-**Secret:** Osric helped move the toll marks after the flood because the old crossing ruined mill access. He did not think the song-boundary mattered until the beacon answered.
-
-**Function:** He frames the conflict in practical terms: winter bread versus Pell.
-
-**Arc:** Osric does not become good. He becomes honest enough to admit the bridge was moved, but only after Nera makes silence more dangerous than confession.
-
-## Person who knows more than they can safely say — Sister Auma
-
-**Role:** Chapel keeper of Saint Orra, former road-singer, old enough to remember three versions of the bridge.
-
-**Knowledge:** The Bridge-Bell Rhyme was once protected by human custom and quietly tolerated by higher law, but only when sung at the old boundary.
-
-**Restriction:** She has already been warned once for preserving unapproved songs. If she testifies directly, the chapel may lose its license to bury and marry.
-
-**Function:** Gives Nera fragments, not answers: a saint tile, a half-burned register, and the warning that some songs are safer when broken.
-
-## Distant Aurelith presence — The Silver Rider
-
-**Role:** A silent Aurelith official or messenger glimpsed twice.
-
-**Rule:** Do not enter their point of view. Do not explain their role, rank, society, or intent.
-
-**Surface description:** A tall silver figure on a pale horse or horse-like thing, moving with ritual stillness. Their cloak does not stir in the same wind as everyone else's. Humans step off the road before anyone tells them to.
-
-**Function:** Embodies unreachable power. The rider's presence changes human behavior more than any speech could.
-
-## Human clerk — Senn Tor
-
-**Role:** District clerk sent from Bramble Gate to read the edict and record the judgment.
-
-**Function:** He is the mouth of law that is not his own. He can read enough silver script to fear errors, not enough to interpret mercy.
-
-**Personality:** Thin, precise, frightened of stains on parchment.
-
-## Guard captain — Joryn Hale
-
-**Role:** Local watch captain, once Nera's friend.
-
-**Function:** Puts a familiar face on enforcement. He would rather bind Nera's hands gently than let a stranger break them.
+Function: local authority who wants the levy to pass quietly because he fears retaliation more than shame.
 
 ## Character relationships
 
-- Nera and Pell: sibling-like, affectionate, often exasperated. Pell trusts Nera because she reads him letters from a mother he barely remembers.
-- Nera and Osa: family by work, not blood. Osa raised Nera through ovens and warnings.
-- Nera and Halven: wary respect. He relies on her literacy but resents her memory.
-- Nera and Bruk: mutual suspicion becoming practical trust.
-- Nera and Sister Auma: teacher/student with too many unsaid things.
-- Nera and Osric: local familiarity curdled by pressure; they have shared tables, debts, and funerals.
-
-## Names to protect for now
-
-Likely keep:
-
-- Nera Brindle
-- Pell Quick
-- Low Wicker
-- Starvel Hill
-- Saint Orra's bridge
-- The Split Loaf
-- Bridge-Bell Rhyme
-
-Names that can change if the owner dislikes them:
-
-- Halven Marr
-- Osa Fen
-- Osric Venn
-- Bruk of the Low Cairns
-- Sister Auma
+- Nera and Pell: sibling-like loyalty, scolding as love, fear hidden as irritation.
+- Nera and Osa: work-family, affection built from bread and warnings.
+- Nera and Joryn: old friendship bent under oath and class.
+- Nera and Sister Auma: wary trust, both know the cost of speaking too clearly.
+- Nera and Bruk: practical alliance through shared exclusion.
+- Nera and Osric: familiar local contempt, sharpened by what he is willing to spend for advancement.

@@ -1,99 +1,49 @@
-# Glossary of Neodym Terms
+# Glossary of Neodym terms
 
-## Peoples and powers
+## World and peoples
 
-- **Aurelith:** immortal elf-like people associated with Neodym, memory, prophecy, and beautiful custodial rule.
-- **The Quiet Concord:** ruling Aurelith order and central imperial authority.
-- **Silverbloods / Quiet Ones / Perfected:** human names for the Aurelith.
-- **Humans:** mortal, creative, emotional, spiritually intense peoples under Concord protection and suppression.
-- **Cairnkin:** subterranean miners and stone jurists poisoned by Neodym exposure.
-- **Vharakul:** horned border people serving as treaty-bound soldiers and monster hunters.
-- **Thallor:** fungal memory-people whose root-minds remember pre-Concord history.
-- **Dravyr:** dragonlike furnace beings reduced to relics, heartfire, and sacred prisoners.
-- **Eirrem:** ghost race born from failed immortality experiments and memory catastrophe.
-- **Nacren:** sea people whose tide-dreaming resists land-bound prediction.
-- **Caltrow Kith:** trickster pattern-breakers who confuse prophecy and trade in impossible favors.
+- Edrath: the world of Neodym, currently developed as a mostly human high-fantasy setting.
+- Humans: the main historical force in most human lands. Humans govern, fight, pray, trade, oppress, rescue, and ruin each other without needing constant Aurelith management.
+- Aurelith: ancient elf-like civilization bound to Neodym and distant from ordinary human affairs. Rarely seen, poorly understood, and often misread.
+- Cairnkin: stonewise mountain and low-cairn peoples, needed for roads and bridges, often mistrusted by humans.
+- Vharakul: horned border peoples with herding, soldiering, and treaty traditions.
+- Thallor: strange forest peoples tied to root memory and wet old places.
+- Dravyr: dragonlike furnace beings, mostly known through relic, ruin, and legend.
+- Eirrem: ghostly remnants tied to failed rites or memory disasters.
+- Nacren: sea peoples with tide customs and maritime law.
+- Caltrow Kith: trickster market folk of rumor, bargains, and impossible roads.
 
-## Materials and magic
+## Aurelith and Neodym
 
-- **Neodym:** sacred rare metal that stores memory, influences motion, strengthens oaths, and powers Aurelith infrastructure.
-- **Moonbone:** raw Neodym ore, especially in human and Cairnkin slang.
-- **Brightstone:** Neodym growth in Cairnkin bodies caused by poisoning and prophetic exposure.
-- **The Mnemonic Loom:** scholarly name for magic arising from memory, desire, matter, and mortality.
-- **Bloodsong:** forbidden human magic using breath, grief, heartbeat, ancestry, and mortal risk.
-- **Fate arithmetic:** Aurelith calculation of likely futures through memory, omen, and motion.
-- **Drift:** Aurelith identity decay caused by unstable immortal memory.
-- **Grief burn:** life-shortening cost of powerful Bloodsong.
-- **Name thinning:** identity damage from excessive sealwork.
+- Neodym: rare elder substance associated with Aurelith works. Humans call it moonbone, white stone, witch-silver, or saint-metal depending on region.
+- Moonbone: common human slang for pale Neodym ore or anything suspected of being Aurelith-made.
+- Thin veil: the new canon model for Aurelith influence. They shape edges, boundaries, myths, and rare artifacts rather than daily village life.
+- Contact levels: scale for Aurelith presence, from Level 0 no contact to Level 5 direct intervention.
+- Starvel Field: a forbidden upland boundary near Low Wicker where no human banner is raised and no army willingly crosses.
+- White stones: old boundary markers at Starvel Field. Humans disagree whether they mark treaty, curse, warning, or something else.
 
-## Archives and governance
+## Human institutions
 
-- **Moon Vaults:** Aurelith memory archives housed in crystal, silver, and black stone.
-- **Star-Ledgers:** official records of births, deaths, debts, crimes, and prophecies.
-- **Mirror Choir:** surveillance network of mirrors, still water, listening statues, seals, and informants.
-- **Name-Irons:** identity seals recording name, status, travel rights, debts, and risk marks.
-- **Orrery Courts:** prophecy chambers where Aurelith calculate lawful futures.
-- **Mercies:** official Concord decrees, always framed as protection.
-- **Measure Day:** child testing ritual at ages seven, twelve, and seventeen.
-- **The Unlit Seat:** secret ninth authority or office of catastrophic judgement within the Concord.
-- **Still Cantors:** logic-priests who sing doctrine, law, and pacification rites.
+- Wickerlow Hearthmarch: damp sheep, barley, and border-road region where Book One begins.
+- Low Wicker: small village in the Hearthmarch, pressed by human war, toll roads, and old taboos.
+- Bramble Gate road: human road used by drovers, tax riders, pilgrims, smugglers, and levy men.
+- The Split Loaf: bakehouse and inn in Low Wicker.
+- Saint Orra's chapel: local chapel tied to road blessings, witness oaths, and poor burials.
+- Levy roll: list of names a lord's men can take for war service.
+- Tithe barn: stored grain owed to church, lord, or both, depending on local law and whoever has armed men nearby.
+- Banner truce: local custom of lowering or refusing banners near Starvel Field.
 
-## Factions
+## Current Book One terms
 
-- **Silver Preservers:** hardline Aurelith preservationists.
-- **Veiled Reformers:** Aurelith who support gradual human self-rule.
-- **Orrery Hands:** prophecy engineers who trust calculation above conscience.
-- **Moon Archivists:** keepers of memory vaults.
-- **Ivory Quiet:** Aurelith military enforcers.
-- **Mercy Heresy:** Aurelith human-sympathizers who believe love requires risk.
-- **Hollow Crown:** Aurelith isolationists.
-- **Final Clarifiers:** extremists who want to merge, transform, or erase humanity.
-- **Sealed Houses:** privileged human collaborator families.
-- **Emberwake:** decentralized human-led resistance.
-- **Red Loom:** Bloodsong teachers.
-- **Unsealed Hand:** smugglers of identity papers, memories, and forbidden routes.
-- **Ash Synod:** anti-Neodym zealots willing to destroy infrastructure.
-- **Ledger Houses:** merchant powers controlling trade, grain, ore, and medicine.
+- The Field Where No Banners Go: current working title for Book One.
+- Nera Brindle: low-born letter-reader, toll scribe, and baker's assistant.
+- Pell Quick: orphaned errand boy at risk of being taken into a lord's levy.
+- Osa Fen: owner of the Split Loaf and Nera's hard practical guardian figure.
+- Osric Venn: local debt-holder and bailiff's man tied to the false levy.
+- Joryn Hale: local guard with a decent heart and a bad oath.
+- Sister Auma: chapel keeper who knows old border customs.
+- Bruk of the Low Cairns: Cairnkin stonemender and road guide.
 
-## Regions
+## Deprecated direction
 
-- **Edrath:** the world/continent of the setting.
-- **Cyr Veyr:** Aurelith archive-capital carved into a crescent mountain.
-- **Selachor:** model human city of measured bread and mirror wells.
-- **Rustvale:** mining region around the Hollow Moon Mines.
-- **Hollow Moon Mines:** major Neodym mines beneath Rustvale.
-- **Morrowfen:** Thallor drowned forest where prediction decays.
-- **Gravewind Marches:** Vharakul border grasslands and monster roads.
-- **Unnumbered Sea:** Nacren waters outside clean Concord prediction.
-- **Blank Kilns:** white ash ruins where memory fails and Eirrem drift.
-- **Cinder Crowns:** volcanic Dravyr heartfire range.
-- **Glassmeadow:** wealthy collaborator province.
-- **Redroot Warrens:** rebel tunnels and catacombs beneath old human cities.
-- **Star Roads:** ancient elevated roads with mirror tolls and ghost-lanterns.
-- **Jester Markets:** temporary Caltrow black markets under impossible bridges.
-
-## History and religion
-
-- **The First Stillness:** official Aurelith creation principle.
-- **The Laughing Flame:** forbidden human creation force of change and mortal fire.
-- **Meyr:** edited god of grief, forgotten names, and ungoverned memory.
-- **The Sky Fever:** ancient magical catastrophe used to justify Aurelith rule.
-- **Age of Guidance:** period when Aurelith helped rebuild human civilization.
-- **Mercy of Chains:** decree transforming guidance into permanent custodianship.
-- **White Census:** first continent-wide identity sealing.
-- **Red Choir Rebellion:** major failed Bloodsong uprising.
-- **Quiet Plague:** Aurelith emotional numbness crisis.
-- **The Wrong Prophecy:** present crisis proving the Orreries can fail.
-
-## Objects, weapons, and rituals
-
-- **Neodym blade:** refined silver-blue weapon capable of cutting memory bonds.
-- **Mirror veil:** Aurelith face covering used by judges and priests.
-- **Candle code:** rebel system of wax color, smoke scent, and wick length.
-- **Closed song:** message hidden in melody, opened only by shared grief or secret rhythm.
-- **Soul-ledger:** forbidden record binding living or dead identity fragments.
-- **Archive key:** Neodym tool that opens sealed memory shelves.
-- **Anti-prophecy charm:** Caltrow or human object designed to disrupt predicted patrols.
-- **Ash wedding:** rebel marriage rite sung over burnt bread.
-- **Salt Unnaming:** Nacren ritual hiding a person from land-bound seals.
-- **Clarification:** Aurelith reproduction or transformation rite using Neodym and curated memory.
+The earlier Book One direction used Name-Irons, a mirror-pillar, silver law, and a bridge-song legal case. That version is archived in `archive/book-one-old-bell-on-starvel-hill.md` and is no longer live Book One canon.

@@ -1,5 +1,48 @@
 # Daily Changelog
 
+## 2026-05-30 - Thin-veil repo rework and Chapter 1 replacement
+
+**Mode:** repo rework and drafting.
+
+**Files changed:** README, rework guide files, world files, story outlines, glossary, visual prompts, Book One premise/setting/characters/outline/beats/rules/themes/questions, owner feedback, page budget, manuscript support files, archive, and Chapter 1.
+
+**Chapter worked on:** Chapter 1 - Levy Bell.
+
+**Words added:** 1,746 new-direction manuscript words.
+
+**Words removed:** 1,937 old-direction live manuscript words after archiving.
+
+**Net live manuscript change:** reset to 1,746 words for the replacement Book One direction.
+
+**Current manuscript word count:** 1,746 words.
+
+**Current manuscript page estimate:** 7 pages at 250 words/page.
+
+**Distance from 25,000-word hard cap:** 23,254 words.
+
+**What improved:**
+
+- Reframed Neodym as a human-first fantasy world with distant, rare Aurelith influence.
+- Removed the old active elf-law machinery from live Book One canon.
+- Replaced the market-bell opening with a sharper human conflict: a levy roll, a boy at risk, a burned barn, and a hidden letter.
+- Added a small Pell/Nera memory beat so the reader knows why this boy matters before the plot turns.
+- Created `rework/` guidance so future passes do not drift back into Aurelith village administration.
+
+**What remains weak:**
+
+- The new plot still needs Chapter 2 to prove the false fire cleanly and make Pell more emotionally specific.
+- Starvel Field needs to stay mysterious without becoming decorative.
+- Osric needs human motive and pressure, not simple villain posture.
+
+**Questions for the owner:**
+
+1. Is **The Field Where No Banners Go** stronger than the previous title direction?
+2. Does the new first page make Nera's desire and Pell's danger clear enough?
+3. Should Starvel Field ever visibly react, or should it remain entirely human-interpreted?
+4. Should the climax happen at the field edge or in a human chapel/court?
+
+---
+
 Each daily improvement pass should add a new entry at the top of this file.
 
 Required fields:
@@ -42,11 +85,13 @@ Required fields:
 
 **Net word-count change:** +1,937 manuscript words.
 
-**Current manuscript word count:** 1,937 words.
+**Current manuscript word count:** 1,937 words at the time of that draft.
 
-**Current manuscript page estimate:** 8 pages at 250 words/page.
+**Current manuscript page estimate:** 8 pages at the time of that draft.
 
-**Distance from 25,000-word hard cap:** 23,063 words.
+**Distance from 25,000-word hard cap:** 23,063 words at the time of that draft.
+
+**Archive note:** This old Market Bell direction was superseded and archived by the thin-veil rework above.
 
 **What improved:**
 

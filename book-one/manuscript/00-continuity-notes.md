@@ -1,35 +1,34 @@
-# Continuity Notes
+# Continuity notes
 
 Last updated: 2026-05-30
 
-## Established in Chapter 1
+## Established in new Chapter 1
 
-- Opening date/state: market morning at Saint Orra's bridge, under threat of rain, before a sealed official arrives from Bramble Gate road.
-- Nera Brindle is marking tolls with wax, chalk strokes, bread tokens, and scraps of parchment.
-- Pell Quick carries a cracked chapel handbell tied with red wool.
-- Pell's Name-Iron is loose on his left wrist before the incident.
-- Low Wicker people keep to the muddy lower road even when the pale upper road is empty because it belongs to sealed traffic.
-- People joke that mud is for humans, showing discrimination as habit and protective humor.
-- Osa Fen has approved song cards wrapped in oilcloth under the Split Loaf bread cart.
-- Pell sings safe Bridge-Bell Rhyme lines first, then the dangerous last verse.
-- Dangerous last-verse fragment currently drafted:
-  > Three white stones and one gone black, / turn the little children back. / Where the flood took Orra's shoe, / keep your bells from silver-blue.
-- Starvel Hill responds with a cold blue-silver hum and light inside the cloud.
-- Pell's Name-Iron tightens/chills and leaves a pale ring on his wrist.
-- The sealed horn sounds from the upper road before and after the hill response.
-- The moot-house bell rings by itself at the chapter end.
+- Book One now opens in the Split Loaf bakehouse before dawn during a human war levy.
+- Nera Brindle is scraping Pell Quick's name off the levy roll before Lord Venn's men arrive.
+- Pell Quick is thirteen, orphaned, and at risk of being taken for war service.
+- Pell's mother left him a letter that began, "My brave little rat"; Nera read it to him for years, grounding their bond in letters rather than blood.
+- Osa Fen owns the Split Loaf and warns Nera that forging the roll can hang her.
+- Joryn Hale is a local guard who recognizes the scrape and quietly urges Nera to hide Pell.
+- Osric Venn arrives with riders, carts, and Lord Venn's bronze boar sign.
+- The levy is justified by a burned tithe barn and alleged Ashmere raiders.
+- Starvel Field is visible above Low Wicker as a pale forbidden boundary with white stones.
+- Even Venn's riders keep their banner lowered near the north road.
+- Pell appears with ash on him and a dead man's boot containing a bloodstained letter.
+- The letter begins: "If I am found burned, look to Venn's own."
 
-## Continuity to protect in later chapters
+## Continuity to protect
 
-- Do not over-explain why the hill answered. Let the village argue from fear, rumor, law, and practical consequences.
-- The mirror-pillar should not become a moral truth machine. It reacts narrowly to record-truth and legal framing.
-- Nera should feel guilty because she knows the verse from her mother and warned Pell too late.
-- Pell should remain funny and lovable but not chosen, prophetic, or secretly powerful.
-- The Bridge-Bell Rhyme should assemble gradually. Do not reveal every historical function at once.
-- The sealed official/Silver Rider should remain distant and socially unreachable.
+- The main conflict is human: a false levy, a burned barn, a hidden letter, and a boy at risk.
+- Starvel Field should remain unexplained and should not solve the human conflict.
+- Pell's cracked bell may remain a personal object, not a magical trigger.
+- Nera's flaw is trimming truth to keep people safe.
+- Osa's caution should feel loving and credible, not cowardly filler.
+- Joryn should remain morally pressured, not cleanly heroic.
+- Osric should be practical and threatening, not theatrical.
 
 ## Current weak spots to watch
 
-- Chapter 2 must convert the strange event into law without dumping lore.
-- The exact legal wording around Pell's mark should stay frightening but partially unreadable.
-- Keep the road closure economically concrete: sheep, flour, medicine, winter bread.
+- Chapter 2 must deepen Pell as a person, not just a witness.
+- The false-fire proof needs clear, physical human evidence.
+- The route around Starvel Field must stay tense without overexplaining the Aurelith.

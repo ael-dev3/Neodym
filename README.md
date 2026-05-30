@@ -4,79 +4,84 @@
   <img src="assets/neodym-cover.png" alt="Neodym cover art: silver Aurelith rulers above a crystal city and a human rebellion below, divided by a Neodym sigil." width="720">
 </p>
 
-Neodym is an AI-assisted fantasy worldbuilding, visual development, and creative writing experiment. It is built as a public foundation for a first world guide, story guide, visual development guide, and prompt library.
+Neodym is an AI-assisted high-fantasy writing experiment set in Edrath, a mostly human world of kingdoms, border wars, faiths, roads, songs, ruins, old violence, and ordinary hunger.
 
-The premise: the world of **Edrath** is shaped by the **Aurelith**, an ancient elf-like people bound to the sacred rare metal **Neodym**. Their towers, memory vaults, moonlit courts, and prophecy engines have ended many human wars, famines, and magical disasters. They have also made humanity into a protected subject species, measured by identity seals, watched by silver mirrors, educated through edited histories, and prevented from becoming fully free.
+Beyond and between human lands exist the Aurelith: an ancient, elf-like civilization bound to Neodym, too advanced and too distant to be fully understood. They do not rule every village. They do not educate humanity. They do not explain themselves. Most humans live and die without ever seeing one.
 
-At the heart of the project is one dramatic question:
+But the Aurelith still change the shape of the world. Their forbidden roads, silent towers, old treaties, impossible artifacts, and roadless territories press on human history like a mountain presses on weather. Human kings fear them the way coastal kings fear the sea: not as daily rulers, but as powers that can erase plans, borders, and armies if misunderstood.
 
-> Should humanity remain safe beneath immortal intelligence, or reclaim a dangerous freedom that may destroy the world again?
+Book One introduces the world through a small human story, not through lore.
 
-This material is early-stage and evolving. The world guide and outlines remain the canon foundation, and Book One is now also being drafted as actual novella manuscript prose under `book-one/manuscript/`.
+## Current direction
 
-## Proposed initial file structure
+The project has been reworked toward a thin-veil model:
+
+- Human societies have full agency.
+- Human wars, courts, faiths, crimes, taxes, prejudices, and ambitions drive most stories.
+- Aurelith influence is rare, subtle, mythic, environmental, or elite-facing.
+- The Aurelith are frightening because they are distant and not emotionally available to humans.
+- Human characters often misread Aurelith signs, ruins, and silences.
+- The world should feel like a living fantasy setting, not a village-level elf administration system.
+
+## Reading order
 
 ```text
 README.md
-assets/neodym-cover.png
+rework/00-thin-veil-manifesto.md
 world/00-high-concept.md
-world/01-cosmology.md
-world/02-races.md
-world/03-magic-system.md
-world/04-politics.md
-world/05-history.md
-world/06-geography.md
-world/07-religion.md
-world/08-technology-and-infrastructure.md
-world/09-conflicts.md
-story/novella-outline.md
-story/novel-outline.md
-story/saga-outline.md
-characters/archetypes.md
-characters/major-characters.md
 glossary.md
-visual-prompts/style-guide.md
-visual-prompts/characters.md
-visual-prompts/races.md
-visual-prompts/locations.md
-visual-prompts/artifacts.md
-visual-prompts/factions.md
-visual-prompts/maps.md
-visual-prompts/key-scenes.md
-visual-prompts/concepts.md
 book-one/00-premise.md
-book-one/01-setting.md
-book-one/02-characters.md
 book-one/03-plot-outline.md
-book-one/04-chapter-beats.md
-book-one/05-human-perspective-rules.md
-book-one/06-small-scale-worldbuilding.md
-book-one/07-unexplained-elven-presence.md
-book-one/08-themes.md
-book-one/09-visual-prompts.md
-book-one/10-open-questions.md
-book-one/page-budget.md
-book-one/daily-changelog.md
-book-one/owner-feedback.md
-book-one/manuscript/00-title-page.md
 book-one/manuscript/00-manuscript-status.md
-book-one/manuscript/00-prose-style-guide.md
-book-one/manuscript/00-continuity-notes.md
-book-one/manuscript/00-revision-log.md
-book-one/manuscript/chapter-*.md
+book-one/manuscript/chapter-01-levy-bell.md
 ```
 
-## How to use this repo
+## Project structure
 
-- Start with `world/00-high-concept.md` for the premise and moral frame.
-- Use `assets/neodym-cover.png` as the primary visual anchor for the project.
-- Use `world/01-*` through `world/09-*` as the first world outline.
-- Use `story/` for higher-level story directions and older outline entry points.
-- Use `book-one/` for the active first novella outline, page budget, owner feedback, daily improvement log, and manuscript draft.
-- Use `characters/` for cast development and scene hooks.
-- Use `glossary.md` to keep names consistent.
-- Use `visual-prompts/` as a copy-paste-ready image-generation prompt library for concept art.
+```text
+assets/neodym-cover.png
+rework/
+  00-thin-veil-manifesto.md
+  01-current-problems.md
+  02-new-canon-principles.md
+  03-files-to-revise.md
+  04-book-one-replacement-plan.md
+  05-style-rules.md
+world/
+  00-high-concept.md
+  01-cosmology.md
+  02-races.md
+  03-magic-system.md
+  04-politics.md
+  05-history.md
+  06-geography.md
+  07-religion.md
+  08-technology-and-infrastructure.md
+  09-conflicts.md
+story/
+  novella-outline.md
+  novel-outline.md
+  saga-outline.md
+characters/
+  archetypes.md
+  major-characters.md
+visual-prompts/
+glossary.md
+book-one/
+  00-premise.md
+  01-setting.md
+  02-characters.md
+  03-plot-outline.md
+  04-chapter-beats.md
+  05-human-perspective-rules.md
+  06-small-scale-worldbuilding.md
+  07-aurelith-thin-veil.md
+  08-themes.md
+  10-open-questions.md
+  manuscript/
+archive/
+```
 
-## Visual development direction
+## Visual direction
 
-The cover art is the main visual reference: silver immortal courts and crystal towers above, smoky human rebellion below, a central Neodym sigil between them, and the mood of beauty turning into pressure. The visual language blends epic fantasy, ancient empire aesthetics, rare-earth mineral mysticism, beautiful oppression, archive mythology, and human warmth under immortal precision. It should not look like generic tabletop fantasy, modern cyberpunk, clean science fiction, or a copy of existing fantasy franchises.
+The cover remains the primary visual anchor for the larger setting: beauty, pressure, human warmth under something cold and old. Book One should use that contrast sparingly. Its visual language is mud, bread, ash, wool, road stones, human banners, rain, and one impossible horizon.
