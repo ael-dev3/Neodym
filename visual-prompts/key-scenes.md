@@ -1,21 +1,25 @@
 # Key scene visual prompts
 
-## Chapter 1: Levy bell
+## Chapter 1 candidate — The fair copy
 
-Prompt: Rainy bakehouse yard in a sheep village, low-born woman holding a levy roll, ash-smeared boy clutching a dead man's boot, stern bailiff's man with riders behind him, villagers watching from the wall, human high fantasy drama, tense and grounded.
+Prompt: Close interior of a rural chapel sacristy during rain, Elsbet Vale at a copying board, rough register open on one side, clean fair copy on the other, bailiff's shadow visible in the doorway, candle flame low, the tension centered on an omitted marriage line.
 
-## The burned barn discovery
+Negative prompt: action battle, glowing magic, elf observer, modern desk.
 
-Prompt: Orphan boy crouched in the ash of a burned tithe barn before dawn, pulling a folded letter from a dead man's boot, rain turning ash to black paste, no magic visible.
+## Wren at the chapel door
 
-## The road around Starvel Field
+Prompt: A wet child holding a faded marriage cord in a small chapel doorway while a copyist and half-blind priest look up from records, rain behind her, human stakes immediate and quiet.
 
-Prompt: Three human travelers on a muddy old road bending around pale white stones, banners lowered far behind them, horses refusing the grass beyond the boundary, distant blue-white light in rain haze.
+Negative prompt: prophecy reveal, divine light, magical mark, cinematic superhero framing.
 
-## Witness under no banner
+## Candles counted aloud
 
-Prompt: Public confrontation at the edge of a forbidden field, villagers and riders gathered under lowered banners, woman reading a bloodstained letter aloud, white stones in the background, no supernatural intervention.
+Prompt: Flood court in a low manor hall, rough candles placed one by one on a table as villagers watch, bailiff tense, steward cold, copyist speaking despite fear, law shown as objects and witnesses.
 
-## Final road
+Negative prompt: magical truth beam, elven judge, grand rebellion crowd, modern courtroom.
 
-Prompt: A human road curving around white boundary stones after rain, a lone woman messenger walking away with a satchel of papers, village smoke behind her, Starvel Field silent on the hill.
+## The road bends away
+
+Prompt: Final image of a muddy human road curving around a distant pale white-stone boundary in rain, small figure carrying a document tube away from Harrowick Ford, quiet unresolved high fantasy mood.
+
+Negative prompt: portal opening, visible elf city, triumphant army, prophecy icon.

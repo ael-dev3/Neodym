@@ -2,21 +2,25 @@
 
 ## Human map
 
-Edrath should be mapped first through human use: roads, mills, passes, ports, border stones, market towns, pilgrimage routes, winter roads, sheep valleys, forests with bad law, and rivers that decide whose army starves.
+Edrath should be mapped first through human use: roads, mills, ferries, passes, ports, border stones, market towns, pilgrimage routes, winter roads, sheep valleys, forests with bad law, and rivers that decide whose army starves.
 
 ## Regions for current development
 
 ### Wickerlow Hearthmarch
 
-A damp sheep and barley region of bridges, toll lanes, chapel villages, small keeps, and rival border claims. Book One begins here.
+A damp sheep, barley, chapel, and ferry region of small courts, rival border claims, flood roads, and household debts. Book One begins here.
 
-### Bramble Gate road
+### Harrowick Ford
 
-A human road used by drovers, tax men, pilgrims, grain carts, hedge knights, smugglers, and levy riders. It bends around Starvel Field.
+A small ferry village where chapel records and floodwater decide who has standing. Its value rises when the bridge approach breaks and the ferry meadow becomes the safest crossing.
 
-### Starvel Field
+### Nine-Candle Meadow
 
-A forbidden upland boundary marked by white stones and bad maps. No banner is raised there. No army crosses it in living memory. Humans disagree whether this is treaty, curse, old Aurelith warning, or cowardice hardened into custom.
+A narrow meadow, cottage, ferry bank, and landing post. It is too small for a king and large enough for a bailiff to steal.
+
+### The Glass Mile
+
+An old white-stone road or boundary near Harrowick Ford. Humans avoid raising banners there. Horses dislike part of the lower road. No explanation is confirmed.
 
 ### River market towns
 
@@ -34,6 +38,6 @@ Aurelith locations may not stay still on human maps, or humans may simply be bad
 
 ## Open questions
 
-- Where does Low Wicker sit between rival human claims?
-- What road must Nera use in Book One, and who profits from closing it?
-- Which human army last tried to cross Starvel Field?
+- Which market town receives Harrowick Ford's ferry tolls after flood season?
+- Which human road bends around the Glass Mile, and who profits from that bend?
+- How often does floodwater make Nine-Candle Meadow the only useful crossing?

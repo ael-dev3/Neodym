@@ -1,47 +1,60 @@
 # 06 - Small-scale worldbuilding
 
-## Low Wicker details that matter
+## Human economy
 
-Use details that create pressure.
+Harrowick Ford survives through:
 
-### Bread and grain
+- ferry fees;
+- candle fees;
+- chapel copying fees;
+- sheep and wool;
+- barley bread;
+- mill debt;
+- flood-season tolls;
+- manor fines;
+- small wardship payments.
 
-The Split Loaf tracks who owes bread, who paid in wool, and who has no flour left. A war levy turns food into evidence, debt, and fear.
+The story should show money as exact and painful. A candle, a ferry rope, a grave fee, or a copied line can matter more than a sword.
 
-### Levy rolls
+## Records and literacy
 
-Names are copied by hand. Age, trade, debts, and usefulness can be argued. The rich have exemptions. The poor have explanations no one records.
+Most villagers cannot read the register but know records have power. They remember entries through fees paid, candles bought, knots tied, court days attended, and who stood at which door.
 
-### Witness customs
+Elsbet's literacy is useful but not freeing. It makes her responsible.
 
-Saint Orra's chapel can certify a letter or oath under certain local customs. That power is weak, old, and easy for nobles to ignore unless made public.
+## Chapel custom
 
-### Road law
+Saint Brenna's chapel has a local custom of counting burial candles aloud when a death or name is disputed. The custom does not magically reveal truth. It creates public pressure around material evidence.
 
-Tolls, bridge rights, and cart routes matter more to Low Wicker than royal speeches. Whoever controls the road controls winter.
+## Flood season
 
-### Starvel Field custom
+Floodwater is not scenery. It creates:
 
-No banner is raised near the white stones. Some say this is treaty. Some say curse. Some say armies invented the custom after losing too many men to bad ground and worse nerves.
+- court urgency;
+- ferry value;
+- road closures;
+- delayed appeals;
+- pressure to settle before witnesses leave;
+- danger at the meadow.
 
-### Cairnkin mistrust
+## Wardship
 
-Bruk is useful because he can read stone, road, and burn marks. He is mistrusted because humans often pass fear downward.
+A child with property but no accepted adult protector can be placed as ward under manor control. Wardship can be care, theft, labor capture, or all three depending on who controls it.
 
-## Details to avoid
+## The Glass Mile
 
-- universal magical identity marks
-- routine Aurelith clerk systems
-- village-level elf law
-- lore explanations that do not affect a choice
-- decorative market bustle that does not sharpen the plot
+The Glass Mile is an old white-stone road or boundary that humans avoid with banners, horses, and legal claims. It should remain uncertain. It matters because roads bend around it and because humans use fear to justify decisions.
 
-## Recurring objects
+## Texture bank
 
-- the levy roll
-- the dead carter's letter
-- Pell's cracked handbell
-- bread wrapped in ash cloth
-- white boundary stones
-- lowered banners
-- a cart mark burned into memory
+Use only details that create pressure:
+
+- wax under fingernails;
+- iron key cold through wool;
+- flood marks on a ferry post;
+- cheap ink feathering on damp paper;
+- candle smoke in the chapel chest;
+- seal wax cracked by a shaking thumb;
+- a marriage cord hidden in a child's sleeve;
+- court benches wet from cloaks;
+- a white road glimpsed through rain and not approached.

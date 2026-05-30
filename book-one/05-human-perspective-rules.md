@@ -1,69 +1,46 @@
 # 05 - Human perspective rules
 
-## Absolute rule
+## POV
 
-Book One is human POV only.
+Default POV: close third person through Elsbet Vale.
 
-Default POV: close third person through Nera Brindle.
+No Aurelith POV. No Aurelith private conversation. No explanation of what the Glass Mile is.
 
-Allowed knowledge:
+## Information boundary
 
-- what Nera sees, hears, reads, fears, misreads, remembers, or is told
-- human rumor
-- local custom
-- contradictory religious explanation
-- practical observations about roads, ash, grain, banners, and fear
+The reader can know what Elsbet reads, hears, sees, fears, misunderstands, and infers. The reader cannot know what ancient powers intend.
 
-Not allowed:
+## Scene rule
 
-- Aurelith POV
-- private Aurelith conversations
-- explanation of Aurelith motives
-- direct explanation of Starvel Field
-- Aurelith intervention solving the plot
+Every scene must do at least three of these:
 
-## Human-first scene rule
+- advance the record dispute;
+- clarify institutional procedure through action;
+- reveal character motive;
+- increase pressure on Wren, Elsbet, or the chapel;
+- create a cost for telling the truth;
+- expose a limit of law;
+- turn a private fact into public risk;
+- show why the ferry meadow matters;
+- make the Aurelith layer less explained, not more.
 
-Every scene should be driven by a human problem:
+## Dialogue rule
 
-- a name on a levy roll
-- a letter hidden or read aloud
-- grain taken
-- a road blocked
-- a child hidden
-- a lie repeated by someone afraid
-- a witness refusing to speak
-- a debt called in
+Characters should speak about practical things:
 
-The Aurelith layer can bend the scene's geography or fear, but it should not become the scene's engine.
+- seals;
+- debts;
+- candles;
+- flood marks;
+- wardship;
+- ferry ropes;
+- court bells;
+- who can be called as witness;
+- what a lie will cost;
+- what a truth will cost.
 
-## Discrimination and hierarchy
+No modern speeches about oppression. Let injustice appear through procedure and consequence.
 
-Show layered human discrimination:
+## Aurelith perspective rule
 
-- class contempt
-- war status
-- debt shame
-- suspicion of border folk
-- mistrust of Cairnkin
-- gendered expectations about who may speak in court
-- noble claims of ancient favor
-- religious suspicion of people who live near forbidden ground
-
-Do not reduce discrimination to "elves oppress humans." Human society is fully capable of cruelty on its own.
-
-## Language rules
-
-Use grounded human words: bread, ash, wool, rain, iron, road, oath, banner, levy, debt, chapel, witness, field, horse, cart, tax, grain, winter.
-
-Use Aurelith-adjacent words sparingly: white stones, old boundary, Starvel Field, elder road, moonbone, blue-white light.
-
-Avoid technical language and daily-bureaucracy terms from the old direction.
-
-## Revision questions
-
-- Can the human conflict be clearer?
-- Can the Aurelith element become less direct?
-- Can a detail become causal instead of decorative?
-- Can Nera's desire be sharper on the page?
-- Can Pell matter more as a person and less as a plot device?
+Humans can argue about the Glass Mile. They can fear it, exploit it, mock it, avoid it, draw maps around it, or swear by it. They cannot explain it.

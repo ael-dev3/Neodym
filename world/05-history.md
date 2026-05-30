@@ -1,42 +1,33 @@
 # 05 - History
 
-## Human history is not a footnote
+## Historical approach
 
-Human history in Edrath is full of migrations, kings, famines, saints, plagues, burned cities, false chronicles, stolen crowns, border wars, peasant revolts, and songs that remember what courts erase.
+Neodym history should be written from human uncertainty. People inherit damaged chronicles, saint stories, court lies, road customs, and old maps. They rarely know whether an event was holy, political, Aurelith, natural, or convenient.
 
-Aurelith events matter, but they are not the only history.
+## Human eras to develop
 
-## Ancient rescue, uncertain truth
+### Hearthmarch settlement
 
-There are old stories that the Aurelith saved parts of humanity from a sky-borne disaster, magical ruin, plague, or war so terrible that later ages turned it into religion. The truth should remain unclear.
+Small chapel villages, ferry crossings, wool roads, and flood courts form before any grand kingdom pays attention. Local law grows out of who can cross water, who can witness a marriage, and who can store grain through winter.
 
-That rescue, if it happened, does not mean the Aurelith still manage humanity.
+### Border-house wars
 
-Human uses of the old story:
+Human houses fight over roads, mills, meadows, wards, and tolls. These wars are rarely glorious. They leave disputed records, burned barns, missing fathers, and children whose names become useful to someone else.
 
-- priests preach gratitude
-- kings claim descent from chosen survivors
-- rebels call the story a chain disguised as mercy
-- peasants keep taboo days without knowing why
-- border folk say the Aurelith saved land, not people
+### Chapel record authority
 
-## Historical texture
+In poor districts, chapel registers become one of the few institutions that can preserve a birth, marriage, death, or tithe promise for people without private clerks. That makes the register both protective and vulnerable to pressure.
 
-Useful eras:
+### Aurelith horizon history
 
-- The Ashen Migrations: human clans moving after famine and fire.
-- The River Crown Wars: dynasties fighting over bridges, mills, and river tolls.
-- The Saintless Winter: a plague remembered differently by every church.
-- The Bannerless Truce: a human war that stopped at an Aurelith boundary because no army would cross.
-- The Grain Kings: merchant houses becoming nobility through hunger.
-- The Red Orchard Trials: human fear of folk magic turned into executions.
+Humans remember elder presences through fragments: a road no banner crosses, a tower no pilgrim reaches, a treaty phrase nobody can translate, a light seen from high ground. The truth may be larger than every human explanation.
 
-## Aurelith traces
+## Current Book One historical pressure
 
-Aurelith traces appear in history as gaps, silences, forbidden territories, altered campaign routes, vanished expeditions, and noble claims no one can test.
+`The Ninth Candle` uses local history only where it creates present pressure: old ferry rights, chapel fair-copy custom, flood-court timing, and fear around the Glass Mile.
 
 ## Open questions
 
-- Which human chronicle is openly false but politically necessary?
-- Which Aurelith encounter became a saint legend?
-- Which war avoided Starvel Field and reshaped the Wickerlow border?
+- How old is the chapel fair-copy custom in the Wickerlow Hearthmarch?
+- Which border war made ferry courts more powerful than usual?
+- Is the Glass Mile an old treaty boundary, an Aurelith remnant, or a human name for something nobody understands?

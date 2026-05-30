@@ -1,36 +1,30 @@
 # 08 - Themes
 
-## Primary themes
+## Core theme
 
-### Human truth under human pressure
+A record is not truth, but a false record can become stronger than truth if frightened people sign it.
 
-The central question is whether a powerless person can carry a dangerous truth when silence would be safer for almost everyone.
+## Human themes
 
-### War eats the poor first
+- The cost of lawful handwriting.
+- The difference between memory, witness, and record.
+- How institutions protect the poor only when someone risks making them work.
+- How a child can be erased without being killed.
+- How cowardice often speaks in the language of procedure.
+- How narrow victories matter when total justice is impossible.
 
-The levy turns Pell from a child into a body on a list. The story should make that practical, not rhetorical.
+## Elsbet's arc
 
-### Survival can become complicity
+Elsbet begins believing careful copying is a way to stay harmless. She ends knowing that accuracy can be an act of danger.
 
-Nera, Osa, Joryn, and the reeve all know how to survive by bending. The plot tests when bending becomes helping the lie.
+## Ruan's contradiction
 
-### Banners are smaller than they think
+Ruan is wrong, but not random. He believes road order, flood traffic, and his own survival justify turning a widow's marriage into uncertainty.
 
-Human lords treat banners as destiny. Starvel Field quietly makes every banner lower. The Aurelith layer humbles human power without becoming the moral judge.
+## Wren's function
 
-### Humans make myths from ignorance
+Wren is not chosen, magical, or secretly noble. She matters because systems find children easy to rename.
 
-People use Aurelith silence to justify politics, fear, religion, and cowardice. The story should show how useful not-knowing can be to liars.
+## Aurelith thematic role
 
-## Themes to avoid
-
-- elves as active oppressors of every human scene
-- humans as passive subjects with no agency
-- rebellion epic
-- chosen child
-- technical mastery of Aurelith mystery
-- grand explanation of the world
-
-## Emotional target
-
-The ending should feel narrow, bitter, and worth it. Pell is spared. The lie is damaged. The war is not over. The field remains silent.
+The Glass Mile reminds the reader that the human world is not the whole world, but it does not absolve humans. The worst thing in Book One is not elder mystery. It is a clean human omission.

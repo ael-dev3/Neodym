@@ -1,40 +1,32 @@
 # Manuscript status
 
-Last updated: 2026-05-31
-
 ## Current mode
 
-- Mode: organization complete; drafting can continue next run.
-- Active working title: **The Field Where No Banners Go**.
-- Latest chapter worked on: `chapter-01-levy-bell.md`.
-- Next chapter to draft: `chapter-02-the-boot-in-the-ash.md`.
-- Archived old direction: `archive/book-one-old-bell-on-starvel-hill.md`.
+Logic-first foundation. No new Book One prose drafted yet.
 
-## Actual manuscript count
+## Working title
 
-- Current manuscript word count: **1746 words**.
-- Current manuscript page estimate: **7 pages** at 250 words/page.
-- Distance from 25,000-word hard cap: **23254 words**.
-- Compression mode threshold: 22,500 words / 90 pages.
-- Compression mode status: **not active**.
+The Ninth Candle
 
-## Chapter draft tracker
+## Current count
 
-| File | Chapter | Status | Actual words | Target words |
-| --- | --- | --- | ---: | ---: |
-| chapter-01-levy-bell.md | Levy Bell | drafted | 1746 | 1900 |
-| chapter-02-the-boot-in-the-ash.md | The Boot in the Ash | not started | 0 | 1800 |
-| chapter-03-the-split-loaf-oath.md | The Split Loaf Oath | not started | 0 | 1750 |
-| chapter-04-saint-orras-west-door.md | Saint Orra's West Door | not started | 0 | 1750 |
-| chapter-05-the-hedge-knights-price.md | The Hedge Knight's Price | not started | 0 | 1850 |
-| chapter-06-where-the-banners-stop.md | Where the Banners Stop | not started | 0 | 1950 |
-| chapter-07-rain-on-the-ransom-road.md | Rain on the Ransom Road | not started | 0 | 1850 |
-| chapter-08-the-thorn-court.md | The Thorn Court | not started | 0 | 1800 |
-| chapter-09-false-fire.md | False Fire | not started | 0 | 1800 |
-| chapter-10-the-field-where-no-banners-go.md | The Field Where No Banners Go | not started | 0 | 2250 |
-| chapter-11-grain-under-seal.md | Grain Under Seal | not started | 0 | 1850 |
-| chapter-12-the-letter-carried-on.md | The Letter Carried On | not started | 0 | 1900 |
+- Manuscript words: 0
+- Estimated pages: 0
+- Drafted chapters: 0 of 12
+- Hard cap: 25,000 words / 100 pages
 
-## Reading note for owner
+## Why no Chapter 1 yet
 
-Start with `book-one/manuscript/chapter-01-levy-bell.md`. It remains the only drafted live chapter. The new organization files now make characters, locations, chapter guides, and continuity easy to inspect before Chapter 2 is drafted.
+The owner explicitly required that Chapter 1 not be drafted until the premise passes logic tests. This run created the logic foundation and chose the premise. A future run may draft Chapter 1 if no structural risks are found.
+
+## Next likely chapter
+
+`chapter-01-the-fair-copy.md`
+
+Required first-page answers:
+
+- Elsbet is the chapel copyist.
+- She is making a fair copy under deadline.
+- Ruan is waiting for a sealed omission.
+- Wren's status and meadow are at risk.
+- Elsbet must choose whether to write safely or pause dangerously.

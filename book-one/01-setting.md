@@ -1,83 +1,88 @@
 # 01 - Setting
 
-## Low Wicker
+## Harrowick Ford
 
-Low Wicker is a damp sheep valley in the Wickerlow Hearthmarch. It is not important enough to be sung about unless someone dies badly there.
+Harrowick Ford is a small river village in the Wickerlow Hearthmarch. It matters because water crosses roads there, not because kings care about it.
 
-What matters locally:
+Local pressures:
 
-- sheep and wool money
-- barley bread
-- tithe grain
-- bridge tolls
-- chapel burial fees
-- winter stores
-- bad boots
-- debt marks
-- disputed road rights
-- which lord's banner is on the next hill
+- spring floodwater;
+- ferry tolls;
+- chapel records;
+- small debts;
+- candle fees;
+- wardship claims;
+- manor court schedules;
+- damaged bridge approaches;
+- old boundary fear around the Glass Mile.
 
-## Human political pressure
+## Why this place creates the story
 
-Low Wicker sits near a border quarrel between human houses. The war is not grand. That makes it worse for the poor. Small wars still take sons, grain, horses, carts, and truth.
+The main bridge approach is damaged by spring water. That makes Nine-Candle Meadow and its ferry landing unusually valuable. Whoever controls the landing controls grain carts, sheep crossings, messages, and road fees until the water falls.
 
-The village is pulled between:
+The legal decision about the meadow will be made at the flood court. The flood court uses the chapel fair copy to decide who has standing. That puts Elsbet's hand at the center of the plot for a plausible reason.
 
-- Lord Venn's men from Bramble Gate
-- rival claims across the Ash road
-- the chapel's weak witness rights
-- market debts
-- hunger before winter
-- fear that refusing a levy will bring worse men next time
+## Major locations
 
-## Starvel Field
+### Saint Brenna's Chapel
 
-Starvel Field lies above the old road, marked by white stones no one admits to touching. No banner is raised there. Horses dislike the lower edge. Human maps draw it differently. Armies go around it, even when going around costs lives.
+- **Controller:** Father Orlan Rusk.
+- **What happens there:** births, marriages, deaths, burial candles, tithe promises, fair-copy work.
+- **Danger:** a false fair copy can turn omission into law.
+- **Why Elsbet must go there:** it is her workplace and source of the contradiction.
+- **Information revealed:** Maura Dain's marriage line and ninth burial candle.
+- **How it changes the story:** private copying becomes public witness.
 
-Local explanations contradict each other:
+### The manor court room
 
-- old treaty ground
-- cursed pasture
-- saint's warning
-- Aurelith boundary
-- plague field
-- coward's superstition
-- place where sound travels wrong
+- **Controller:** Steward Harl Brey in Lady Merrow's name; practically managed by Ruan Kest.
+- **What happens there:** flood court, wardship orders, ferry lease decisions, fines.
+- **Danger:** procedure can bury truth if the wrong copy is entered.
+- **Why Elsbet must go there:** only court delay can stop the transfer.
+- **Information revealed:** Ruan's version of the record and who benefits.
+- **How it changes the story:** forces a private contradiction into public form.
 
-No explanation is confirmed in Book One.
+### Nine-Candle Meadow
 
-## Important places
+- **Controller:** Wren Dain's household by custom; manor court by law; Ruan by pressure.
+- **What happens there:** ferry ropes, cottage life, flood crossings, toll leverage.
+- **Danger:** Wren can be removed and the meadow leased away.
+- **Why Elsbet must go there:** she must understand the practical stake and inspect lease marks.
+- **Information revealed:** the meadow is not sentimental property; it is road power.
+- **How it changes the story:** turns a record dispute into an immediate human loss.
 
-### The Split Loaf
+### Matra Voss's candle shed
 
-Bakehouse, inn, gossip court, and informal shelter. Osa Fen owns it. The ovens know more secrets than the chapel.
+- **Controller:** Matra Voss, candlewright and widow.
+- **What happens there:** candle moulding, wax tallies, receipt slats, gossip with memory attached.
+- **Danger:** Matra can lose the manor candle contract.
+- **Why Elsbet must go there:** the ninth candle receipt corroborates the rough chapel entry.
+- **Information revealed:** Maura paid burial candles under her married name.
+- **How it changes the story:** gives Elsbet proof beyond her own reading.
 
-### Saint Orra's chapel
+### The ferry bank
 
-Small stone chapel with a west door used for witness oaths, poor burials, and quiet bargains. Sister Auma keeps its keys and its silences.
+- **Controller:** whoever can lawfully claim Nine-Candle Meadow and physically hold the ropes.
+- **What happens there:** crossings, arguments, tolls, rumors, flood marks.
+- **Danger:** bailiff's men can call visits trespass.
+- **Why Elsbet must go there:** ferry marks and flood height explain why Ruan acts now.
+- **Information revealed:** the upcoming flood court is not routine; it is timed for profit.
 
-### The toll bridge
+### The Glass Mile
 
-A human bridge, useful and disputed. It matters because grain, levies, sheep, and letters cross it.
-
-### The tithe barn
-
-Burned before Chapter 1. Its ash contains the lie that drives the novella.
-
-### Bramble Gate road
-
-The watched road out. Lord Venn's riders use it. Smugglers know smaller ways.
+- **Controller:** no human.
+- **What happens there:** almost nothing, which is the point.
+- **Danger:** taboo, rumor, animals balking, accusations of curse-seeking.
+- **Why Elsbet may approach:** roads and ferry paths bend around it.
+- **Information revealed:** human fear makes the ferry more valuable.
+- **How it changes the story:** it shapes economics and movement without explaining itself.
 
 ## What not to add
 
-- active Aurelith village administration
-- direct elf court machinery
-- routine magical identity systems
-- world-saving stakes
-- a journey to an Aurelith city
-
-## Open questions
-
-- Which rival house benefits most if Venn's levy fails?
-- How much of Starvel Field's taboo is treaty and how much is accumulated fear?
-- What does Saint Orra protect: roads, witnesses, widows, or lies told for survival?
+- direct Aurelith court;
+- magical register validation;
+- a hidden chosen lineage;
+- grand rebellion;
+- a convenient unlocked official record;
+- a lord who can simply fix everything;
+- a mystery solved by a relic.

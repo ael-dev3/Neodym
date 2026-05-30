@@ -1,41 +1,43 @@
-# 24h Writing Rules
+# 24h writing workflow
 
-## Schedule
+Suggested schedule: `0 6 * * *`.
 
-Suggested cron pattern: `0 6 * * *`.
+## Daily priority order
 
-## Daily run order
+1. Read `book-one/owner-feedback.md`.
+2. Read `book-one/09-risk-register.md`.
+3. Read `book-one/logic/premise-logic-audit.md`.
+4. Read `book-one/logic/institutional-plausibility.md`.
+5. Read current manuscript chapters, if any.
+6. Identify the weakest logic, character, or causality problem.
+7. Fix that problem before adding prose.
+8. If the foundation is stable and chapters are missing, draft the next chapter.
+9. If chapters exist, improve or compress them.
+10. Update changelog, page budget, risk register, and manuscript status.
+11. Commit, push, and verify remote.
 
-1. Pull the latest `main` branch.
-2. Read `book-one/owner-feedback.md` first.
-3. Read `book-one/page-budget.md`.
-4. Read `book-one/chapter-guides/chapter-status.md`.
-5. Read `book-one/chapter-guides/chapter-index.md`.
-6. Read all existing `book-one/manuscript/chapter-*.md` files.
-7. Read character and location indexes.
-8. Read individual character/location folders relevant to the next chapter or revision target.
-9. Recalculate manuscript word count directly from chapter files.
-10. Choose one mode: drafting, revision, compression, continuity, or organization.
-11. Make exactly one focused improvement.
-12. Update affected character, location, chapter, continuity, budget, changelog, and cron report files.
-13. Commit, push, and verify remote `main`.
+## Modes
 
-## Mode priority
+Choose exactly one:
 
-- If not all chapters are drafted and manuscript is under 22,500 words: prefer drafting the next missing chapter.
-- If Chapter 1 or latest owner feedback identifies a weak chapter: revise before drafting.
-- If over 22,500 words or 90 pages: compression mode only.
-- If indexes drift from manuscript: continuity or organization mode.
+- logic audit mode;
+- premise repair mode;
+- drafting mode;
+- revision mode;
+- compression mode;
+- continuity mode;
+- organization mode.
 
 ## Hard constraints
 
-- Human POV only, default Nera close third.
-- Human conflict first: war, debt, hunger, roads, witness, class, family, fear.
-- Aurelith thin-veil only: Starvel Field, white stones, taboo, lowered banners, bad maps, distant mystery.
-- No Aurelith POV, direct Aurelith administrator, chosen child, rebellion epic, or lore encyclopedia.
-- Never exceed 25,000 manuscript words.
-- Do not create or edit additional cron jobs from inside a cron run.
+- Human POV only.
+- No Aurelith POV or explanation.
+- No plot-critical convenience access.
+- No official document randomly accessible.
+- No scene that exists only for atmosphere.
+- No prose expansion around unresolved structural logic.
+- Keep manuscript under 25,000 words.
 
-## Required report fields
+## Current next action
 
-Each daily changelog entry must include date, mode, files changed, chapter worked on, words added, words removed, net manuscript word-count change, current manuscript count, page estimate, remaining words before cap, character folders updated, location folders updated, what improved, what remains weak, next recommended action, and questions for owner.
+Do one more logic audit of **The Ninth Candle**, then draft Chapter 1 only if the access, institution, and causality mechanisms still hold.

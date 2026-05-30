@@ -1,49 +1,34 @@
 # 07 - Religion
 
-## Human religion
+## Human religion first
 
-Human faith in Edrath is local, political, tender, and violent. People pray for rain, easy births, clean deaths, fair weights, lost children, and protection from lords as often as from monsters.
+Faith in Neodym should work like human faith: consoling, exploitative, brave, frightened, practical, and local. Chapels bury the dead, record marriages, bless ferries, count candles, and sometimes protect the poor badly but sincerely.
 
-Religion should not be a single doctrine about the Aurelith. Most worship is about human life.
+## Chapel authority
 
-## Aurelith as theological problem
+In poor villages, the chapel may be the only place that records a person's life in a form a court will hear. Birth lines, marriage cords, death entries, burial candles, tithe promises, and witness marks all become religious and legal memory at once.
 
-Different traditions interpret the Aurelith differently:
+## Saints and customs
 
-- angels too cold to love humans
-- devils too beautiful to name
-- elder cousins who refused death
-- soulless immortals outside salvation
-- witnesses left from an earlier creation
-- powerful neighbors with no place in scripture
+Saints should matter through actions rather than lectures:
 
-No church should have the final answer.
+- candles counted aloud when a death name is disputed;
+- ferry blessings before flood season;
+- poor burial fees quietly delayed;
+- marriage cords stored in household cloth;
+- penance assigned for false witness;
+- chapel doors used for different kinds of oath.
 
-## Local practice
+## Aurelith confusion
 
-Useful religious details:
+Priests disagree about elder signs. One chapel calls a white road a saint's warning. Another calls it old treaty ground. Another refuses to name it. Book One should not settle the theology.
 
-- bread blessed at ovens before a war levy
-- saint bells rung for missing children
-- ash crosses on barn doors after fire
-- burial fees that poor families cannot pay
-- vows made at bridge stones
-- border chapels that lower banners before certain fields
-- priests who fear old Aurelith sites but depend on noble patrons who claim them
+## Book One use
 
-## Conflict
-
-Human religious conflict should be human:
-
-- heresy trials
-- class resentment inside temples
-- rival saint cults
-- border churches backing different lords
-- persecution of folk rites
-- priests inventing certainty where none exists
+`The Ninth Candle` centers Saint Brenna's Chapel because its records can protect or erase poor people. The story is not about divine judgment. It is about whether a human institution can be made to tell the truth for one child.
 
 ## Open questions
 
-- Who is Saint Orra in the new Book One direction?
-- Does the local chapel treat Starvel Field as holy, cursed, or simply dangerous?
-- Which human sect profits from claiming Aurelith favor?
+- What is Saint Brenna patron of: ferries, widows, witnesses, or difficult names?
+- How public is candle counting, and when can it be demanded?
+- What does false witness cost a priest versus a poor copyist?

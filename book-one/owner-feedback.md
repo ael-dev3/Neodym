@@ -1,42 +1,38 @@
 # Owner feedback
 
-Owner feedback wins over prior agent choices.
+Owner feedback wins over all other Book One files.
 
-## Current confirmed direction
+## Latest directive — 2026-05-31 restart
 
-- The current chapter felt uninteresting and too much like worldbuilding performance.
-- Random market activity should be reduced unless it drives plot, character, stakes, or theme.
-- Character introduction and description need to be stronger.
-- The point of the plot and theme must become clear earlier.
-- The repo was trying too hard to integrate the elven theme into every layer of society.
-- The elven layer should be thin as a veil.
-- Humans must keep full agency: wars, kingdoms, feuds, trade, religion, courts, peasants, knights, bandits, tyrants, fools, heroes, and disasters.
-- Elves should not educate humans in any broad or systematic way.
-- Elves should not administer every village or correct every human mistake.
-- The Aurelith should feel like a vastly advanced civilization sharing a world with a much less advanced species, not fantasy schoolmasters.
-- Aurelith influence should be subtler, rarer, more realistic, and harder for humans to interpret.
-- Book One must become interesting as a human story first.
+The previous Book One premise and Chapter 1 are failed draft material, not canon to preserve.
 
-## Active Book One replacement
+Specific failure:
 
-Working title: **The Field Where No Banners Go**.
+- The protagonist altered what seemed like an official levy roll in a place where such a document probably would not realistically be accessible.
+- This access problem breaks trust in the plot.
+- The owner will question everything.
 
-Active premise: Nera Brindle, a low-born village letter-reader, must carry proof of a false human war levy before Pell Quick is taken into a lord's border war. The Aurelith layer is Starvel Field, an old boundary no banner crosses. No elf needs to appear on page.
+New mandate:
 
-## Rejected or deprecated direction
+- Restart Book One from the ground up.
+- Build logic before prose.
+- Make the story interesting before atmosphere.
+- Make the plot mechanically plausible before adding beauty or lore.
+- Keep the Aurelith layer subtle, distant, rare, and thin.
+- Human institutions, motives, records, laws, debts, courts, and relationships must drive the story.
 
-The prior Bell on Starvel Hill version is no longer live canon. Its Name-Iron, silver-law case, mirror-pillar, and direct Aurelith legal machinery are archived in `archive/book-one-old-bell-on-starvel-hill.md`.
+## Live replacement direction
 
-Salvageable from the old direction:
+Working title: **The Ninth Candle**.
 
-- Low Wicker's rural texture.
-- Nera as a low-born reader/scribe.
-- Pell as a hungry orphan child worth saving.
-- Osa, Auma, Bruk, and Joryn as grounded human-scale figures.
-- Starvel as a forbidden landmark, now much subtler.
+Active premise: Elsbet Vale, a low-born chapel copyist, discovers that a bailiff is erasing a widow's marriage from the fair copy used by the manor flood court. If she signs the omission, Wren Dain loses her legitimacy, wardship protection, cottage, and ferry meadow.
+
+## Deprecated direction
+
+The failed levy-bell direction is archived at `archive/book-one-failed-levy-bell/`.
+
+Do not treat Nera Brindle, Pell Quick, Low Wicker, the false levy, or Starvel Field as live Book One canon unless the owner explicitly asks to salvage a fragment.
 
 ## Standing quality bar
 
-Make the story interesting first. Make the elves subtle second. Let theme emerge third.
-
-Do not redesign forever. After this rework, daily passes should continue drafting and revising the same novella unless owner feedback redirects it.
+Every future pass must survive the owner asking: why does this person have access, why does this institution behave this way, why does this happen now, and why can't a simpler action solve it?

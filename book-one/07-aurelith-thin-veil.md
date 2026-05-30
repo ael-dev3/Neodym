@@ -1,47 +1,54 @@
 # 07 - Aurelith thin veil
 
-## Principle
+## Ratio
 
-Book One should work if no Aurelith appears on page.
+Book One target: **95% human conflict, 5% Aurelith mystery.**
 
-The Aurelith presence is Starvel Field: a forbidden upland, white stones, old human fear, bad maps, and the custom that no army raises a banner there. It should feel older than the human conflict without explaining or solving it.
+The Aurelith are not the plot engine. Human record systems, debt, flood court, wardship, and property hunger are the plot engine.
 
-## What readers can know
+## Allowed Aurelith-adjacent element
 
-Only surface facts:
+### The Glass Mile
 
-- Starvel Field sits above the old road.
-- White stones mark its lower edge.
-- Horses dislike it.
-- Banners are lowered near it.
-- Campaign maps bend around it.
-- People disagree about why.
-- Once in a while, blue-white light appears beyond the stones.
+An old white-stone road or boundary beyond Harrowick Ford. Humans disagree whether it is:
 
-## What readers should not know
+- treaty road;
+- saint road;
+- Aurelith road;
+- plague road;
+- coward's tale;
+- elder warning;
+- old quarry stone that looks stranger than it is.
 
-- whether the Aurelith built the stones
-- whether the field is treaty, warning, shrine, weapon, ruin, or natural strangeness
-- whether any Aurelith notices the human conflict
-- whether the field is dangerous by intent or by human fear
+No answer is confirmed.
 
 ## How it affects the plot
 
-The field shapes human decisions:
+- Armies and bannered parties avoid it.
+- Horses dislike part of the road.
+- Maps bend around it.
+- Because roads bend, the ferry meadow becomes valuable during flood season.
+- Ruan can exploit fear around it when arguing road necessity.
 
-- armies route around it
-- Osric can exploit taboo and road bottlenecks
-- Nera can force a witness scene where banners are lowered
-- human authority looks smaller beside a boundary it cannot command
+## What it must not do
 
-The field does not expose the lie. Humans do that.
+- no Aurelith appearance;
+- no direct intervention;
+- no magical truth test;
+- no ancient explanation;
+- no hidden prophecy;
+- no relic that proves the record;
+- no direct Aurelith law.
 
-## Contact level
+## Surface description only
 
-Book One uses:
+Use fragments:
 
-- Level 0 for most villagers
-- Level 1 for rumors and religious interpretation
-- Level 2 for Starvel Field as environmental presence
+- white stones under rain;
+- a road that looks dry when everything else is wet;
+- a horse refusing without drama;
+- old map edges rubbed thin;
+- people lowering banners without saying why;
+- candle flame leaning when the chapel door faces that road.
 
-Avoid Level 3 unless a later revision requires one small object. Avoid Levels 4 and 5.
+Never explain the mechanism.

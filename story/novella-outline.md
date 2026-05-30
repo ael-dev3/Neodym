@@ -2,29 +2,31 @@
 
 ## Active Book One
 
-Working title: **The Field Where No Banners Go**
+Working title: **The Ninth Candle**
 
-A low-born village letter-reader must carry proof of a false war levy before a boy she loves is taken into a human lord's border war. The road she needs bends around Starvel Field, an old Aurelith boundary where no army raises a banner and no one agrees why.
+A low-born chapel copyist preparing a lawful fair copy of birth, marriage, death, and candle records discovers that a bailiff is erasing a widow's marriage to seize a ferry meadow before the flood court, and must decide whether to sign a lie that would keep her family safe or expose a record powerful humans need buried.
 
 ## Scale
 
-- One village.
-- One burned tithe barn.
-- One levy roll.
-- One hidden letter.
-- One road through disputed human country.
-- One forbidden field at the edge of the story.
-- One human-sized victory.
+- One chapel.
+- One rough register.
+- One fair copy.
+- One dead widow's marriage.
+- One threatened child.
+- One ferry meadow.
+- One flood court.
+- One thin-veil boundary bending the roads.
+- One narrow human-sized victory.
 
 ## Story engine
 
-Human war reaches Low Wicker. A bailiff uses a burned barn and fear of border raiders to seize grain and names for a levy. Nera discovers the fire was set by human men on the same side as the levy. She must get proof to a court or witness before Pell is marched away.
+Human procedure creates the danger. The chapel rough register says Maura Dain was married. The fair copy demanded by the manor bailiff would omit that marriage. If Elsbet Vale signs the omission, Wren Dain can lose standing, wardship protection, cottage, and ferry meadow.
 
-Starvel Field shapes the routes, customs, fears, and final confrontation. It does not explain itself and does not solve the human problem.
+The Glass Mile shapes road fear and ferry value. It does not judge the case, explain itself, or solve the human problem.
 
 ## Aurelith use
 
-Use contact Levels 0 through 2. No Aurelith appears on page in the first draft unless a later revision proves the human story truly needs it.
+Use contact Levels 0 through 2 only. No Aurelith appears on page in the first draft unless owner feedback explicitly changes the model.
 
 ## Planned final length
 
@@ -34,9 +36,9 @@ Use contact Levels 0 through 2. No Aurelith appears on page in the first draft u
 
 Future novellas can explore other human genres inside the same world:
 
-- a market-town inheritance crime near an Aurelith road
-- a hedge knight hired to guard a relic nobody understands
-- a border priest caught between rival saints and an impossible tower
-- a river-war ransom story where an envoy's silence changes human politics
+- a market charter crime near an elder road;
+- a hedge knight hired to guard a relic nobody understands;
+- a border priest caught between rival saints and an impossible tower;
+- a river-war ransom story where an envoy's silence changes human politics.
 
 Each should work first as a human story.

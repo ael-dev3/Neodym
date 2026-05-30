@@ -1,43 +1,43 @@
 # Character visual prompts
 
-## Nera Brindle
+## Elsbet Vale
 
-Prompt: A low-born village letter-reader in a damp sheep valley, mid-twenties, plain wool dress under a patched work apron, ink-stained fingers, bread flour on one sleeve, tired watchful eyes, holding a folded levy roll and blunt bread knife, rain-dark bakehouse behind her, human high fantasy realism, muted mud and barley palette.
+Prompt: A low-born chapel copyist in her mid-twenties, plain damp wool dress, ink-stained fingers, cheap linen cuffs, seated at a narrow copying board under candlelight, rough register open beside a clean fair-copy sheet, iron chapel key and cracked seal wax nearby, expression tense and observant, grounded human high fantasy realism, muted river mud, wax yellow, and smoke gray palette.
 
 Negative prompt: royal costume, glowing magic, elf features, modern clothing, armor heroine pose, clean studio lighting.
 
-## Pell Quick
+## Wren Dain
 
-Prompt: A thirteen-year-old orphan errand boy in patched wool and oversized boots, ash smeared on one cheek, clutching a cracked handbell tied with red wool and a dead man's boot, standing in rain at a village bakehouse yard, frightened but trying not to show it.
+Prompt: A twelve-year-old ferry child in patched wool with wet hem and river mud on her boots, clutching a faded marriage cord wrapped in her dead mother's kerchief, standing in a chapel doorway as rain blows in behind her, scared, stubborn, not magical, not chosen.
 
 Negative prompt: chosen-one glow, magical mark, royal bloodline, cute mascot pose, modern child clothing.
 
-## Osa Fen
+## Ruan Kest
 
-Prompt: Widowed baker and innkeeper, strong forearms dusted with flour, gray hair braided tight, standing in the orange light of a bread oven, expression hard because kindness has become expensive, shelves of barley loaves and debt tokens behind her.
-
-Negative prompt: witch caricature, noble dress, glowing staff, tavern pinup.
-
-## Osric Venn
-
-Prompt: Human bailiff's man in a black rain cloak pinned with a bronze boar, clean boots in a muddy village yard, trimmed beard, dry threatening composure, levy riders and low banner behind him, no supernatural elements.
+Prompt: Human manor bailiff in a dark practical riding coat, leather document tube at his belt, clean gloves, narrow face, controlled threat, standing in a flood-court room with wet villagers behind him and ferry maps on a table, no supernatural elements.
 
 Negative prompt: monster villain, demonic armor, elf features, ornate emperor costume.
 
-## Joryn Hale
+## Father Orlan Rusk
 
-Prompt: Poor local guard in a wet leather coat with a crooked badge, spear in hand, conflicted face, standing between villagers and lord's riders, practical human border-war costume.
+Prompt: Half-blind chapel priest with tired eyes, plain vestments patched at the sleeve, one hand on a locked register chest, the other on a seal stamp, candle smoke and damp stone around him, fear and duty mixed in his posture.
 
-Negative prompt: shining knight, royal armor, fantasy paladin glow.
+Negative prompt: high priest splendor, angel wings, magical aura, glowing staff.
 
-## Sister Auma
+## Matra Voss
 
-Prompt: Chapel keeper in plain dark wool, old keys at her belt, candle wax on her fingers, standing by a small west door of a rural stone chapel, face lined by secrets and bad weather.
+Prompt: Widow candlewright in a cramped wax shed, sleeves rolled, hands marked by hot wax, holding notched receipt slats tied with cord, shelves of rough candles behind her, face practical and wary.
 
-Negative prompt: high priestess splendor, angel wings, magical aura.
+Negative prompt: witch caricature, noble dress, fantasy alchemist clutter, cheerful market poster.
 
-## Bruk of the Low Cairns
+## Harl Brey
 
-Prompt: Cairnkin stonemender and road guide, compact build, weathered face, stone tools wrapped in leather, kneeling by an old boundary stone and reading cuts in the surface while suspicious villagers watch from a distance.
+Prompt: Manor steward at a rough flood-court bench, dry cloak folded with care, reed pen, sealed rolls, and court bell beside him, expression coldly procedural rather than cruel, damp commoners waiting in shadow.
 
-Negative prompt: dwarf caricature, comic miner, oversized fantasy axe.
+Negative prompt: kingly throne, judge wig, modern courtroom, villain crown.
+
+## Tomas Vale
+
+Prompt: Teenage poor boy in patched work clothes, flour dust and river mud on his boots, standing outside a chapel wall with a debt token in hand, trying to look braver than he is.
+
+Negative prompt: prince costume, soldier armor, magical destiny, modern teen fashion.

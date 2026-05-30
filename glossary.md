@@ -17,33 +17,28 @@
 
 - Neodym: rare elder substance associated with Aurelith works. Humans call it moonbone, white stone, witch-silver, or saint-metal depending on region.
 - Moonbone: common human slang for pale Neodym ore or anything suspected of being Aurelith-made.
-- Thin veil: the new canon model for Aurelith influence. They shape edges, boundaries, myths, and rare artifacts rather than daily village life.
+- Thin veil: the canon model for Aurelith influence. They shape edges, boundaries, myths, and rare artifacts rather than daily village life.
 - Contact levels: scale for Aurelith presence, from Level 0 no contact to Level 5 direct intervention.
-- Starvel Field: a forbidden upland boundary near Low Wicker where no human banner is raised and no army willingly crosses.
-- White stones: old boundary markers at Starvel Field. Humans disagree whether they mark treaty, curse, warning, or something else.
-
-## Human institutions
-
-- Wickerlow Hearthmarch: damp sheep, barley, and border-road region where Book One begins.
-- Low Wicker: small village in the Hearthmarch, pressed by human war, toll roads, and old taboos.
-- Bramble Gate road: human road used by drovers, tax riders, pilgrims, smugglers, and levy men.
-- The Split Loaf: bakehouse and inn in Low Wicker.
-- Saint Orra's chapel: local chapel tied to road blessings, witness oaths, and poor burials.
-- Levy roll: list of names a lord's men can take for war service.
-- Tithe barn: stored grain owed to church, lord, or both, depending on local law and whoever has armed men nearby.
-- Banner truce: local custom of lowering or refusing banners near Starvel Field.
+- The Glass Mile: old white-stone road or boundary near Harrowick Ford. Humans avoid banners there and disagree about why. It is the only Aurelith-adjacent element in the current Book One plan.
 
 ## Current Book One terms
 
-- The Field Where No Banners Go: current working title for Book One.
-- Nera Brindle: low-born letter-reader, toll scribe, and baker's assistant.
-- Pell Quick: orphaned errand boy at risk of being taken into a lord's levy.
-- Osa Fen: owner of the Split Loaf and Nera's hard practical guardian figure.
-- Osric Venn: local debt-holder and bailiff's man tied to the false levy.
-- Joryn Hale: local guard with a decent heart and a bad oath.
-- Sister Auma: chapel keeper who knows old border customs.
-- Bruk of the Low Cairns: Cairnkin stonemender and road guide.
+- The Ninth Candle: current working title for Book One.
+- Harrowick Ford: small ferry and chapel village where Book One is set.
+- Elsbet Vale: low-born chapel copyist and protagonist.
+- Wren Dain: twelve-year-old daughter of Maura Dain, at risk of being erased by a false fair copy.
+- Maura Dain: dead widow whose marriage record is being omitted.
+- Ruan Kest: manor bailiff and antagonist.
+- Father Orlan Rusk: chapel priest and custodian of the rough register.
+- Matra Voss: candlewright whose receipt slats can corroborate the ninth candle.
+- Harl Brey: manor steward who presides over the flood court.
+- Nine-Candle Meadow: ferry meadow and cottage at the center of the wardship and inheritance dispute.
+- Saint Brenna's Chapel: chapel that keeps the rough register and quarterly fair copy.
+- Flood court: accelerated manor hearing held before spring water cuts roads.
+- Fair copy: clean quarterly copy of chapel records sealed for manor court use.
+- Rough register: daily chapel record of births, marriages, deaths, candles, and tithe notes.
 
-## Deprecated direction
+## Deprecated Book One directions
 
-The earlier Book One direction used Name-Irons, a mirror-pillar, silver law, and a bridge-song legal case. That version is archived in `archive/book-one-old-bell-on-starvel-hill.md` and is no longer live Book One canon.
+- The Bell on Starvel Hill: older archived Book One direction using silver law, Name-Irons, mirror-pillar machinery, and direct Aurelith legal pressure.
+- The Field Where No Banners Go / Levy Bell direction: failed Book One direction about Nera Brindle, Pell Quick, a false levy roll, and Starvel Field. Archived in `archive/book-one-failed-levy-bell/` because the premise depended on implausible document access.

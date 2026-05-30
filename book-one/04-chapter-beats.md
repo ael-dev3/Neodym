@@ -2,78 +2,90 @@
 
 Planned chapters: 12.
 
-Target final prose: about 22,500 words. Stay under the 25,000-word hard cap.
+Target final prose: about 21,800 words. Hard cap: 25,000 words / 100 pages.
 
-## Chapter 1: Levy Bell
+Chapter 1 must not be drafted until the logic audit remains stable after owner review or one more autonomous audit pass.
 
-Opening: Nera is scraping Pell's name off the levy roll when the bell rings.
+## Chapter 1: The Fair Copy
 
-What happens: levy riders arrive early, Osric demands names and grain, Pell appears with ash on him and a dead carter's hidden letter.
+- **Target words:** 1700
+- **What happens:** Elsbet prepares the quarterly fair copy under deadline. Ruan arrives early and demands wording that omits Maura Dain's marriage.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Elsbet sees the rough register contradict the demanded fair copy.
 
-Hook: the letter says the fire was set by Venn's own men.
+## Chapter 2: The Missing Ninth
 
-## Chapter 2: The Boot in the Ash
+- **Target words:** 1750
+- **What happens:** Elsbet checks the burial candle notes and finds the ninth candle tied to Maura's married name.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Ruan reminds Elsbet her household debt can be called.
 
-Nera reads the letter fully. Pell tells what he saw near the tithe barn. Joryn warns her that accusation without lawful witness will get Pell taken faster.
+## Chapter 3: Wren at the Chapel Door
 
-Hook: Osric orders Pell kept close for the march.
+- **Target words:** 1800
+- **What happens:** Wren comes for her mother's name and learns adults can erase a life with clean ink.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Elsbet refuses to seal the copy yet.
 
-## Chapter 3: The Split Loaf oath
+## Chapter 4: Matra's Wax Slats
 
-The village argues in the bakehouse. Osa urges hiding Pell and burning the letter. Nera realizes quiet will not save him this time.
+- **Target words:** 1800
+- **What happens:** Elsbet asks Matra Voss for candle receipts; Matra fears losing the manor contract.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Matra gives one slat but not testimony.
 
-Hook: Sister Auma sends for Nera through the chapel's west door.
+## Chapter 5: The Meadow Under Water
 
-## Chapter 4: Saint Orra's west door
+- **Target words:** 1850
+- **What happens:** Elsbet visits Nine-Candle Meadow and understands ferry value, flood marks, and Ruan's timing.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Bailiff men see her at the ferry bank.
 
-Auma explains witness custom and the old road around Starvel Field. The chapel cannot openly accuse a lord's man, but it can still certify a letter if Nera reaches the thorn court.
+## Chapter 6: Father Orlan's Key
 
-Hook: the watched road is blocked.
+- **Target words:** 1800
+- **What happens:** The priest admits his debt and failing eyes; he asks Elsbet not to make the chapel the battlefield.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** The manor summons Wren for wardship placement.
 
-## Chapter 5: The hedge knight's price
+## Chapter 7: The Glass Mile Bend
 
-Nera tries to buy help. Joryn refuses open betrayal but gives one useful warning. Bruk agrees to guide them for witness rather than coin.
+- **Target words:** 1850
+- **What happens:** Floodwater forces Elsbet along the old road near the white stones; human fear and road economics become visible.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** She finds the ferry lease mark contradicts Ruan's claim of abandonment.
 
-Hook: Osric's men search the Split Loaf.
+## Chapter 8: A Debt Called Mercy
 
-## Chapter 6: Where the banners stop
+- **Target words:** 1800
+- **What happens:** Ruan offers Elsbet safety for her brother if she writes the omission as uncertainty.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Elsbet nearly agrees, then Wren brings the marriage cord.
 
-Nera, Pell, and Bruk skirt Starvel Field. Aurelith pressure appears only as landscape and human fear. Horses balk. Banners lower. No explanation is given.
+## Chapter 9: Before the Flood Court
 
-Hook: they find a cart mark proving the burned barn wagon used Venn's road.
+- **Target words:** 1750
+- **What happens:** Elsbet assembles proof but lacks a sealed manor comparison. Harl Brey arrives, interested only in clean procedure.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Ruan moves Maura's case first on the docket.
 
-## Chapter 7: Rain on the ransom road
+## Chapter 10: Candles Counted Aloud
 
-Human danger tightens: patrols, hunger, a deserter, and a family willing to sell information for grain. Pell stops treating the flight like an adventure.
+- **Target words:** 2300
+- **What happens:** Public climax: Elsbet forces a candle count and fair-copy challenge before the steward can enter the wardship order.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** The transfer is delayed; Ruan's clean lie becomes procedurally dirty.
 
-Hook: Nera learns the thorn court has been bought or frightened.
+## Chapter 11: Ward of Saint Brenna
 
-## Chapter 8: The thorn court
+- **Target words:** 1750
+- **What happens:** Aftermath: Wren is temporarily placed under chapel ward; the village calculates what the delay will cost.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** Elsbet loses her safe role as invisible copyist.
 
-The court will not hear them cleanly. Nera must choose between running farther and forcing witness at Low Wicker before the levy leaves.
+## Chapter 12: The Name in the Margin
 
-Hook: Joryn has until dawn to deliver Pell.
-
-## Chapter 9: False fire
-
-Nera and Bruk assemble the human proof: letter, burn pattern, toll mark, debt motive, cart trace, and Osric's false timing.
-
-Hook: Osric starts the levy march early.
-
-## Chapter 10: The field where no banners go
-
-Public climax at the edge of Starvel Field. Banners lower by human custom. Nera reads the dead man's letter and makes Joryn answer under witness.
-
-Hook: Osric's lie breaks in front of people who wanted not to hear it.
-
-## Chapter 11: Grain under seal
-
-The outcome is narrow. Pell is removed from the roll. Some grain is spared. Osric is checked but not destroyed. Retaliation remains possible.
-
-Hook: Pell asks whether the war is over. No one lies quickly enough.
-
-## Chapter 12: The letter carried on
-
-Nera copies the letter and leaves as a road scribe or witness runner. Low Wicker survives smaller than it was. Starvel Field glimmers once in the far rain and remains unexplained.
-
-Final image: a human road bending around white stones.
+- **Target words:** 1900
+- **What happens:** Elsbet adds Maura's married name to a lawful margin note and prepares to carry copies to a deanery or harvest hearing.
+- **Pressure:** every scene must clarify access, motive, institution, or consequence.
+- **Hook/turn:** The Glass Mile remains silent; the human road bends around it.

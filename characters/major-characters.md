@@ -4,13 +4,14 @@
 
 See `book-one/02-characters.md` for the active Book One cast.
 
-- Nera Brindle: letter-reader and toll scribe.
-- Pell Quick: orphaned errand boy on the levy roll.
-- Osa Fen: baker and innkeeper.
-- Osric Venn: local debt-holder and bailiff's man.
-- Joryn Hale: local guard with a bad oath.
-- Sister Auma: chapel keeper.
-- Bruk of the Low Cairns: stonemender and road guide.
+- Elsbet Vale: low-born chapel copyist whose fair-copy work gives her legitimate access to the disputed record.
+- Wren Dain: twelve-year-old claimant at risk of losing her mother's name, cottage, and ferry meadow.
+- Ruan Kest: manor bailiff trying to secure the ferry meadow before the flood court.
+- Father Orlan Rusk: chapel priest, keeper of the rough register, indebted and half-blind.
+- Matra Voss: candlewright whose receipt slats can corroborate the ninth candle.
+- Harl Brey: manor steward who cares about clean procedure more than justice.
+- Tomas Vale: Elsbet's younger brother and household debt pressure.
+- Maura Dain: dead widow whose legal identity becomes the battlefield.
 
 ## Larger-world character slots
 

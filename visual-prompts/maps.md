@@ -1,13 +1,13 @@
 # Map prompts
 
-## Wickerlow Hearthmarch local map
+## Harrowick Ford local map
 
-Prompt: Hand-drawn parchment map of a damp border sheep valley, Low Wicker, Bramble Gate road, Saint Orra's chapel, burned tithe barn, toll bridge, old road, and Starvel Field marked with uncertain white stones, human cartographic style, stains and corrections.
+Prompt: Hand-drawn medieval-style local map of Harrowick Ford, Saint Brenna's Chapel, manor court, Nine-Candle Meadow, ferry bank, damaged bridge approach, river floodplain, Matra's candle shed, and the road bending around the Glass Mile; ink on parchment, practical annotations, human scale.
 
-## Human war route map
+Negative prompt: satellite map, modern labels, massive empire map, glowing magical GPS.
 
-Prompt: Noble campaign map with red and black ink routes bending around an unmarked pale field, grain barns, bridge tolls, river crossings, and lowered-banner notation, practical medieval map.
+## Wickerlow Hearthmarch regional sketch
 
-## Bad map of Starvel Field
+Prompt: Regional parchment sketch of damp sheep valleys, ferry villages, market roads, small keeps, border claims, flood routes, and distant white-stone boundary marks, muted ink and watercolor wash.
 
-Prompt: Three overlapping human maps disagreeing about the same forbidden field, each drawing the boundary differently, marginal notes by priests, soldiers, and shepherds.
+Negative prompt: Tolkien-style imitation, modern atlas, detailed national borders, fantasy theme-park iconography.

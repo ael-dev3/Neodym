@@ -1,21 +1,31 @@
 # Artifact visual prompts
 
-## Levy roll
+## Rough chapel register
 
-Prompt: Damp parchment levy roll on a bakehouse table, one boy's name scraped pale with a bread knife, wax thread broken, flour fingerprints and rain drops, human legal pressure.
+Prompt: Heavy worn chapel register with stained pages, uneven ink, wax smears, birth and death lines, rough margins, kept beside an iron key and candle stub, object-level realism.
 
-## Dead carter's letter
+Negative prompt: glowing spellbook, perfect illuminated manuscript, modern ledger.
 
-Prompt: Bloodstained folded letter hidden inside the cut lining of a burned leather boot, ash and rain on the page, cramped handwriting visible but not fully readable.
+## Fair copy sheet
 
-## Pell's cracked bell
+Prompt: Clean parchment fair-copy sheet on a copying board, one suspicious blank line where a marriage should be, reed pen, cheap black ink, seal wax waiting, tension in the empty space.
 
-Prompt: Small cracked handbell tied with red wool, worn metal, childish treasure, lying beside a heel of bread and a muddy boot.
+Negative prompt: magical contract glow, computer printout, ornate royal decree.
 
-## White boundary stone
+## Ninth candle receipt slat
 
-Prompt: Weatherless white stone half sunk in wet grass at the edge of Starvel Field, old cuts no human alphabet can settle, sheep tracks stopping short nearby.
+Prompt: Small notched wooden receipt slat tied with waxed cord, nine marks cut unevenly, thumb-polished from handling, lying beside rough tallow candles.
 
-## Lowered banner
+Negative prompt: golden artifact, glowing rune stick, modern receipt.
 
-Prompt: Human war banner lowered in rain near a forbidden field, bronze boar emblem dark with water, riders uneasy, no elf present.
+## Marriage cord
+
+Prompt: Faded braided marriage cord wrapped in a dead woman's kerchief, simple household object, worn threads, damp from a child's sleeve, emotionally important but not magical.
+
+Negative prompt: enchanted necklace, royal heirloom, glowing destiny object.
+
+## Ferry post flood marks
+
+Prompt: Weathered ferry post with old flood marks, rope scars, fresh rising water, mud, and a small scratched lease mark near the base, practical proof embedded in place.
+
+Negative prompt: mystical obelisk, sci-fi measuring device, heroic monument.
