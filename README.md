@@ -1,6 +1,6 @@
 # Neodym
 
-Neodym is an AI-assisted fantasy worldbuilding, visual development, and creative writing experiment. It is built as a public foundation for a first world bible, story bible, visual bible, and prompt library.
+Neodym is an AI-assisted fantasy worldbuilding, visual development, and creative writing experiment. It is built as a public foundation for a first world guide, story guide, visual development guide, and prompt library.
 
 The premise: the world of **Edrath** is shaped by the **Aurelith**, an ancient elf-like people bound to the sacred rare metal **Neodym**. Their towers, memory vaults, moonlit courts, and prophecy engines have ended many human wars, famines, and magical disasters. They have also made humanity into a protected subject species, measured by identity seals, watched by silver mirrors, educated through edited histories, and prevented from becoming fully free.
 
@@ -44,7 +44,7 @@ visual-prompts/concepts.md
 ## How to use this repo
 
 - Start with `world/00-high-concept.md` for the premise and moral frame.
-- Use `world/01-*` through `world/09-*` as the first world bible outline.
+- Use `world/01-*` through `world/09-*` as the first world outline.
 - Use `story/` to begin drafting a novella, novel, or longer saga.
 - Use `characters/` for cast development and scene hooks.
 - Use `glossary.md` to keep names consistent.
