@@ -2,55 +2,51 @@
 
 ## Hard limits
 
-- Target final length: 80 to 100 pages.
-- Hard cap: 100 pages.
-- Target word count: 20,000 to 25,000 words.
-- Hard word cap: 25,000 words unless the repo owner explicitly changes it.
-- Planning conversion: 250 words per page.
-- Compression mode begins at 22,500 words or 90 pages.
+- Hard cap: **25,000 words / 100 pages**.
+- Target final length: **20,000 to 25,000 words**.
+- Target final page count: **80 to 100 pages**.
+- Planning conversion: **250 words per page**.
+- Compression mode begins at **22,500 words or 90 pages**.
 
-## Current state
+## Current manuscript count
 
-- Current manuscript prose drafted: **0 words** for the new direction before Chapter 1 replacement.
-- Current live Chapter 1 draft is tracked in manuscript status.
-- Drafted manuscript chapters in new direction: **1 of 12**.
-- Current planned final estimate: **22,500 words**.
-- Current planned page estimate: **90 pages**.
-- Remaining cushion under hard cap after planned estimate: **2,500 words**.
-- Status: **Drafting mode. Stay human-first and compress before expanding.**
+- Current manuscript word count: **1746 words**.
+- Current page estimate: **7 pages**.
+- Remaining words before hard cap: **23254 words**.
+- Remaining pages before hard cap: **93 pages**.
+- Drafted chapters: **1 of 12**.
+- Compression status: **not active**.
 
-## Actual manuscript count
+## Words by chapter
 
-- Current live manuscript word count: **1,746 words**.
-- Current live manuscript page estimate: **7 pages**.
-- Current distance from 25,000-word hard cap: **23,254 words**.
-- Compression mode: **not active**.
+| Chapter | Title | Current Words | Target Words | Current Pages | Delta vs Target | Budget Status |
+|---|---|---:|---:|---:|---:|---|
+| 1 | Levy Bell | 1746 | 1900 | 7 | -154 | within draft range |
+| 2 | The Boot in the Ash | 0 | 1800 | 0 | -1800 | not drafted |
+| 3 | The Split Loaf Oath | 0 | 1750 | 0 | -1750 | not drafted |
+| 4 | Saint Orra's West Door | 0 | 1750 | 0 | -1750 | not drafted |
+| 5 | The Hedge Knight's Price | 0 | 1850 | 0 | -1850 | not drafted |
+| 6 | Where the Banners Stop | 0 | 1950 | 0 | -1950 | not drafted |
+| 7 | Rain on the Ransom Road | 0 | 1850 | 0 | -1850 | not drafted |
+| 8 | The Thorn Court | 0 | 1800 | 0 | -1800 | not drafted |
+| 9 | False Fire | 0 | 1800 | 0 | -1800 | not drafted |
+| 10 | The Field Where No Banners Go | 0 | 2250 | 0 | -2250 | not drafted |
+| 11 | Grain Under Seal | 0 | 1850 | 0 | -1850 | not drafted |
+| 12 | The Letter Carried On | 0 | 1900 | 0 | -1900 | not drafted |
 
-## Planned chapter budget
+## Chapters over budget
 
-| Chapter | Working title | Estimated words | Estimated pages | Budget note |
-| --- | --- | ---: | ---: | --- |
-| 1 | Levy Bell | 1,900 | 8 | Hook, protagonist, levy, letter. |
-| 2 | The Boot in the Ash | 1,800 | 7 | Read proof, Pell's witness, immediate danger. |
-| 3 | The Split Loaf Oath | 1,750 | 7 | Village pressure, Osa's fear, decision to act. |
-| 4 | Saint Orra's West Door | 1,750 | 7 | Witness custom, route, chapel risk. |
-| 5 | The Hedge Knight's Price | 1,850 | 7 | Joryn/Bruk pressure, road choice. |
-| 6 | Where the Banners Stop | 1,950 | 8 | Starvel Field as boundary, not explanation. |
-| 7 | Rain on the Ransom Road | 1,850 | 7 | Human danger and cost. |
-| 8 | The Thorn Court | 1,800 | 7 | Court failure or compromise. |
-| 9 | False Fire | 1,800 | 7 | Assemble human proof. |
-| 10 | The Field Where No Banners Go | 2,250 | 9 | Public climax under lowered banners. |
-| 11 | Grain Under Seal | 1,850 | 7 | Narrow outcome, bitter cost. |
-| 12 | The Letter Carried On | 1,900 | 8 | Resolution and future road. |
-| **Total** |  | **22,500** | **90** | At compression threshold by design. |
+None.
 
-## Compression rules
+## Chapters under budget
 
-When actual manuscript exceeds 22,500 words or 90 pages:
+- Chapter 1 is slightly under target but complete enough for drafting to continue.
+- Chapters 2-12 are not yet drafted.
 
-- stop adding scenes unless owner instruction changes the cap
-- cut repeated debate
-- merge travel beats
-- reduce exposition
-- keep the Aurelith layer subtle
-- solve weak drama through sharper choices, not more lore
+## Compression status
+
+Compression mode is **not active**. Continue organization/drafting while keeping the planned final estimate at 22,500 words.
+
+## Next recommended action
+
+Draft Chapter 2, `chapter-02-the-boot-in-the-ash.md`, after owner confirms no immediate Chapter 1 revision request. If working autonomously, draft Chapter 2 next because the organization pass is complete.

@@ -1,5 +1,53 @@
 # Daily Changelog
 
+## 2026-05-31 - Book One repo organization pass
+
+**Mode:** organization.
+
+**Files changed:** root README, Book One README, character indexes and folders, location indexes and folders, chapter guides, continuity files, visual prompt navigation, cron workflow files, page budget, manuscript status, and daily changelog.
+
+**Chapter worked on:** none. No manuscript prose changed.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 0 manuscript words.
+
+**Net word-count change:** 0 manuscript words.
+
+**Current manuscript word count:** 1746 words.
+
+**Current manuscript page estimate:** 7 pages at 250 words/page.
+
+**Remaining words before cap:** 23254 words.
+
+**Character folders updated:** all named live Book One characters, including major/supporting cast and minor levy-roll names.
+
+**Location folders updated:** Low Wicker, The Split Loaf, Saint Orra's Chapel, Starvel Field, Toll Bridge, Burned Tithe Barn, Bramble Gate Road, Old Road Around Starvel Field, and Thorn Court.
+
+**What improved:**
+
+- Added a clear navigation structure so a human reader can start with Book One and find manuscript, characters, locations, chapter guides, continuity, prompts, and cron rules.
+- Created one folder per named character and major location.
+- Connected characters and locations to planned chapters.
+- Added chapter guides and a status table that make Chapter 2 the next obvious prose pass.
+- Kept the current manuscript under the 25,000-word hard cap.
+
+**What remains weak:**
+
+- Chapter 2 is still not drafted.
+- Minor levy-roll characters are indexed but may need compression if they do not pay off later.
+- Some later character/location appearances are planned rather than prose-confirmed and must be updated after each draft.
+
+**Next recommended action:** Draft Chapter 2, `chapter-02-the-boot-in-the-ash.md`, unless owner feedback asks for a Chapter 1 revision first.
+
+**Questions for owner:**
+
+1. Is this folder structure useful, or should minor one-line characters get lighter folders later?
+2. Should Chapter 2 open directly on the boot letter, or on Pell trying to explain himself while adults talk over him?
+3. Do you want Starvel Field to remain entirely silent, or allow one distant blue-white visual near the end?
+
+---
+
 ## 2026-05-30 - Thin-veil repo rework and Chapter 1 replacement
 
 **Mode:** repo rework and drafting.

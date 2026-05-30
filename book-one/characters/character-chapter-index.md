@@ -1,0 +1,21 @@
+# Character Chapter Index
+
+Use this file to prevent random characters from appearing once and going nowhere.
+
+| Character | Role | First Appears | Appears In Chapters | Plot Function | Arc Status |
+|---|---|---|---|---|---|
+| [Nera Brindle](nera-brindle/README.md) | low-born letter-reader, toll scribe, baker’s assistant, and protagonist | Chapter 1 - Levy Bell | 1-12 | she is the only person with enough literacy, courage, and love for Pell to move the proof | Believes quiet correction is safer than open accusation. → A road scribe or witness runner carrying hard truth beyond Low Wicker. |
+| [Pell Quick](pell-quick/README.md) | orphaned errand boy whose name on the levy roll makes the conflict personal | Chapter 1 - Levy Bell | 1-12 | his name and witness force Low Wicker to choose between a child and obedience | Treats errands and danger like chances to matter. → Spared from immediate levy but not from poverty or war. |
+| [Osa Fen](osa-fen/README.md) | owner of the Split Loaf, baker, widow, and Nera’s guardian figure | Chapter 1 - Levy Bell | 1,2,3,5,8,11,12 | her ovens are both refuge and hostage | Survival means bend, hide bread, keep men with banners moving. → Still afraid, but no longer able to call all fear wisdom. |
+| [Osric Venn](osric-venn/README.md) | local debt-holder, bailiff’s man, and human antagonist | Chapter 1 - Levy Bell | 1,2,5,9,10,11 | his lie creates the levy and threatens Pell | Certain fear and hunger will keep Low Wicker obedient. → Checked, fined or damaged, but not destroyed. |
+| [Joryn Hale](joryn-hale/README.md) | local guard whose poor man’s oath gives enforcement a familiar face | Chapter 1 - Levy Bell | 1,2,5,7,8,10,11 | he can help protect Pell or help deliver him | Warns quietly but obeys publicly. → Potentially compromised but more honest. |
+| [Sister Auma](sister-auma/README.md) | keeper of Saint Orra’s chapel and old witness customs | Chapter 3 - The Split Loaf Oath (planned) | 3,4,8,10,12 | offers Nera a route and moral frame but cannot carry the risk for her | Guarded keeper of old forms. → Keeps faith by risking institution. |
+| [Bruk of the Low Cairns](bruk-of-the-low-cairns/README.md) | Cairnkin stonemender and road guide who reads road evidence | Chapter 5 - The Hedge Knight's Price (planned) | 5,6,7,9,10,11,12 | his evidence helps expose the false fire and route | Hired or recruited as a mistrusted practical helper. → Recognized by Nera even if not by Low Wicker. |
+| [Reeve Halven Marr](halven-marr/README.md) | human reeve of Low Wicker who wants the levy to pass quietly | Chapter 1 - Levy Bell | 1,2,10,11 | his roll and silence make the false levy possible | Shaking too hard to read the roll. → Survives but stained by cowardice. |
+| [Lord Venn](lord-venn/README.md) | off-page lord whose seal, road claim, and men drive the levy | Chapter 1 - Levy Bell (mentioned) | 1,2,5,9,10,11 | his authority lets Osric make the false levy lawful-looking | A seal and threat more than a person. → His system remains mostly intact. |
+| [Perran Voss](perran-voss/README.md) | older boy on the levy roll | Chapter 1 - Levy Bell | 1 | shows the roll is taking real boys, not abstractions | Name on roll. → Unresolved. |
+| [Tobin Reed](tobin-reed/README.md) | older boy on the levy roll with a lame foot | Chapter 1 - Levy Bell | 1 | makes levy cruelty practical and specific | Name on roll. → Unresolved. |
+| [Harra](harra/README.md) | village mother whose two sons are named through the levy pressure | Chapter 1 - Levy Bell (mentioned) | 1 | humanizes the roll’s cost | Mentioned as mother of two boys on the roll. → Unresolved. |
+| [Bran Alder](bran-alder/README.md) | levy-listed villager with a baby due | Chapter 1 - Levy Bell | 1 | shows war eating households, not just fighters | Name read aloud. → Unresolved. |
+| [Willo Teague](willo-teague/README.md) | levy-listed villager who stares at the mud | Chapter 1 - Levy Bell | 1 | adds silence and dread to the roll reading | Name read aloud. → Unresolved. |
+| [Saint Orra](saint-orra/README.md) | local saint attached to chapel witness customs | Chapter 4 planned through chapel tradition; name appears in setting files | 3,4,8,10 | chapel customs tied to Orra give Nera a fragile route to witness | A religious name in local custom. → Custom remains useful but limited. |

@@ -14,3 +14,8 @@
 - What remains weak: Chapter 2 must make the dead carter's letter and Pell's witness emotionally credible without turning the plot into exposition.
 
 - Added a short Pell/Nera relationship memory so the levy threat lands emotionally before the letter arrives. Current Chapter 1 count: 1,746 words.
+## 2026-05-31 - Organization sync
+
+- No prose revision.
+- Synced manuscript status with new character, location, chapter-guide, continuity, and cron folders.
+- Current manuscript remains 1746 words / 7 pages.
