@@ -44,6 +44,20 @@ visual-prompts/factions.md
 visual-prompts/maps.md
 visual-prompts/key-scenes.md
 visual-prompts/concepts.md
+book-one/00-premise.md
+book-one/01-setting.md
+book-one/02-characters.md
+book-one/03-plot-outline.md
+book-one/04-chapter-beats.md
+book-one/05-human-perspective-rules.md
+book-one/06-small-scale-worldbuilding.md
+book-one/07-unexplained-elven-presence.md
+book-one/08-themes.md
+book-one/09-visual-prompts.md
+book-one/10-open-questions.md
+book-one/page-budget.md
+book-one/daily-changelog.md
+book-one/owner-feedback.md
 ```
 
 ## How to use this repo
@@ -51,7 +65,8 @@ visual-prompts/concepts.md
 - Start with `world/00-high-concept.md` for the premise and moral frame.
 - Use `assets/neodym-cover.png` as the primary visual anchor for the project.
 - Use `world/01-*` through `world/09-*` as the first world outline.
-- Use `story/` to begin drafting a novella, novel, or longer saga.
+- Use `story/` for higher-level story directions and older outline entry points.
+- Use `book-one/` for the active first novella outline, page budget, owner feedback, and daily improvement log.
 - Use `characters/` for cast development and scene hooks.
 - Use `glossary.md` to keep names consistent.
 - Use `visual-prompts/` as a copy-paste-ready image-generation prompt library for concept art.
