@@ -2,37 +2,37 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-0903-audit.md`
+`book-one/cron/audits/2026-05-31-1001-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 9 of **The Ninth Candle**: `book-one/manuscript/chapter-09-before-the-flood-court.md`.
+Drafted Chapter 10 of **The Ninth Candle**: `book-one/manuscript/chapter-10-candles-counted-aloud.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified the missing formal-court bridge as the weakest manuscript gap. Chapter 9 converts Elsbet's side-table refusal into court procedure: Harl Brey demands cause for the unsealed copy, establishes his clean-roll motive, limits the proof chain, and lets Ruan use flood urgency to move Wren's wardship/ferry matter first.
+The required audit found no blocking logic failure and identified the missing public candle-count climax as the weakest manuscript gap. Chapter 10 converts Chapter 9's setup into a human-first court scene: the rough register is read, the ninth household candle is counted aloud, Matra appears through the already established court-candle order, and Harl Brey delays the wardship/ferry transfer because Ruan's clean entry is procedurally dirty rather than because Harl is kind.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-0903-audit.md`
-2. `book-one/manuscript/chapter-09-before-the-flood-court.md`
+1. `book-one/cron/audits/2026-05-31-1001-audit.md`
+2. `book-one/manuscript/chapter-10-candles-counted-aloud.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 9 of 12
-- Current manuscript word count: 17,600
-- Page estimate: 70.4
-- Remaining words before hard cap: 7,400
+- Drafted chapters: 10 of 12
+- Current manuscript word count: 20,013
+- Page estimate: 80.1
+- Remaining words before hard cap: 4,987
 - Compression mode: not active
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Risks
 
-- Chapter 10 must make the candle count vivid and causal rather than procedural notes.
-- Harl Brey must delay the transfer for procedural cleanliness, not compassion.
-- Matra or chapel-held evidence should enter only through established custody or court order.
+- Chapter 11 must make the aftermath costly and concrete rather than treating delay as full victory.
+- Matra's original slat and the chapel-held slat/tally must be produced only through court order and custody, not convenience.
+- Ruan's next pressure should be human and procedural, likely through Tomas's bond or road accounts.
 
 ## Suggested owner feedback
 
-Check whether Harl Brey feels self-protective rather than kind, whether Chapter 9 keeps the proof chain clear without resolving the case early, and whether Ruan moving the wardship/ferry matter first feels like plausible procedural pressure.
+Check whether the candle count reads as a vivid climax rather than court-note exposition, whether Harl's delay feels self-protective rather than kind, and whether Wren's temporary reprieve stays narrow enough to keep the final chapters tense.

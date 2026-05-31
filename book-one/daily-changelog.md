@@ -1,5 +1,62 @@
 # Daily Changelog
 
+## 2026-05-31 10:01 - Hourly audit and Chapter 10 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1001-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1001-audit.md`
+- `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 10 — Candles Counted Aloud.
+
+**Words added:** 2,413 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +2,413 words by direct chapter-file count.
+
+**Current manuscript word count:** 20,013 words.
+
+**Current manuscript page estimate:** 80.1 pages.
+
+**Remaining words before cap:** 4,987 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the tenth actual new-version manuscript chapter.
+- Converted Chapter 9's “We can count” setup into a public candle-count climax.
+- Kept Harl Brey's delay self-protective and procedural: the roll is dirty because Matra's original slat was not summoned and Ruan's clean wording was prepared too soon.
+- Brought Matra in through the already established court-candle order rather than a convenient rescue.
+- Gave Wren temporary chapel keeping and same-day protection without pretending the meadow, Tomas's bond, or Ruan's power are resolved.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 10 is 113 words over target, though below the 20% over-target compression trigger.
+- Chapter 11 must make the aftermath costly and concrete rather than treating delay as full victory.
+- Matra's original slat and the chapel-held slat/tally must be produced only through court order and custody, not convenience.
+- Ruan's next pressure should be human and procedural, likely through Tomas's bond or road accounts.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 11 — Ward of Saint Brenna.
+
+**Questions for owner:**
+
+1. Does the candle count feel like a vivid climax rather than court-note exposition?
+2. Does Harl's delay read as procedural self-protection rather than kindness?
+3. Does Wren's temporary reprieve feel narrow enough, with real costs still waiting?
+
 ## 2026-05-31 09:03 - Hourly audit and Chapter 9 draft
 
 **Mode:** drafting.

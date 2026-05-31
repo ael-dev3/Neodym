@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 17,600
-- Estimated pages: 70.4
-- Drafted chapters: 9 of 12
+- Manuscript words: 20,013
+- Estimated pages: 80.1
+- Drafted chapters: 10 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 7,400
+- Remaining words before hard cap: 4,987
 - Compression mode: not active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -31,16 +31,16 @@ The Ninth Candle
 | 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
+| 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
 
 ## Missing chapters
 
-- Chapter 10 — Candles Counted Aloud
 - Chapter 11 — Ward of Saint Brenna
 - Chapter 12 — The Name in the Margin
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0903-audit.md`
+- `book-one/cron/audits/2026-05-31-1001-audit.md`
 
 ## What Chapter 1 proves
 
@@ -117,21 +117,29 @@ The Ninth Candle
 - Ruan uses flood urgency and public pressure to move Wren's wardship/ferry matter first, making the court's need for the ferry part of his leverage.
 - The chapter ends with the candle count set up, not resolved.
 
+## What Chapter 10 proves
+
+- The public candle count works as procedure and pressure, not magic: it makes the mismatch visible without proving the whole marriage claim by itself.
+- Harl delays the wardship and ferry transfer for a dirty-roll reason: Matra's original slat was not summoned, chapel-held copy slat and ferry tally are absent under custody, and Ruan's prepared wording looks premature.
+- Matra appears through the already established court-candle order, not as a convenient rescuer, and her original proof remains at her shed.
+- Orlan's help stays limited to custody, reading, and responsibility; he does not win the case.
+- Wren gains temporary chapel keeping and a same-day reprieve, while the meadow, Tomas's bond, Orlan's debt, and Ruan's power remain unresolved.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, 5, 6, 7, and 8 are over target, though none triggers compression.
-- Matra's copy slat, Wren's ferry tally board, the marriage cord, and the way-post mark remain intentionally limited proof; Chapter 10 must not let any one item solve the case alone.
-- Harl Brey must remain procedure-first and self-protective during the candle count rather than becoming a moral judge.
-- Chapter 10 must call existing proof sources in a clean order and avoid adding a convenient new witness or document.
+- Chapters 1, 2, 4, 5, 6, 7, 8, and 10 are over target, though none triggers compression.
+- Chapter 10 wins a delay rather than safety; Chapter 11 must make the aftermath costly and not treat the court order as a full victory.
+- Matra's original slat, chapel-held copy slat, and ferry tally are now ordered but not yet produced; future prose must handle them through custody and summons, not convenience.
+- Ruan's retaliation should be concrete and human, likely through Tomas's bond or road-account pressure, not sudden violence or lore.
 
 ## Next likely chapter
 
-`chapter-10-candles-counted-aloud.md`
+`chapter-11-ward-of-saint-brenna.md`
 
-Required Chapter 10 work:
+Required Chapter 11 work:
 
 - Follow a fresh hourly audit before drafting.
-- Count the candles aloud in public and test the rough register against the disputed fair-copy wording.
-- Keep Wren, Tomas's bond risk, chapel seal risk, and ferry urgency emotionally present during procedure.
-- If Matra or the chapel-held slat/tally are used, make their access come through court order or established custody, not convenience.
-- Let Harl delay the wardship/ferry transfer for procedural cleanliness rather than compassion.
+- Pay off the court order in immediate aftermath rather than adding a new proof source.
+- Show Wren entering temporary chapel keeping as protection with costs, not comfort.
+- Keep emergency ferry operations and court pouch/tally logistics concrete and limited.
+- Begin the cost to Elsbet's household through Tomas's bond or Ruan's next procedural pressure.

@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 10, `book-one/manuscript/chapter-10-candles-counted-aloud.md`, only after creating the next hourly audit note. Count the candles aloud in public, test the rough register against the disputed fair-copy wording, use only established proof and custody channels, and let Harl Brey delay the transfer for procedural cleanliness rather than compassion.
+Draft Chapter 11, `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`, only after creating the next hourly audit note. Pay off the Chapter 10 court delay as human aftermath: Wren remains in temporary chapel keeping, emergency ferry crossings run under old toll tally and court pouch, Matra and Orlan face costs for standing visible, and Ruan's retaliation should begin through debt pressure rather than a new proof source.
