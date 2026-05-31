@@ -10,9 +10,9 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **23,820 words**.
-- Current page estimate: **95.3 pages**.
-- Remaining words before hard cap: **1,180 words**.
+- Current new-version manuscript word count: **23,640 words**.
+- Current page estimate: **94.6 pages**.
+- Remaining words before hard cap: **1,360 words**.
 - Drafted chapters: **12 of 12**.
 - Compression status: **active**.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
@@ -21,7 +21,7 @@
 
 | Chapter | Title | Target Words | Actual Words | Delta | Status |
 |---|---|---:|---:|---:|---|
-| 1 | The Fair Copy | 1,700 | 2,038 | +338 | drafted |
+| 1 | The Fair Copy | 1,700 | 1,858 | +158 | compressed |
 | 2 | The Missing Ninth | 1,750 | 1,950 | +200 | drafted |
 | 3 | Wren at the Chapel Door | 1,800 | 1,753 | -47 | drafted |
 | 4 | Matra's Wax Slats | 1,800 | 2,107 | +307 | drafted |
@@ -36,15 +36,16 @@
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **23,820 words**.
+Completed draft total: **23,640 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
-- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is now **36 words under target** after compression.
-- Compression trigger: **active**. Current manuscript is 23,820 words / 95.3 pages, above both the 22,500-word and 90-page thresholds.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,180 words of space before the cap.
+- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **36 words under target** after compression.
+- Compression trigger: **active**. Current manuscript is 23,640 words / 94.6 pages, above both the 22,500-word and 90-page thresholds.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,360 words of space before the cap.
+- Latest compression: Chapter 1 was reduced from 2,038 to 1,858 words, moving it farther below its 20% over-target trigger while preserving the opening proof mechanism.
 
 ## Next recommended action
 
-Create the next hourly audit, then continue compression mode on actual manuscript prose. Start with Chapter 1 because it remains the closest chapter to the 20% over-target trigger, while preserving Elsbet's legitimate access, Ruan's pressure, and the opening proof mechanism.
+Create the next hourly audit, then continue compression mode on actual manuscript prose. Start with Chapter 4 because it is now the closest chapter to the 20% over-target trigger and has the largest remaining absolute overage; preserve Matra's trade-risk motive, the copy-slat custody logic, and Wren's limited agency.

@@ -6,7 +6,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 | Chapter | File | Words | Status |
 |---|---|---:|---|
-| 1 | `chapter-01-the-fair-copy.md` | 2,038 | drafted |
+| 1 | `chapter-01-the-fair-copy.md` | 1,858 | compressed |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,950 | drafted |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 2,107 | drafted |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 23,820
-- Estimated pages: 95.3
+- Total manuscript words: 23,640
+- Estimated pages: 94.6
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate next target: Chapter 1 because it is closest to the 20% over-target per-chapter trigger. Chapter 10 has been compressed below target.
+- Candidate next target: Chapter 4 because it is now closest to the 20% over-target per-chapter trigger and has the largest remaining absolute overage. Preserve Matra's trade-risk motive, the copy-slat custody logic, Wren's limited agency, and the proof chain's limits.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

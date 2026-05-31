@@ -2,15 +2,11 @@
 
 The ink would not dry.
 
-Elsbet Vale held the page near the chapel brazier until the damp began to curl it, then drew it back with a curse small enough for Saint Brenna to forgive. Outside, rain worried at the shutters. It had not yet become a proper spring downpour, only a thin cold tapping, but the river heard such things before people did. By noon the ford would be brown to its knees. By dusk the lower road might be gone.
+Elsbet Vale held the page near the chapel brazier until the damp began to curl it, then drew it back with a curse small enough for Saint Brenna to forgive. Rain worried at the shutters. By noon the ford would be brown to its knees. By dusk, Father Orlan had said, the fair copy must be sealed.
 
-By dusk, Father Orlan had said, the fair copy must be sealed.
+She pressed the sheet flat. Good rag paper, bought with chapel coin: births down the left, marriages below, deaths and burial candles after. The rough register lay beside it like an old animal, spine split, pages greasy from years of thumbs, smelling of wax smoke, damp wool, and grief pressed flat between fees.
 
-Elsbet set the page flat and pressed one clean corner. The sheet was good rag paper, too good for mistakes, bought with chapel coin. Births down the left. Marriages below. Deaths and burial candles on the second page. Tithe promises after that, if there was space and if the poor could promise anything without lying to God.
-
-The rough register lay open beside it like an old animal, spine split, pages greasy from years of thumbs. It smelled of wax smoke, damp wool, and the sour barley beer Father Orlan pretended he did not drink before winter burials. Elsbet knew its stains better than some faces in Harrowick Ford: soot near Saint’s Day, a baby’s ash-black footmark, old grief pressed flat between fees.
-
-Her fair copy had none of that. That was the trouble with fair copies. They looked innocent.
+Her fair copy had none of that. Fair copies looked innocent. That was the trouble.
 
 A bell knocked once in the yard. Not the chapel bell in the little tower, but the iron handbell at the gate, hard-struck by someone who did not care whether a saint was sleeping.
 
@@ -40,7 +36,7 @@ The gate bell struck a third time.
 
 “Then let him stand in the rain and improve himself,” Elsbet said, but she covered the rough register with a square of linen before Father Orlan reached the door.
 
-Ruan Kest entered as if the chapel had been built around his errand. Rain shone on his black riding coat; a leather tube sat under one arm; two manor men crowded the porch and dripped on the threshold stones. He was not tall. He had taught Harrowick Ford to remember him as one by making everyone else step aside.
+Ruan Kest entered as if the chapel had been built around his errand. Rain shone on his black riding coat; a leather tube sat under one arm; two manor men crowded the porch. He was not tall, but he had taught Harrowick Ford to step aside.
 
 “Father,” he said.
 
@@ -60,7 +56,7 @@ Father Orlan said, “It was set for third day.”
 
 “The bridge approach has sunk another foot. Two wool carts are stuck at Moat Lane, and a grain team came back with one horse lame.” Ruan brushed rain from his cuff. “Unless you prefer the court sit after half the witnesses are stranded and the road money has washed away.”
 
-Road money. Not sheep lame in flood ruts, not women hauling sacks the long way, not boys paid a farthing to stand in water and hold ferry rope until their hands went blue. Road money.
+Road money. Not sheep lame in ruts, not women hauling sacks the long way, not boys holding ferry rope until their hands went blue. Road money.
 
 Father Orlan rubbed his key cord. “The fair copy is not finished.”
 
@@ -96,7 +92,7 @@ Elsbet lifted the linen from the rough register.
 
 “Careful,” Father Orlan whispered.
 
-She turned back three pages, not because she needed to hunt but because it was safer to appear to hunt. Maura’s name had sat in her mind since Candlemas. Poor women’s names often did. They came attached to unpaid fees, late baptisms, burial candles bought one at a time. Maura had paid in clipped copper and ferry tokens, with Wren beside her like a thin brown sparrow in a shawl too large.
+She turned back three pages, not because she needed to hunt but because it was safer to appear to hunt. Maura’s name had sat in her mind since Candlemas: unpaid fees, late baptisms, burial candles bought one at a time, and Wren beside the table in a shawl too large.
 
 There. Marriage entries, late autumn before the first ice.
 
@@ -134,7 +130,7 @@ One of the manor men in the porch snorted. Ruan did not turn. “No one is askin
 
 “There are always child consequences.” Ruan’s mildness thinned. “There are also bridge consequences, ferry consequences, grain consequences, wool consequences, and debt consequences. Harrowick Ford is not kept alive by old cord knots.”
 
-The rain strengthened. It ticked faster on the shutters and darkened the stone sill near the eyeless clay Brenna, where people still left pins when babies would not sleep.
+Rain strengthened against the shutters and darkened the sill near the eyeless clay Brenna.
 
 Father Orlan said, “Master Kest, give us until dusk.”
 
@@ -168,7 +164,7 @@ He left wet footprints down the aisle. His men followed. Men like Ruan did not a
 
 For a while the chapel held only rain, brazier ash, and Father Orlan’s breathing.
 
-Elsbet blotted the ink bead with sand. Her hands felt cold and clumsy. She wanted to say the clean, brave thing: enter Maura’s marriage as written, seal it, and let Ruan choke on his own neat omission. But Tomas’s face had risen in her mind at once, sixteen and flour-haired, trying to laugh when the miller cuffed him for dropping a sack. Debt made a body into something other people could schedule.
+Elsbet blotted the ink bead with sand. She wanted to enter Maura’s marriage as written, seal it, and let Ruan choke on his omission. But Tomas’s face rose at once, sixteen and flour-haired, trying to laugh when the miller cuffed him for dropping a sack. Debt made a body into something other people could schedule.
 
 Father Orlan sank back onto his stool.
 

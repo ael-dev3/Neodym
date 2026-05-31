@@ -41,8 +41,8 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **23,820**
-- Estimated manuscript pages: **95.3**
+- Drafted manuscript words: **23,640**
+- Estimated manuscript pages: **94.6**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 - Compression status: **active**
@@ -50,4 +50,4 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then continue compressing actual manuscript prose in the completed 12-chapter draft. Chapter 10 has been compressed below target; the next recommended target is Chapter 1 because it is closest to its per-chapter overage trigger.
+Use the next run to create a fresh hourly audit, then continue compressing actual manuscript prose in the completed 12-chapter draft. Chapters 1 and 10 have been compressed; the next recommended target is Chapter 4 because it is now closest to its per-chapter overage trigger and has the largest remaining absolute overage.

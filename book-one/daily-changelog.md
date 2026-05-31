@@ -1,5 +1,58 @@
 # Daily Changelog
 
+## 2026-05-31 14:02 - Hourly audit and Chapter 1 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1402-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1402-audit.md`
+- `book-one/manuscript/chapter-01-the-fair-copy.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 1 — The Fair Copy.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 180 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -180 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,640 words.
+
+**Current manuscript page estimate:** 94.6 pages.
+
+**Remaining words before cap:** 1,360 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 1 from 2,038 words to 1,858 words.
+- Tightened the opening atmosphere, rough-register description, Ruan entrance setup, road-money pressure, Maura memory, and post-visit moral hesitation.
+- Preserved Elsbet's legitimate copyist access, the rough-register/fair-copy distinction, Ruan's demand for a clean omission, Tomas's bond pressure, and the ninth-candle hook.
+- Reduced total manuscript length while keeping the conflict human-first and avoiding any new Aurelith explanation or intervention.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,640 words / 94.6 pages.
+- Chapter 4 is now the closest chapter to the 20% over-target trigger and has the largest absolute overage.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 remain over target, though below per-chapter compression triggers.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 4 while preserving Matra's trade-risk motive, the copy-slat custody logic, Wren's limited agency, and the proof chain's limits.
+
+**Questions for owner:**
+
+1. Does the compressed Chapter 1 still establish the rough register, fair copy, and seal deadline clearly enough?
+2. Did the opening keep enough voice after cutting atmospheric explanation?
+3. Should the next compression pass target Chapter 4 as recommended, or should it prioritize ending polish despite compression mode?
+
 ## 2026-05-31 13:02 - Hourly audit and Chapter 10 compression
 
 **Mode:** compression.
