@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 23,640
-- Estimated pages: 94.6
+- Manuscript words: 23,522
+- Estimated pages: 94.1
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 1,360
+- Remaining words before hard cap: 1,478
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -25,7 +25,7 @@ The Ninth Candle
 | 1 | `chapter-01-the-fair-copy.md` | 1,858 | compressed |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,950 | drafted |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
-| 4 | `chapter-04-matras-wax-slats.md` | 2,107 | drafted |
+| 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,992 | drafted |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-1402-audit.md`
+- `book-one/cron/audits/2026-05-31-1502-audit.md`
 
 ## What Chapter 1 proves
 
@@ -144,13 +144,14 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is over the compression threshold at 23,640 words / 94.6 pages.
+- The completed draft is over the compression threshold at 23,522 words / 94.1 pages.
 - Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target, though none triggers per-chapter compression.
 - Chapter 1 has been compressed from 2,038 to 1,858 words while preserving the opening proof mechanism.
+- Chapter 4 has been compressed from 2,107 to 1,989 words while preserving Matra's trade-risk motive, the copy-slat custody logic, and Wren's limited agency.
 - Chapter 10 has been compressed below target while preserving the public candle-count climax.
-- Chapter 4 is now closest to the 20% over-target trigger and has the largest remaining absolute overage.
+- Chapter 7 now has the largest remaining absolute overage; Chapter 11 is closest to the 20% over-target trigger by percentage.
 - The ending should be reviewed after compression to ensure the final margin note feels earned, lawful, and emotionally sufficient.
 
 ## Next likely work
 
-Compression pass on actual manuscript prose. Start with Chapter 4 after the next required hourly audit. Do not add new framework instead of trimming the completed draft.
+Compression pass on actual manuscript prose. Start with Chapter 7 after the next required hourly audit, with Chapter 11 held as the next threshold-watch item. Do not add new framework instead of trimming the completed draft.

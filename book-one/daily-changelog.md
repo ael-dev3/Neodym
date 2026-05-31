@@ -1,5 +1,57 @@
 # Daily Changelog
 
+## 2026-05-31 15:02 - Hourly audit and Chapter 4 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1502-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1502-audit.md`
+- `book-one/manuscript/chapter-04-matras-wax-slats.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 4 — Matra's Wax Slats.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 118 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -118 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,522 words.
+
+**Current manuscript page estimate:** 94.1 pages.
+
+**Remaining words before cap:** 1,478 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 4 from 2,107 words to 1,989 words.
+- Cut repeated warning, permission, and record-risk exposition while preserving Matra's control of private trade slats, the copied tally slat, Ruan's candle-contract pressure, and Wren's limited agency.
+- Kept the conflict human-first: no new Aurelith explanation, intervention, administrator behavior, or plot-solving was added.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,522 words / 94.1 pages.
+- Chapter 7 now has the largest remaining absolute overage; Chapter 11 is closest to the 20% over-target trigger by percentage.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 remain over target, though below per-chapter compression triggers.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 7 while preserving the Glass Mile's thin-veil restraint, the ferry-route economics, the public way-post mark, and Elsbet's refusal to alter proof.
+
+**Questions for owner:**
+
+1. Does Chapter 4 still give Matra enough texture after cutting repeated caution and permission beats?
+2. Is the copy-slat custody logic clear without overexplaining who can touch which record?
+3. Should the next compression pass target Chapter 7's route pressure as recommended, or Chapter 11 because it is closer to the 20% trigger by percentage?
+
 ## 2026-05-31 14:02 - Hourly audit and Chapter 1 compression
 
 **Mode:** compression.

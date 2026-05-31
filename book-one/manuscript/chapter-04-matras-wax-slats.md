@@ -1,8 +1,6 @@
 # Chapter 4 — Matra's Wax Slats
 
-First light came without warmth.
-
-It laid a gray skin over the chapel windows and showed every place the night had failed to dry: Wren's skirt, Tomas's boots, the fair copy waiting clean and dangerous on Elsbet's board. Father Orlan had slept in his chair with one hand on the covered register and the other wrapped around his key cord.
+First light came gray and cold, showing every place the night had failed to dry: Wren's skirt, Tomas's boots, the fair copy waiting clean on Elsbet's board. Father Orlan slept in his chair with one hand on the covered register and the other wrapped around his key cord.
 
 Elsbet did not wake him until she had folded the fair copy into its cloth.
 
@@ -20,13 +18,13 @@ Tomas rose from the step where he had spent the last hour pretending not to shiv
 
 "You are going to the mill. Tell Miller you know nothing. It is the safest true thing you can say."
 
-He hated that, but the debt strip in Elsbet's sleeve had already said more than comfort could. Wren watched him with the hard stillness she used when grown people weighed one danger against another and called it sense.
+He hated that, but the debt strip in Elsbet's sleeve had already said more than comfort could. Wren watched while grown people weighed one danger against another and called it sense.
 
 Father Orlan rubbed his face. "Matra will not thank you."
 
 "No," Elsbet said. "But if her slats remember what everyone else fears to, she should know before Ruan does."
 
-The lane behind Saint Brenna's chapel was all ruts and cold water. Elsbet took it instead of the front road because manor boys used front roads when they wanted to be seen carrying warnings. Wren walked beside her, not behind, the marriage cord hidden beneath her shawl.
+The lane behind Saint Brenna's chapel was all ruts and cold water. Elsbet took it instead of the front road, where manor boys liked to be seen carrying warnings. Wren walked beside her, the marriage cord hidden beneath her shawl.
 
 "If she says no," Wren said, "do we steal it?"
 
@@ -44,9 +42,9 @@ The lane behind Saint Brenna's chapel was all ruts and cold water. Elsbet took i
 
 "It is no with shoes on."
 
-Wren snorted despite herself. The sound vanished almost at once, but Elsbet kept it like a coal.
+Wren snorted despite herself. The sound vanished almost at once.
 
-Matra Voss's candle shed stood behind her cottage, close enough to the lane for buyers to smell work before they saw it. Rendered fat, beeswax scrap, smoke, damp twine, and bitter herbs pressed through the plank walls. Light showed beneath the door. Matra began before dawn because wax hardened when it pleased itself, not when widows were rested.
+Matra Voss's candle shed stood behind her cottage, close enough to the lane for buyers to smell rendered fat, beeswax scrap, smoke, damp twine, and bitter herbs before they saw the door. Light showed beneath it. Matra began before dawn because wax hardened when it pleased itself.
 
 Elsbet knocked once.
 
@@ -60,7 +58,7 @@ Wren lifted her chin. "And Wren Dain."
 
 For a moment the shed held its breath. Then the bolt drew back.
 
-Matra Voss filled the doorway with a dip-stick in one hand and a linen apron stiff with old wax. She was square-shouldered, gray-haired, and bare-armed despite the cold. A burn scar crossed the inside of one wrist like a pale bracelet. Her eyes went first to Elsbet, then to Wren's hidden fist.
+Matra Voss filled the doorway with a dip-stick in one hand and a linen apron stiff with old wax. She was square-shouldered, gray-haired, bare-armed despite the cold, a burn scar crossing one wrist. Her eyes went first to Elsbet, then to Wren's hidden fist.
 
 "No," she said.
 
@@ -68,7 +66,7 @@ Matra Voss filled the doorway with a dip-stick in one hand and a linen apron sti
 
 "I heard enough last winter when Maura Dain died with nine lights and Master Kest's clerk asked why widows were growing expensive." Matra looked up the lane before stepping aside. "In, then. If you must ruin me, do not do it in the rain."
 
-The shed was warmer than the chapel, but not kinder. Candle rods hung from rafters in pale rows. Shallow pans of wax sat over banked coals. Slats of thin wood dangled from pegs by the workbench, tied in bundles with red, blue, or undyed cord. Marks covered them: notches, knife crosses, soot rubs, pinholes, and small smears of colored wax. To a court clerk they would look like kindling. To Matra they were a ledger.
+The shed was warmer than the chapel, but not kinder. Candle rods hung from rafters. Wax pans sat over banked coals. Thin slats dangled from pegs by the workbench, bundled in red, blue, or undyed cord and covered with notches, knife crosses, soot rubs, pinholes, and colored wax. To a court clerk they would look like kindling. To Matra they were a ledger.
 
 Wren stared. "Which one is Mother's?"
 
@@ -102,7 +100,7 @@ All three froze.
 
 Matra blew out the nearest lamp with two fingers pinched around the flame. "Back," she whispered.
 
-Elsbet drew Wren behind a rack of dipped tapers. Through a crack between boards she saw a manor boy in a dark cap holding a folded chit under his cloak. Ruan had enough boys to make impatience seem like weather.
+Elsbet drew Wren behind a rack of dipped tapers. Through a crack between boards she saw a manor boy in a dark cap holding a folded chit under his cloak.
 
 Matra wiped her hands on her apron and went through the inner door.
 
@@ -114,7 +112,7 @@ Matra wiped her hands on her apron and went through the inner door.
 
 Matra did not take the paper at once.
 
-"He said you would know what clean means," the boy added, proud of remembering.
+"He said you would know what clean means," the boy added.
 
 Matra took the chit. "Tell Master Kest I sell candles, not miracles. If he wants clean, he can keep mud from men's boots."
 
@@ -124,7 +122,7 @@ The boy blinked, unsure whether he had been insulted on behalf of power. "Noon,"
 
 She shut the door in his face.
 
-When she came back, her color had gone flat. She held the chit as if paper could burn without flame.
+When she came back, her color had gone flat. She held the chit as if paper could burn.
 
 "Now you see the price," she said.
 
@@ -140,7 +138,7 @@ Wren made a sound so small it might have been the shed settling.
 
 Matra laid one slat on the table.
 
-It was no longer than Elsbet's hand. One side bore eight close notches and a ninth set apart, deeper and angled. A smear of blue wax crossed the end. Beside it, cut in Matra's private shorthand, were two small marks: a river line and a joined pair.
+It was no longer than Elsbet's hand. One side bore eight close notches and a ninth set apart, deeper and angled. Blue wax smeared the end. Beside it, in Matra's shorthand, were two small marks: a river line and a joined pair.
 
 "Read it," Wren demanded.
 
@@ -158,11 +156,11 @@ Elsbet's throat tightened. "The joined mark is the cord?"
 
 Matra did not look at her. "No."
 
-The word was quieter than the first no and worse for it.
+The word was quieter than the first no.
 
 Wren stepped back as if struck.
 
-Matra gripped the table edge. "If I stand in that court without summons, Ruan says I stirred a disputed child for spite. If I leave the shed, he says the court candles were late because I chose gossip over duty. If my contract goes, no one feeds me for remembering your mother. They will praise me hungry. Praise is thin soup."
+Matra gripped the table edge. "If I stand in that court without summons, Ruan says I stirred a disputed child for spite. If I leave the shed, he says the court candles were late because I chose gossip over duty. If my contract goes, no one feeds me for remembering your mother. Praise is thin soup."
 
 "Then keep it," Wren said. "Keep your roof."
 
@@ -172,7 +170,7 @@ Elsbet caught her sleeve, not hard enough to hold if Wren truly pulled. "Wait." 
 
 Matra stared at her.
 
-It was not a clean answer. A copy slat was weaker than an original, easy to mock, easy to call prepared for quarrel. But the old slat would stay in Matra's custody, and the copy would force the question without handing Ruan the whole of Matra's trade ledger.
+It was not a clean answer. A copy slat was weaker than an original, easy to mock as prepared for quarrel. But the old slat would stay in Matra's custody, and the copy would force the question without handing Ruan the whole trade ledger.
 
 "That is thin," Matra said.
 
@@ -190,7 +188,7 @@ Elsbet placed her ink-stained hand on the workbench. "I will say Matra Voss cut 
 
 Matra nodded once. "That oath may live."
 
-She cut the marks slowly, each notch a small injury to the wood. Eight close. One apart. River line. Joined pair. A dot for the farthing short. She warmed a thread of blue wax over the lamp and rubbed it into the end, then scraped most of it away so only a stain remained.
+She cut the marks slowly, each notch a small injury to the wood. Eight close. One apart. River line. Joined pair. Farthing dot. She warmed blue wax over the lamp, rubbed it into the end, then scraped most away so only a stain remained.
 
 When she handed the copy slat to Wren, the child did not take it.
 
@@ -200,7 +198,7 @@ Matra's mouth twisted. "You learn fast. I am sorry for it."
 
 Elsbet took the slat. It weighed almost nothing. That was the terror of it. A strip of wood, a child's cord, an old priest's memory, and her own hand were meant to stand against a man with summons, debts, and a court bell.
 
-Outside, noon's delay was already moving through the village in shouted fragments. Cart stuck. Court moved. Bailiff angry. River rising.
+Outside, noon's delay moved through the village in shouted fragments. Cart stuck. Court moved. Bailiff angry. River rising.
 
 Matra returned the old slat to its bundle and tied the black thread hard. "Go by the back wash. The lane will have eyes now."
 
@@ -210,9 +208,9 @@ Matra looked older in the gray light. "Most bravery in Harrowick Ford is not say
 
 Wren nodded, but her face did not forgive.
 
-Elsbet tucked the copy slat inside her sleeve beside Tomas's bond strip. Two thin records lay against her skin, one threatening her blood and one saving someone else's name. They felt too much alike.
+Elsbet tucked the copy slat inside her sleeve beside Tomas's bond strip. Two thin records lay against her skin, one threatening her blood and one saving someone else's name.
 
-By the back wash, water had climbed over the stepping stones. Elsbet lifted her skirt and went first so Wren could see where the mud held. Behind them, Matra's shed door bolted again.
+By the back wash, water had climbed over the stepping stones. Elsbet went first so Wren could see where the mud held. Behind them, Matra's shed door bolted again.
 
 Ahead, the court bell had not yet rung.
 
