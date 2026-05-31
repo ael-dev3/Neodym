@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 8, `book-one/manuscript/chapter-08-a-debt-called-mercy.md`, only after creating the next hourly audit note. Keep the chapter focused on Ruan's debt-pressure offer and the first court-threshold cost; do not let Orlan, the Glass Mile, or the route-post mark solve the case.
+Draft Chapter 9, `book-one/manuscript/chapter-09-before-the-flood-court.md`, only after creating the next hourly audit note. Move the side-table refusal into formal court procedure, make Harl Brey's clean-record motive visible, and do not add a new proof source or resolve the case before the public candle count.

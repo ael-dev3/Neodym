@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 13,943
-- Estimated pages: 55.8
-- Drafted chapters: 7 of 12
+- Manuscript words: 15,910
+- Estimated pages: 63.6
+- Drafted chapters: 8 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 11,057
+- Remaining words before hard cap: 9,090
 - Compression mode: not active
 
 ## Drafted chapters
@@ -28,10 +28,10 @@ The Ninth Candle
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,990 | drafted |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 2,081 | drafted |
+| 8 | `chapter-08-a-debt-called-mercy.md` | 1,967 | drafted |
 
 ## Missing chapters
 
-- Chapter 8 — A Debt Called Mercy
 - Chapter 9 — Before the Flood Court
 - Chapter 10 — Candles Counted Aloud
 - Chapter 11 — Ward of Saint Brenna
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0702-audit.md`
+- `book-one/cron/audits/2026-05-31-0802-audit.md`
 
 ## What Chapter 1 proves
 
@@ -100,21 +100,29 @@ The Ninth Candle
 - Elsbet keeps the mark credible by refusing to touch or alter it and by letting witnesses see the red cloth covering it.
 - Wren gains a possible human witness through the grain woman, but the witness is conditional and frightened rather than an easy rescue.
 
+## What Chapter 8 proves
+
+- Ruan's strongest weapon is not open force but a plausible compromise: convert Maura's marriage into uncertainty, protect Tomas's bond, delay chapel debt, and let the manor hold the ferry through flood season.
+- Elsbet's temptation is real because the offer would protect her brother, Matra, Orlan, and Wren's immediate shelter while quietly sacrificing Maura's married name.
+- Wren's marriage cord sharpens the moral cost without solving the case; it forces Elsbet to see what “almost married” would mean to the person being renamed.
+- Harl Brey enters as a procedure-first steward, setting up the formal hearing without making him a benevolent rescuer.
+- The chapter returns pressure to human debt, language, witness, and court procedure after the Glass Mile route chapter.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, 5, 6, and 7 are over target, though none triggers compression.
-- Matra's copy slat, Wren's ferry tally board, and the way-post mark are intentionally limited proof; future chapters must not let any one item solve the case alone.
-- Chapter 8 must keep court momentum while making Ruan's debt-pressure offer concrete and tempting.
+- Chapters 1, 2, 4, 5, 6, 7, and 8 are over target, though none triggers compression.
+- Matra's copy slat, Wren's ferry tally board, the marriage cord, and the way-post mark are intentionally limited proof; future chapters must not let any one item solve the case alone.
+- Chapter 9 must keep Harl Brey procedural rather than heroic and must not resolve the court case before the public candle count.
 - Orlan must remain a custodian and procedural witness, not the hero who wins the dispute.
 
 ## Next likely chapter
 
-`chapter-08-a-debt-called-mercy.md`
+`chapter-09-before-the-flood-court.md`
 
-Required Chapter 8 work:
+Required Chapter 9 work:
 
 - Follow a fresh hourly audit before drafting.
-- Move from the court threshold into Ruan's debt-pressure offer or anteroom confrontation.
-- Make Tomas's bond and Elsbet's household risk immediate enough that compromise is tempting.
-- Use the route-post mark only as limited public context, not decisive proof.
-- Keep the conflict human-first and avoid Aurelith explanation or intervention.
+- Move from Elsbet's side-table refusal into formal court procedure.
+- Make Harl Brey's clean-record motive visible without making him compassionate or heroic.
+- Arrange the existing proof chain for the hearing: rough register, ninth candle, cord, Matra's slat, ferry tally, and route mark.
+- Do not add a new proof source or resolve the case before Chapter 10's public candle count.

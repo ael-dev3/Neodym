@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 08:02 - Hourly audit and Chapter 8 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0802-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0802-audit.md`
+- `book-one/manuscript/chapter-08-a-debt-called-mercy.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 8 — A Debt Called Mercy.
+
+**Words added:** 1,967 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,967 words.
+
+**Current manuscript word count:** 15,910 words.
+
+**Current manuscript page estimate:** 63.6 pages.
+
+**Remaining words before cap:** 9,090 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the eighth actual new-version manuscript chapter.
+- Converted Ruan's court-door pressure into a concrete private offer: Tomas's bond relief, chapel debt delay, Matra's contract safety, and Wren's short-term shelter in exchange for making Maura's marriage uncertain.
+- Made Elsbet's near-agreement plausible because the compromise would protect several living people while quietly spending Maura's name.
+- Used Wren's cord to sharpen the moral cost without making it decisive proof.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 8 is 167 words over target, though below the 20% over-target compression trigger.
+- Chapter 9 must keep Harl Brey procedural and self-protective rather than benevolent.
+- The court sequence must not add a convenient new proof source; it should arrange and test the existing proof chain.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 9 — Before the Flood Court.
+
+**Questions for owner:**
+
+1. Does Ruan's “mercy” offer feel tempting enough because it protects Tomas and the chapel?
+2. Does Elsbet's near-agreement feel earned rather than weak?
+3. Does Wren's cord moment sharpen the moral stakes without pretending to solve the case?
+
 ## 2026-05-31 07:02 - Hourly audit and Chapter 7 draft
 
 **Mode:** drafting.
