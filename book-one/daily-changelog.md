@@ -1,5 +1,62 @@
 # Daily Changelog
 
+## 2026-05-31 12:02 - Hourly audit and Chapter 12 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1202-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1202-audit.md`
+- `book-one/manuscript/chapter-12-the-name-in-the-margin.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 12 — The Name in the Margin.
+
+**Words added:** 1,985 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,985 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,969 words.
+
+**Current manuscript page estimate:** 95.9 pages.
+
+**Remaining words before cap:** 1,031 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the twelfth and final planned new-version manuscript chapter.
+- Paid off Chapter 11's margin-cause order by showing Elsbet write a lawful, limited fair-copy margin note rather than a full legal victory.
+- Produced Matra's original fever slat under order and preserved custody without adding a convenient new proof source.
+- Kept Tomas's bond pressure visible as an unresolved cost beside the margin note.
+- Ended on a narrow human record victory: Maura Dain remains written where absence had been ordered, while Ruan, Tomas's bond, chapel debt, and the wider system remain unresolved.
+- Kept the conflict human-first; the Glass Mile remains silent and explanatory restraint holds.
+
+**What remains weak:**
+
+- The completed draft is now 23,969 words / 95.9 pages, so compression mode is active.
+- Chapter 1 sits just below the 20% over-target per-chapter trigger and should be checked early in compression.
+- Chapter 10 is the longest chapter and may be the best first compression target if the candle-count climax can be tightened without losing clarity.
+- The final chapter may need a revision pass after compression to ensure the ending lands as beginning-with-a-record rather than anticlimax.
+
+**Next recommended action:** create the next hourly audit, then enter compression mode on the completed 12-chapter draft. Trim actual manuscript prose rather than adding framework.
+
+**Questions for owner:**
+
+1. Does the margin note feel lawful and limited rather than too triumphant?
+2. Does the ending preserve enough pressure around Tomas's bond and Ruan's future moves?
+3. Should the next pass compress Chapter 10 first, or start with Chapter 1 because it is closest to the per-chapter overage trigger?
+
 ## 2026-05-31 11:01 - Hourly audit and Chapter 11 draft
 
 **Mode:** drafting.

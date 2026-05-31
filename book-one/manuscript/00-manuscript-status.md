@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Drafting mode under the hourly audit-first workflow.
+Compression mode after completion of the first 12-chapter draft under the hourly audit-first workflow.
 
 ## Working title
 
@@ -10,12 +10,12 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 21,984
-- Estimated pages: 87.9
-- Drafted chapters: 11 of 12
+- Manuscript words: 23,969
+- Estimated pages: 95.9
+- Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 3,016
-- Compression mode: not active
+- Remaining words before hard cap: 1,031
+- Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
 ## Drafted chapters
@@ -33,14 +33,15 @@ The Ninth Candle
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,971 | drafted |
+| 12 | `chapter-12-the-name-in-the-margin.md` | 1,985 | drafted |
 
 ## Missing chapters
 
-- Chapter 12 — The Name in the Margin
+- None. The first 12-chapter draft is complete.
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-1101-audit.md`
+- `book-one/cron/audits/2026-05-31-1202-audit.md`
 
 ## What Chapter 1 proves
 
@@ -133,21 +134,22 @@ The Ninth Candle
 - Elsbet loses her safe invisibility because Harl's order names her as copyist responsible for the margin cause.
 - No new proof source or Aurelith explanation appears; the chapter pays off existing consequences.
 
+## What Chapter 12 proves
+
+- Elsbet's final written action is lawful and limited: she prepares a fair-copy margin cause under Harl's order rather than declaring full legal victory.
+- Maura Dain's name survives on the fair copy because the margin records the rough marriage line, death entry, ninth household light, Matra's produced slat, and custody limits.
+- Matra's original slat is produced under order and compared to the copy without becoming a magical or decisive proof source.
+- Tomas's bond remains an unresolved cost beside Elsbet's choice; the ending does not pretend everyone is safe.
+- The Glass Mile remains silent and unexplained; the final pressure stays human, local, and procedural.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 are over target, though none triggers per-chapter compression.
-- Drafting Chapter 12 at full target will likely push the completed manuscript above the 22,500-word / 90-page compression threshold.
-- Chapter 12 must finish the margin-note and name-preservation arc without pretending Ruan, Tomas's bond, the chapel debt, or the manor system are fully solved.
-- Elsbet's final written action must be lawful and limited: a margin cause or fair-copy note that can stand, not an implausible full legal victory.
+- The completed draft is over the compression threshold at 23,969 words / 95.9 pages.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 10, 11, and 12 are over target, though none triggers per-chapter compression.
+- Chapter 1 is close to the 20% over-target trigger and should be checked early.
+- Chapter 10 is the longest chapter and may offer the largest safe compression opportunity.
+- The ending should be reviewed after compression to ensure the final margin note feels earned, lawful, and emotionally sufficient.
 
-## Next likely chapter
+## Next likely work
 
-`chapter-12-the-name-in-the-margin.md`
-
-Required Chapter 12 work:
-
-- Follow a fresh hourly audit before drafting.
-- Draft the final chapter compactly with page-budget pressure in view.
-- Pay off the margin-cause order from Chapter 11.
-- Preserve Maura's name through a lawful limited note rather than overclaiming proof.
-- Keep the ending human-first and narrow, with no Aurelith answer or plot-solving intervention.
+Compression pass on actual manuscript prose. Start with Chapter 10 or Chapter 1 after the next required hourly audit. Do not add new framework instead of trimming the completed draft.

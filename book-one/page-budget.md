@@ -10,11 +10,11 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **21,984 words**.
-- Current page estimate: **87.9 pages**.
-- Remaining words before hard cap: **3,016 words**.
-- Drafted chapters: **11 of 12**.
-- Compression status: **not active**.
+- Current new-version manuscript word count: **23,969 words**.
+- Current page estimate: **95.9 pages**.
+- Remaining words before hard cap: **1,031 words**.
+- Drafted chapters: **12 of 12**.
+- Compression status: **active**.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
 
 ## Words by chapter
@@ -32,19 +32,19 @@
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
 | 10 | Candles Counted Aloud | 2,300 | 2,413 | +113 | drafted |
 | 11 | Ward of Saint Brenna | 1,750 | 1,971 | +221 | drafted |
-| 12 | The Name in the Margin | 1,900 | 0 | -1,900 | not drafted |
+| 12 | The Name in the Margin | 1,900 | 1,985 | +85 | drafted |
 
 Planned target total: **21,850 words**.
 
-Projected total if remaining chapters hit target: **23,884 words**.
+Completed draft total: **23,969 words**.
 
 ## Budget flags
 
-- Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 are over target; all remain below the 20% over-target compression trigger.
-- Chapters under budget: Chapter 3 is **47 words under target** and Chapter 9 is **76 words under target**; Chapter 12 is not drafted.
-- Compression trigger: **inactive**. Current manuscript is 21,984 words / 87.9 pages, below both the 22,500-word and 90-page thresholds.
-- Forward budget warning: drafting Chapter 12 at its 1,900-word target would put the manuscript at about 23,884 words / 95.5 pages, which means the completed draft will likely need a compression pass.
+- Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 10, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
+- Chapters under budget: Chapter 3 is **47 words under target** and Chapter 9 is **76 words under target**.
+- Compression trigger: **active**. Current manuscript is 23,969 words / 95.9 pages, above both the 22,500-word and 90-page thresholds.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,031 words of space before the cap.
 
 ## Next recommended action
 
-Draft Chapter 12, `book-one/manuscript/chapter-12-the-name-in-the-margin.md`, after creating the required hourly audit note. Keep it compact and final: Elsbet must prepare the lawful margin cause, protect Maura's name without overclaiming, face Tomas's bond pressure, and end with a narrow human victory rather than a solved system or Aurelith explanation.
+Create the next hourly audit, then run compression mode on the completed 12-chapter draft. Start with the longest and most over-budget pressure points, especially Chapter 10 and near-trigger Chapter 1, while preserving the proof chain, Elsbet/Wren emotional arc, and thin-veil Glass Mile restraint.

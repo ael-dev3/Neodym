@@ -2,37 +2,37 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-1101-audit.md`
+`book-one/cron/audits/2026-05-31-1202-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 11 of **The Ninth Candle**: `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`.
+Drafted Chapter 12 of **The Ninth Candle**: `book-one/manuscript/chapter-12-the-name-in-the-margin.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified Chapter 10's aftermath as the weakest manuscript gap. Chapter 11 converts the court delay into human cost: Wren becomes a temporary ward under Saint Brenna's roof, emergency crossings run only under old tolls and a court pouch, Matra and Orlan face visible costs, Tomas's bond pressure begins, and Elsbet is named as the copyist responsible for a lawful margin cause.
+The required audit found no blocking logic failure and identified the missing ending as the weakest manuscript gap. Chapter 12 pays off Harl Brey's margin-cause order by showing Elsbet write a lawful, limited note in the fair-copy margin: Maura Dain remains present in the record, Matra's original slat is produced under order, custody remains procedural, and the ending stays narrow rather than solving the manor system.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-1101-audit.md`
-2. `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`
+1. `book-one/cron/audits/2026-05-31-1202-audit.md`
+2. `book-one/manuscript/chapter-12-the-name-in-the-margin.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 11 of 12
-- Current manuscript word count: 21,984
-- Page estimate: 87.9
-- Remaining words before hard cap: 3,016
-- Compression mode: not active
+- Drafted chapters: 12 of 12
+- Current manuscript word count: 23,969
+- Page estimate: 95.9
+- Remaining words before hard cap: 1,031
+- Compression mode: active
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Risks
 
-- Drafting Chapter 12 at full target will likely push the manuscript above the compression threshold, so the final chapter should be compact and a later compression pass may be needed.
-- Chapter 12 must make Elsbet's margin note lawful and limited, not an implausible complete legal victory.
-- Tomas's bond pressure should stay visible without turning into melodrama or a convenient rescue.
+- The complete draft is now above the 22,500-word / 90-page compression trigger, so the next run should compress actual manuscript prose rather than add support framework.
+- Chapter 1 is very close to the 20% over-target per-chapter threshold, and Chapter 10 is the longest chapter.
+- Compression must preserve the proof chain, Elsbet/Wren emotional arc, and thin-veil restraint.
 
 ## Suggested owner feedback
 
-Check whether temporary chapel wardship feels costly rather than cozy, whether Ruan's bond retaliation feels procedural enough, and whether the final chapter should end on a local margin note or a broader deanery/harvest-hearing preparation.
+Check whether the final margin note feels lawful and limited, whether Tomas's bond pressure remains visible enough, and whether the next pass should compress Chapter 10 first or begin with Chapter 1.

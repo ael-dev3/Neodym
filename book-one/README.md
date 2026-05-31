@@ -4,9 +4,9 @@
 
 Book One has been restarted from the ground up. The prior levy-bell premise is archived under `archive/book-one-failed-levy-bell/` and is not live canon.
 
-Current mode: **hourly audit-first drafting**.
+Current mode: **compression mode after a completed 12-chapter draft**.
 
-Chapters 1 through 11 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
+Chapters 1 through 12 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
 ## Working title
 
@@ -33,6 +33,7 @@ This premise gives the protagonist legitimate access from the first page. Elsbet
 9. [`03-plot-outline.md`](03-plot-outline.md)
 10. [`04-chapter-beats.md`](04-chapter-beats.md)
 11. [`09-risk-register.md`](09-risk-register.md)
+12. [`manuscript/`](manuscript/)
 
 ## Core craft rule
 
@@ -40,12 +41,13 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **21,984**
-- Estimated manuscript pages: **87.9**
+- Drafted manuscript words: **23,969**
+- Estimated manuscript pages: **95.9**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
+- Compression status: **active**
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then draft Chapter 12: `book-one/manuscript/chapter-12-the-name-in-the-margin.md`.
+Use the next run to create a fresh hourly audit, then compress actual manuscript prose in the completed 12-chapter draft. Candidate first targets are Chapter 10, the longest chapter, and Chapter 1, the chapter closest to its per-chapter overage trigger.
