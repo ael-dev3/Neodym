@@ -2,36 +2,36 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-0302-audit.md`
+`book-one/cron/audits/2026-05-31-0401-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 3 of **The Ninth Candle**: `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`.
+Drafted Chapter 4 of **The Ninth Candle**: `book-one/manuscript/chapter-04-matras-wax-slats.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified Wren's missing full introduction as the weakest current manuscript gap. Chapter 3 makes Wren an active claimant, clarifies that the marriage cord is corroborating pressure rather than decisive proof, and forces Elsbet into a narrow procedural refusal to seal the fair copy yet.
+The required audit found no blocking logic failure and identified the missing Matra Voss proof scene as the weakest current manuscript gap. Chapter 4 makes Matra's candle slats useful but not decisive, shows the cost of asking a trade widow to risk her manor candle contract, and gives Elsbet a copied tally slat rather than an easy court victory.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-0302-audit.md`
-2. `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`
+1. `book-one/cron/audits/2026-05-31-0401-audit.md`
+2. `book-one/manuscript/chapter-04-matras-wax-slats.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 3 of 12
-- Current manuscript word count: 5,735
-- Page estimate: 22.9
-- Remaining words before hard cap: 19,265
+- Drafted chapters: 4 of 12
+- Current manuscript word count: 7,840
+- Page estimate: 31.4
+- Remaining words before hard cap: 17,160
 - Compression mode: not active
 
 ## Risks
 
-- Chapter 1 and Chapter 2 remain over target, but below the 20% chapter compression trigger.
-- Chapter 4 must make Matra's candle slats useful without turning them into a too-easy solution.
-- Elsbet's delay must create believable consequences from Ruan rather than letting the plot pause safely.
+- Chapter 4 is 305 words over target, though below the 20% chapter compression trigger.
+- Matra's copied slat must stay corroborating proof, not decisive proof.
+- Chapter 5 needs to show Nine-Candle Meadow's ferry value and bailiff attention without giving Elsbet convenient or risk-free access.
 
 ## Suggested owner feedback
 
-Check whether Wren's first full scene gives her enough agency, whether the marriage cord's limits are clear, and whether Elsbet's refusal to seal the copy feels procedurally plausible rather than heroic convenience.
+Check whether Matra's partial cooperation feels believable, whether the copied slat is useful without over-solving the case, and whether the next chapter should keep Wren beside Elsbet at the ferry bank or separate them to heighten wardship danger.

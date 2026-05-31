@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 04:01 - Hourly audit and Chapter 4 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0401-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0401-audit.md`
+- `book-one/manuscript/chapter-04-matras-wax-slats.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 4 — Matra's Wax Slats.
+
+**Words added:** 2,105 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +2,105 words.
+
+**Current manuscript word count:** 7,840 words.
+
+**Current manuscript page estimate:** 31.4 pages.
+
+**Remaining words before cap:** 17,160 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the fourth actual new-version manuscript chapter.
+- Made Matra's receipt slats corroborating evidence rather than a decisive solution.
+- Put an immediate cost on the proof source through Ruan's candle-contract pressure.
+- Gave Wren another human disappointment: Matra helps, but not all the way.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 4 is 305 words over target, though still below the 20% over-target compression trigger.
+- The copied tally slat is intentionally thin proof and must stay paired with register, cord, and witness pressure.
+- Chapter 5 must make Nine-Candle Meadow's ferry value concrete without relying on convenient access.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 5 — The Meadow Under Water.
+
+**Questions for owner:**
+
+1. Does Matra's partial cooperation feel believable rather than cowardly or too convenient?
+2. Is the copy slat useful enough without over-solving the court problem?
+3. Should Chapter 5 keep Wren beside Elsbet at the ferry bank, or put Wren elsewhere so the wardship threat tightens?
+
 ## 2026-05-31 03:02 - Hourly audit and Chapter 3 draft
 
 **Mode:** drafting.

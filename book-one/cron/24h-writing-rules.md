@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 2, `book-one/manuscript/chapter-02-the-missing-ninth.md`, only after creating the next hourly audit note.
+Draft Chapter 5, `book-one/manuscript/chapter-05-the-meadow-under-water.md`, only after creating the next hourly audit note.

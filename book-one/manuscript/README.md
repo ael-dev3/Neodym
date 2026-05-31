@@ -9,16 +9,17 @@ Book One manuscript prose is underway for **The Ninth Candle**.
 | 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
+| 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
 
 ## Current manuscript count
 
-- Total manuscript words: 5,735
-- Estimated pages: 22.9
+- Total manuscript words: 7,840
+- Estimated pages: 31.4
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: not active
 
 ## Next planned file
 
-- `chapter-04-matras-wax-slats.md`
+- `chapter-05-the-meadow-under-water.md`
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 5,735
-- Estimated pages: 22.9
-- Drafted chapters: 3 of 12
+- Manuscript words: 7,840
+- Estimated pages: 31.4
+- Drafted chapters: 4 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 19,265
+- Remaining words before hard cap: 17,160
 - Compression mode: not active
 
 ## Drafted chapters
@@ -24,10 +24,10 @@ The Ninth Candle
 | 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
+| 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
 
 ## Missing chapters
 
-- Chapter 4 — Matra's Wax Slats
 - Chapter 5 — The Meadow Under Water
 - Chapter 6 — Father Orlan's Key
 - Chapter 7 — The Glass Mile Bend
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0302-audit.md`
+- `book-one/cron/audits/2026-05-31-0401-audit.md`
 
 ## What Chapter 1 proves
 
@@ -66,21 +66,29 @@ The Ninth Candle
 - Elsbet can create a narrow procedural delay by refusing to witness a fair copy that is not yet fair.
 - The next proof source is Matra Voss's candle memory and receipt slats.
 
+## What Chapter 4 proves
+
+- Matra's candle slats corroborate the ninth household candle and Maura's married name without deciding the case alone.
+- Matra has plausible control over the slats because they are private trade records, not convenient official documents.
+- Ruan's pressure now reaches the candle contract and court candle order, showing an immediate cost for Elsbet's delay.
+- Matra gives a copied tally slat but refuses voluntary testimony, preserving tension for the flood court.
+- Wren understands that even helpful adults may only risk partial bravery.
+
 ## Current weak points
 
-- Chapters 1 and 2 are both over target, though neither triggers compression.
-- Chapter 3 is slightly under target, but functionally complete.
-- Elsbet's refusal to delay the copy must have concrete consequences in Chapter 4.
-- Matra's support must cost her something; she should not simply hand over a decisive proof.
+- Chapters 1, 2, and 4 are over target, though none triggers compression.
+- Matra's copy slat is intentionally thin proof; future chapters must not let it solve the case by itself.
+- Chapter 5 must make Nine-Candle Meadow's value visible through floodwater, ferry ropes, and bailiff attention rather than explanation.
+- Ruan's noon delay should increase danger, not give the protagonists a safe pause.
 
 ## Next likely chapter
 
-`chapter-04-matras-wax-slats.md`
+`chapter-05-the-meadow-under-water.md`
 
-Required Chapter 4 work:
+Required Chapter 5 work:
 
 - Follow a fresh hourly audit before drafting.
-- Bring Elsbet and Wren toward Matra Voss's candle shed or bring Matra into the chapel through a plausible summons.
-- Make the receipt slats corroborate the ninth candle without becoming an instant legal solution.
-- Show the pressure of the manor candle contract.
+- Bring Elsbet and Wren to Nine-Candle Meadow or the ferry bank through a plausible route and risk.
+- Show flood marks, ferry value, and why Ruan needs the meadow before court.
+- Make bailiff surveillance or trespass danger concrete.
 - Keep the conflict human-first and avoid Aurelith explanation.

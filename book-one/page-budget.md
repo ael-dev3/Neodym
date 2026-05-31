@@ -10,10 +10,10 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **5,735 words**.
-- Current page estimate: **22.9 pages**.
-- Remaining words before hard cap: **19,265 words**.
-- Drafted chapters: **3 of 12**.
+- Current new-version manuscript word count: **7,840 words**.
+- Current page estimate: **31.4 pages**.
+- Remaining words before hard cap: **17,160 words**.
+- Drafted chapters: **4 of 12**.
 - Compression status: **not active**.
 
 ## Words by chapter
@@ -23,7 +23,7 @@
 | 1 | The Fair Copy | 1,700 | 2,036 | +336 | drafted |
 | 2 | The Missing Ninth | 1,750 | 1,948 | +198 | drafted |
 | 3 | Wren at the Chapel Door | 1,800 | 1,751 | -49 | drafted |
-| 4 | Matra's Wax Slats | 1,800 | 0 | -1,800 | not drafted |
+| 4 | Matra's Wax Slats | 1,800 | 2,105 | +305 | drafted |
 | 5 | The Meadow Under Water | 1,850 | 0 | -1,850 | not drafted |
 | 6 | Father Orlan's Key | 1,800 | 0 | -1,800 | not drafted |
 | 7 | The Glass Mile Bend | 1,850 | 0 | -1,850 | not drafted |
@@ -37,10 +37,10 @@ Planned target total: **21,850 words**.
 
 ## Budget flags
 
-- Chapters over budget: Chapter 1 is **336 words over target** and Chapter 2 is **198 words over target**; both remain below the 20% over-target compression trigger.
-- Chapters under budget: Chapter 3 is **49 words under target**; Chapters 4–12 are not drafted.
-- Compression trigger: **inactive**. Current manuscript is 5,735 words / 22.9 pages.
+- Chapters over budget: Chapter 1 is **336 words over target**, Chapter 2 is **198 words over target**, and Chapter 4 is **305 words over target**; all remain below the 20% over-target compression trigger.
+- Chapters under budget: Chapter 3 is **49 words under target**; Chapters 5–12 are not drafted.
+- Compression trigger: **inactive**. Current manuscript is 7,840 words / 31.4 pages.
 
 ## Next recommended action
 
-Draft Chapter 4, `book-one/manuscript/chapter-04-matras-wax-slats.md`, after creating the required hourly audit note. Keep Chapter 4 close to 1,800 words, make Matra's receipt slats corroborate the ninth candle without deciding the case alone, and show the cost of asking a trade widow to risk her manor candle contract.
+Draft Chapter 5, `book-one/manuscript/chapter-05-the-meadow-under-water.md`, after creating the required hourly audit note. Keep Chapter 5 close to 1,850 words, make Nine-Candle Meadow's flood value concrete, show why Elsbet can reach the ferry bank without convenient access, and let bailiff attention make the visit costly.
