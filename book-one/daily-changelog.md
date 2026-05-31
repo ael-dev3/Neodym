@@ -1,5 +1,57 @@
 # Daily Changelog
 
+## 2026-05-31 17:03 - Hourly audit and Chapter 10 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1703-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1703-audit.md`
+- `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 10 — Candles Counted Aloud.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 80 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -80 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,273 words.
+
+**Current manuscript page estimate:** 93.1 pages.
+
+**Remaining words before cap:** 1,727 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 10 from 2,264 words to 2,184 words.
+- Cut repeated court-procedure explanation while preserving the public candle count, Matra's order-backed arrival, Orlan's custody defense, Harl's delay order, Wren's temporary chapel keeping, and the ninth-candle image.
+- Kept the climax human-first: the court delay still comes from custody, records, witness limits, and dirty-roll risk rather than magic, Aurelith intervention, or benevolent rescue.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,273 words / 93.1 pages.
+- Chapter 11 now has the largest remaining absolute overage and is closest to the 20% over-target trigger by percentage.
+- The final two chapters should keep their emotional cost while avoiding new material unless replacing weaker prose.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 11 while preserving the costly aftermath of the court delay, Tomas's bond pressure, Wren's uncomfortable chapel wardship, and Ruan's procedural retaliation.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 10 still make Harl's procedural delay clear enough?
+2. Is Matra's arrival still plausibly tied to the established court-candle order after trimming?
+3. Should the next compression pass target Chapter 11 as recommended, or should it review the final margin-note ending first?
+
 ## 2026-05-31 16:02 - Hourly audit and Chapter 7 compression
 
 **Mode:** compression.

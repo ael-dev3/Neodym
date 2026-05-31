@@ -18,9 +18,9 @@ Elsbet saw his lips move without sound. His eyes hunted the page he had carried 
 
 Orlan swallowed. "Maura Dain. Winter fever. Nine lights. One child. Ferry bank."
 
-The room rustled. Some people knew the custom before anyone explained. Others only heard the priest say Dain where the clerk had said Reed, called Dain, and leaned forward because names were easier than laws.
+The room rustled. Some knew the custom. Others only heard the priest say Dain where the clerk had said Reed, called Dain, and leaned forward because names were easier than laws.
 
-Ruan spoke before the lean could become sympathy. "A crowded fever page, Master Brey. The priest has already admitted poor eyes. He reads a name that may have been local habit and a count that may have been charity. Fever burials were disorderly. No one disputes grief. Grief is not title."
+Ruan spoke before the lean could become sympathy. "A crowded fever page, Master Brey. Poor eyes. A name that may be local habit, a count that may be charity. Fever burials were disorderly. Grief is not title."
 
 "No one asked you to preach grief," Harl said. "Mistress Vale, why does the number matter? Briefly."
 
@@ -92,7 +92,7 @@ Ruan's breath left him softly. Elsbet hated that sound more than any shout.
 
 Ruan bowed his head a little, but his mouth kept the shape of victory.
 
-Elsbet felt the room slipping toward him, not from love but because his answer made fewer demands. A child had grieved. A priest had erred. A bailiff had kept the road moving. Everyone could go home wet and guilty but not responsible.
+Elsbet felt the room slipping toward him because his answer made fewer demands. A child had grieved. A priest had erred. A bailiff had kept the road moving. Everyone could go home wet and guilty but not responsible.
 
 She put her hand on the rough register, not over the ink, only on the torn lower corner where old thumbs had already darkened the page.
 
@@ -124,13 +124,13 @@ The steward read the draft. His expression did not change, which made the silenc
 
 The court door opened as if the question had struck wood.
 
-Matra Voss came in with a candle box, tallow lights, rain-plastered hair, and a manor boy behind her carrying two seal candles and the offended look of someone made late by another person's courage.
+Matra Voss came in with a candle box, rain-plastered hair, and a manor boy behind her carrying two seal candles.
 
-"Court candles," she said before anyone accused her. "Twelve bench lights, two seal candles, one witness taper. Ordered by Master Kest. Delayed by Moat Lane and a cart sunk to its prayers."
+"Court candles," she said before anyone accused her. "Twelve bench lights, two seal candles, one witness taper. Ordered by Master Kest. Delayed by Moat Lane."
 
 Ruan's face did not move. That was how Elsbet knew the arrival had hurt him.
 
-Harl looked at the box, then at Ruan. "You ordered a candlewright to attend my court with candles and did not summon her to a candle matter. Efficient again."
+Harl looked from the box to Ruan. "You ordered a candlewright to attend my court with candles and did not summon her to a candle matter. Efficient again."
 
 Matra's eyes found Wren, the cord, then Elsbet; in them was fear sharpened into anger because anger could stand in public better.
 
@@ -186,7 +186,7 @@ Wren made a sound. Not a sob. Smaller and more dangerous.
 
 Harl stood.
 
-The chair scraped back hard enough to silence the benches. Outside, shouts rose from the yard and the water. The flood had not paused for court. Ruan's best argument kept pushing at the walls with wet hands.
+The chair scraped back hard enough to silence the benches. Outside, shouts rose from the yard and the water. The flood had not paused for court.
 
 "I will not decide marriage title on a cord," Harl said. "I will not decide wardship on a copyist's temper. I will not decide ferry lease on a candlewright's memory without the original slat in the room."
 
@@ -216,7 +216,7 @@ Ruan said, very softly, "The road will not thank you."
 
 Harl's eyes moved to the benches. "Emergency crossings may run under the old toll tally until next hearing. Fees to the court pouch. Any man moving rope stakes before the order is read pays twice what his cart is worth."
 
-That was not justice. It was money made cautious, Wren's life balanced against wet wool and appeal fees, a narrow plank over water because the steward disliked mud on his shoes.
+That was not justice. It was money made cautious, a narrow plank over water because the steward disliked dirty rolls.
 
 It was enough for this hour.
 
@@ -250,11 +250,11 @@ She lit the ninth.
 
 The flame leaned, caught, and held.
 
-Elsbet looked at Maura's name in the rough book, at Wren's cord beside it, at Ruan's clean draft lying useless for now under Harl's hand. Her brother's bond still waited. Orlan's debt still waited. The meadow was not safe. Ruan was only checked before witnesses he would remember.
+Elsbet looked at Maura's name, Wren's cord, and Ruan's clean draft lying useless for now under Harl's hand. Her brother's bond still waited. Orlan's debt still waited. The meadow was not safe. Ruan was only checked before witnesses.
 
 But the clerk had written delay into the roll. A false clean line had failed to become law before noon.
 
-That was not victory. It was a door held shut with one shaking hand while everyone inside searched for a bar.
+Not victory: a door held shut with one shaking hand while everyone inside searched for a bar.
 
 Wren looked at Elsbet across the candles.
 

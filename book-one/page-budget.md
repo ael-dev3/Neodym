@@ -10,9 +10,9 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **23,353 words**.
-- Current page estimate: **93.4 pages**.
-- Remaining words before hard cap: **1,647 words**.
+- Current new-version manuscript word count: **23,273 words**.
+- Current page estimate: **93.1 pages**.
+- Remaining words before hard cap: **1,727 words**.
 - Drafted chapters: **12 of 12**.
 - Compression status: **active**.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
@@ -30,21 +30,21 @@
 | 7 | The Glass Mile Bend | 1,850 | 1,914 | +64 | compressed |
 | 8 | A Debt Called Mercy | 1,800 | 1,969 | +169 | drafted |
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
-| 10 | Candles Counted Aloud | 2,300 | 2,264 | -36 | compressed |
+| 10 | Candles Counted Aloud | 2,300 | 2,184 | -116 | compressed twice; latest pass removed repeated court-procedure explanation while preserving the public candle-count ruling |
 | 11 | Ward of Saint Brenna | 1,750 | 1,971 | +221 | drafted |
 | 12 | The Name in the Margin | 1,900 | 1,985 | +85 | drafted |
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **23,353 words**.
+Completed draft total: **23,273 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
-- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **36 words under target** after compression.
-- Compression trigger: **active**. Current manuscript is 23,353 words / 93.4 pages, above both the 22,500-word and 90-page thresholds.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,647 words of space before the cap.
-- Latest compression: Chapter 7 was reduced from 2,083 to 1,914 words, removing 169 words of repeated route-fear, court-waiting, and way-post explanation while preserving the Glass Mile's thin-veil restraint, ferry economics, public mark, and conditional witness beat.
+- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **116 words under target** after compression.
+- Compression trigger: **active**. Current manuscript is 23,273 words / 93.1 pages, above both the 22,500-word and 90-page thresholds.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,727 words of space before the cap.
+- Latest compression: Chapter 10 was reduced from 2,264 to 2,184 words, removing 80 words of repeated court-procedure explanation while preserving the public candle count, Matra's order-backed arrival, Orlan's custody defense, Harl's delay order, and the ninth-candle image.
 
 ## Next recommended action
 
