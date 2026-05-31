@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 3,984
-- Estimated pages: 15.9
-- Drafted chapters: 2 of 12
+- Manuscript words: 5,735
+- Estimated pages: 22.9
+- Drafted chapters: 3 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 21,016
+- Remaining words before hard cap: 19,265
 - Compression mode: not active
 
 ## Drafted chapters
@@ -23,10 +23,10 @@ The Ninth Candle
 |---|---|---:|---|
 | 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
+| 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
 
 ## Missing chapters
 
-- Chapter 3 — Wren at the Chapel Door
 - Chapter 4 — Matra's Wax Slats
 - Chapter 5 — The Meadow Under Water
 - Chapter 6 — Father Orlan's Key
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0202-audit.md`
+- `book-one/cron/audits/2026-05-31-0302-audit.md`
 
 ## What Chapter 1 proves
 
@@ -58,20 +58,29 @@ The Ninth Candle
 - Ruan's leverage against Tomas is concrete through the mill bond review and the phrase "household conduct."
 - Wren arrives at the chapel as an active claimant, forcing Chapter 3 toward living stakes rather than abstract record proof.
 
+## What Chapter 3 proves
+
+- Wren is active, angry, specific, and willing to challenge Elsbet, Father Orlan, and Tomas rather than functioning as an object of pity.
+- Ruan's wardship pressure has already touched Wren's cottage through a household visit and a basket for her things.
+- The marriage cord is material corroboration and emotional pressure, but it cannot decide the case without matching witness, candle, and register support.
+- Elsbet can create a narrow procedural delay by refusing to witness a fair copy that is not yet fair.
+- The next proof source is Matra Voss's candle memory and receipt slats.
+
 ## Current weak points
 
 - Chapters 1 and 2 are both over target, though neither triggers compression.
-- Wren has just entered; Chapter 3 must make her vivid, difficult, and active without making her magically able to win the case.
-- The marriage cord is now present as a question; future chapters must keep it supporting rather than decisive.
+- Chapter 3 is slightly under target, but functionally complete.
+- Elsbet's refusal to delay the copy must have concrete consequences in Chapter 4.
+- Matra's support must cost her something; she should not simply hand over a decisive proof.
 
 ## Next likely chapter
 
-`chapter-03-wren-at-the-chapel-door.md`
+`chapter-04-matras-wax-slats.md`
 
-Required Chapter 3 work:
+Required Chapter 4 work:
 
 - Follow a fresh hourly audit before drafting.
-- Let Wren challenge Elsbet and Father Orlan directly.
-- Clarify what the marriage cord can and cannot prove.
-- Keep Matra's receipt slats for Chapter 4.
+- Bring Elsbet and Wren toward Matra Voss's candle shed or bring Matra into the chapel through a plausible summons.
+- Make the receipt slats corroborate the ninth candle without becoming an instant legal solution.
+- Show the pressure of the manor candle contract.
 - Keep the conflict human-first and avoid Aurelith explanation.

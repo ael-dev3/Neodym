@@ -1,5 +1,59 @@
 # Daily Changelog
 
+## 2026-05-31 03:02 - Hourly audit and Chapter 3 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0302-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0302-audit.md`
+- `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 3 — Wren at the Chapel Door.
+
+**Words added:** 1,751 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,751 words.
+
+**Current manuscript word count:** 5,735 words.
+
+**Current manuscript page estimate:** 22.9 pages.
+
+**Remaining words before cap:** 19,265 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the third actual new-version manuscript chapter.
+- Made Wren active, angry, and specific in her first full scene rather than treating her as an abstract wardship stake.
+- Clarified that the marriage cord corroborates the rough register and ninth candle but cannot decide the case alone.
+- Gave Elsbet a concrete procedural action: refusing to witness or seal a copy that is not yet fair.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapters 1 and 2 remain over target, though both are below the 20% over-target compression trigger.
+- Chapter 4 must make Matra's candle slats useful without turning them into a too-easy solution.
+- Ruan's response to Elsbet's delay needs to be immediate and plausible.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 4 — Matra's Wax Slats.
+
+**Questions for owner:**
+
+1. Does Wren's first full scene make her active enough without giving her unrealistic legal power?
+2. Are the limits of the marriage cord clear?
+3. Does Elsbet's refusal to seal the copy feel like plausible procedure rather than heroic convenience?
+
 ## 2026-05-31 02:02 - Hourly audit and Chapter 2 draft
 
 **Mode:** drafting.

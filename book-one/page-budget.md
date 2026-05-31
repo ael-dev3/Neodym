@@ -10,10 +10,10 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **3,984 words**.
-- Current page estimate: **15.9 pages**.
-- Remaining words before hard cap: **21,016 words**.
-- Drafted chapters: **2 of 12**.
+- Current new-version manuscript word count: **5,735 words**.
+- Current page estimate: **22.9 pages**.
+- Remaining words before hard cap: **19,265 words**.
+- Drafted chapters: **3 of 12**.
 - Compression status: **not active**.
 
 ## Words by chapter
@@ -22,7 +22,7 @@
 |---|---|---:|---:|---:|---|
 | 1 | The Fair Copy | 1,700 | 2,036 | +336 | drafted |
 | 2 | The Missing Ninth | 1,750 | 1,948 | +198 | drafted |
-| 3 | Wren at the Chapel Door | 1,800 | 0 | -1,800 | not drafted |
+| 3 | Wren at the Chapel Door | 1,800 | 1,751 | -49 | drafted |
 | 4 | Matra's Wax Slats | 1,800 | 0 | -1,800 | not drafted |
 | 5 | The Meadow Under Water | 1,850 | 0 | -1,850 | not drafted |
 | 6 | Father Orlan's Key | 1,800 | 0 | -1,800 | not drafted |
@@ -38,9 +38,9 @@ Planned target total: **21,850 words**.
 ## Budget flags
 
 - Chapters over budget: Chapter 1 is **336 words over target** and Chapter 2 is **198 words over target**; both remain below the 20% over-target compression trigger.
-- Chapters under budget: Chapters 3–12 are not drafted.
-- Compression trigger: **inactive**. Current manuscript is 3,984 words / 15.9 pages.
+- Chapters under budget: Chapter 3 is **49 words under target**; Chapters 4–12 are not drafted.
+- Compression trigger: **inactive**. Current manuscript is 5,735 words / 22.9 pages.
 
 ## Next recommended action
 
-Draft Chapter 3, `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`, after creating the required hourly audit note. Keep Chapter 3 close to 1,800 words, make Wren an active claimant rather than an object of pity, and do not let the marriage cord solve the case by itself.
+Draft Chapter 4, `book-one/manuscript/chapter-04-matras-wax-slats.md`, after creating the required hourly audit note. Keep Chapter 4 close to 1,800 words, make Matra's receipt slats corroborate the ninth candle without deciding the case alone, and show the cost of asking a trade widow to risk her manor candle contract.
