@@ -12,7 +12,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,992 | drafted |
-| 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
+| 7 | `chapter-07-the-glass-mile-bend.md` | 1,914 | compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,264 | compressed |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 23,522
-- Estimated pages: 94.1
+- Total manuscript words: 23,353
+- Estimated pages: 93.4
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate next target: Chapter 7 because it is the largest remaining absolute overage and can be tightened while reducing thin-veil route pressure. Keep Chapter 11 as the closest 20% threshold-watch item by percentage.
+- Candidate next target: Chapter 11 because it now has the largest remaining absolute overage and is closest to the threshold-watch line. Preserve the costly aftermath, Tomas's bond pressure, Wren's uncomfortable chapel wardship, and Ruan's procedural retaliation.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

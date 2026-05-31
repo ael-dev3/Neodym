@@ -10,9 +10,9 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **23,522 words**.
-- Current page estimate: **94.1 pages**.
-- Remaining words before hard cap: **1,478 words**.
+- Current new-version manuscript word count: **23,353 words**.
+- Current page estimate: **93.4 pages**.
+- Remaining words before hard cap: **1,647 words**.
 - Drafted chapters: **12 of 12**.
 - Compression status: **active**.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
@@ -27,7 +27,7 @@
 | 4 | Matra's Wax Slats | 1,800 | 1,989 | +189 | compressed twice; latest pass removed repeated warning/permit exposition while preserving Matra as a pressure character |
 | 5 | The Meadow Under Water | 1,850 | 2,034 | +184 | drafted |
 | 6 | Father Orlan's Key | 1,800 | 1,992 | +192 | drafted |
-| 7 | The Glass Mile Bend | 1,850 | 2,083 | +233 | drafted |
+| 7 | The Glass Mile Bend | 1,850 | 1,914 | +64 | compressed |
 | 8 | A Debt Called Mercy | 1,800 | 1,969 | +169 | drafted |
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
 | 10 | Candles Counted Aloud | 2,300 | 2,264 | -36 | compressed |
@@ -36,16 +36,16 @@
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **23,522 words**.
+Completed draft total: **23,353 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
 - Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **36 words under target** after compression.
-- Compression trigger: **active**. Current manuscript is 23,522 words / 94.1 pages, above both the 22,500-word and 90-page thresholds.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,478 words of space before the cap.
-- Latest compression: Chapter 4 was reduced from 2,107 to 1,989 words, removing 118 words of repeated warning/permission exposition while preserving custody logic and Matra's risk motive.
+- Compression trigger: **active**. Current manuscript is 23,353 words / 93.4 pages, above both the 22,500-word and 90-page thresholds.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 1,647 words of space before the cap.
+- Latest compression: Chapter 7 was reduced from 2,083 to 1,914 words, removing 169 words of repeated route-fear, court-waiting, and way-post explanation while preserving the Glass Mile's thin-veil restraint, ferry economics, public mark, and conditional witness beat.
 
 ## Next recommended action
 
-Create the next hourly audit, then continue compression mode on actual manuscript prose. Start with Chapter 7 because it is the largest remaining absolute overage and can be tightened while reducing thin-veil route pressure; keep Chapter 11 as the closest 20% threshold-watch item by percentage.
+Create the next hourly audit, then continue compression mode on actual manuscript prose. Start with Chapter 11 because it now has the largest remaining absolute overage and is closest to the 20% threshold-watch line by percentage; preserve the costly aftermath, Tomas's bond pressure, Wren's uncomfortable chapel wardship, and Ruan's procedural retaliation.

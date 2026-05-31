@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 23,522
-- Estimated pages: 94.1
+- Manuscript words: 23,353
+- Estimated pages: 93.4
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 1,478
+- Remaining words before hard cap: 1,647
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -28,7 +28,7 @@ The Ninth Candle
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,992 | drafted |
-| 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
+| 7 | `chapter-07-the-glass-mile-bend.md` | 1,914 | compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,264 | compressed |
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-1502-audit.md`
+- `book-one/cron/audits/2026-05-31-1602-audit.md`
 
 ## What Chapter 1 proves
 
@@ -144,14 +144,15 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is over the compression threshold at 23,522 words / 94.1 pages.
+- The completed draft is over the compression threshold at 23,353 words / 93.4 pages.
 - Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target, though none triggers per-chapter compression.
 - Chapter 1 has been compressed from 2,038 to 1,858 words while preserving the opening proof mechanism.
 - Chapter 4 has been compressed from 2,107 to 1,989 words while preserving Matra's trade-risk motive, the copy-slat custody logic, and Wren's limited agency.
+- Chapter 7 has been compressed from 2,083 to 1,914 words while preserving the Glass Mile's thin-veil restraint, ferry economics, public mark, and conditional witness beat.
 - Chapter 10 has been compressed below target while preserving the public candle-count climax.
-- Chapter 7 now has the largest remaining absolute overage; Chapter 11 is closest to the 20% over-target trigger by percentage.
+- Chapter 11 now has the largest remaining absolute overage and is closest to the 20% over-target trigger by percentage.
 - The ending should be reviewed after compression to ensure the final margin note feels earned, lawful, and emotionally sufficient.
 
 ## Next likely work
 
-Compression pass on actual manuscript prose. Start with Chapter 7 after the next required hourly audit, with Chapter 11 held as the next threshold-watch item. Do not add new framework instead of trimming the completed draft.
+Compression pass on actual manuscript prose. Start with Chapter 11 after the next required hourly audit because it now has the largest remaining absolute overage and is closest to the threshold-watch line. Do not add new framework instead of trimming the completed draft.

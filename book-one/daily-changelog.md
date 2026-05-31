@@ -1,5 +1,57 @@
 # Daily Changelog
 
+## 2026-05-31 16:02 - Hourly audit and Chapter 7 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1602-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1602-audit.md`
+- `book-one/manuscript/chapter-07-the-glass-mile-bend.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 7 — The Glass Mile Bend.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 169 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -169 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,353 words.
+
+**Current manuscript page estimate:** 93.4 pages.
+
+**Remaining words before cap:** 1,647 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 7 from 2,083 words to 1,914 words.
+- Trimmed repeated route-fear, court-waiting, and way-post explanation while preserving the Glass Mile's thin-veil restraint, the ferry economics, the public way-post mark, Wren's refusal to let the mark be covered silently, and the grain woman's conditional witness.
+- Kept the conflict human-first: the Glass Mile remains route pressure and taboo only, with no Aurelith explanation, intervention, administrator behavior, or plot-solving.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,353 words / 93.4 pages.
+- Chapter 11 now has the largest remaining absolute overage and is closest to the 20% over-target trigger by percentage.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 remain over target, though below per-chapter compression triggers.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 11 while preserving the costly aftermath of the court delay, Tomas's bond pressure, Wren's uncomfortable chapel wardship, and Ruan's procedural retaliation.
+
+**Questions for owner:**
+
+1. Does the compressed Chapter 7 still make the Glass Mile feel like route pressure rather than decorative lore?
+2. Did the way-post mark and grain-woman witness remain clear enough after trimming repeated explanation?
+3. Should the next compression pass target Chapter 11 as recommended, or Chapter 5 because it carries another large ferry-economics overage?
+
 ## 2026-05-31 15:02 - Hourly audit and Chapter 4 compression
 
 **Mode:** compression.
