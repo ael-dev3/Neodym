@@ -15,14 +15,14 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
-| 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
+| 10 | `chapter-10-candles-counted-aloud.md` | 2,264 | compressed |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,971 | drafted |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,985 | drafted |
 
 ## Current manuscript count
 
-- Total manuscript words: 23,969
-- Estimated pages: 95.9
+- Total manuscript words: 23,820
+- Estimated pages: 95.3
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate first targets: Chapter 10 because it is the longest chapter, and Chapter 1 because it is closest to the 20% over-target per-chapter trigger.
+- Candidate next target: Chapter 1 because it is closest to the 20% over-target per-chapter trigger. Chapter 10 has been compressed below target.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

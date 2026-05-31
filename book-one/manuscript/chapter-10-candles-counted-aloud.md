@@ -4,9 +4,9 @@ The court heard the number before it heard the dead woman.
 
 "Nine," Elsbet said.
 
-The word went poorly into the room. It was too small for what it had to carry, only one more than eight, only a sound made with tongue and teeth while water worried at the yard and men shifted on benches because grain could rot faster than justice learned to stand.
+The word went poorly into the room. It was too small for what it had to carry, only one more than eight, while water worried at the yard and grain could rot faster than justice learned to stand.
 
-Harl Brey looked at the rough register as if it had inconvenienced him personally. Father Orlan had opened it to the winter fever pages with both hands flat on either side, not touching the ink. The old book lay swollen under the court light. Damp had lifted some edges. Old candle soot shadowed the crease. Beside it, the clerk's roll waited clean and thin.
+Harl Brey looked at the rough register as if it had inconvenienced him personally. Father Orlan had opened it to the winter fever pages with both hands braced beside the ink. The old book lay swollen under the court light, damp lifting some edges, soot shadowing the crease. Beside it, the clerk's roll waited clean and thin.
 
 "Read the line," Harl said.
 
@@ -18,13 +18,13 @@ Elsbet saw his lips move without sound. His eyes hunted the page he had carried 
 
 Orlan swallowed. "Maura Dain. Winter fever. Nine lights. One child. Ferry bank."
 
-The room rustled. Some people knew the custom well enough to understand before anyone explained. Others only heard that the priest had said Dain where the court clerk had said Reed, called Dain, and leaned forward because names were easier to follow than laws.
+The room rustled. Some people knew the custom before anyone explained. Others only heard the priest say Dain where the clerk had said Reed, called Dain, and leaned forward because names were easier than laws.
 
 Ruan spoke before the lean could become sympathy. "A crowded fever page, Master Brey. The priest has already admitted poor eyes. He reads a name that may have been local habit and a count that may have been charity. Fever burials were disorderly. No one disputes grief. Grief is not title."
 
 "No one asked you to preach grief," Harl said. "Mistress Vale, why does the number matter? Briefly."
 
-Briefly was a cruel word. Elsbet wanted to put the whole winter fever before him: smoke, coughs, bodies waiting, children counting flames because adults had run out of hands. Instead she kept her eyes on the page.
+Briefly was cruel. Elsbet wanted to put the fever weeks before him: smoke, coughs, bodies waiting, children counting flames. Instead she kept her eyes on the page.
 
 "Eight lights are common burial lights from Saint Brenna's door when coin or charity allows," she said. "The ninth is a household light. It is set when the dead is claimed aloud by a house. Husband for wife. Wife for husband. Grown child for parent if the house is theirs. Guild for apprentice. Chapel for the unclaimed."
 
@@ -44,7 +44,7 @@ Ruan's head turned slightly.
 
 Harl's eyes narrowed. "Do you wish to stand outside with her?"
 
-"No, Master Brey. I wish the court to notice she has named the missing form. If the ninth is charity, habit, or household, Matra Voss is the person whose trade mark can say what she sold. She was not summoned."
+"No, Master Brey. I wish the court to notice she named the missing form. If the ninth is charity, habit, or household, Matra Voss's trade mark can say what she sold. She was not summoned."
 
 "Because this was not meant to be a candle hearing," Ruan said. "It became one when a copyist mistook a child's ribbon for a deed."
 
@@ -92,7 +92,7 @@ Ruan's breath left him softly. Elsbet hated that sound more than any shout.
 
 Ruan bowed his head a little, but his mouth kept the shape of victory.
 
-Elsbet felt the room slipping toward him. It did not slip because people loved Ruan. It slipped because his answer made fewer demands. A child had grieved. A priest had erred. A bailiff had kept the road moving. Everyone could go home wet and guilty but not responsible.
+Elsbet felt the room slipping toward him, not from love but because his answer made fewer demands. A child had grieved. A priest had erred. A bailiff had kept the road moving. Everyone could go home wet and guilty but not responsible.
 
 She put her hand on the rough register, not over the ink, only on the torn lower corner where old thumbs had already darkened the page.
 
@@ -100,7 +100,7 @@ She put her hand on the rough register, not over the ink, only on the torn lower
 
 Harl looked at her.
 
-"If the chapel claimed Maura because no household did, Father Orlan would write chapel. If Matra gave charity, the candle slat would mark poor wax or charity wax. If Wren alone laid a cord and the house did not claim, the count would not make her mother Maura Dain in the death line. The line says Maura Dain. The marriage page says Maura Reed joined to Edric Dain. The fair copy Ruan brought keeps Dain where death costs nothing and cuts husband where wardship costs meadow."
+"If the chapel claimed Maura because no household did, Father Orlan would write chapel. If Matra gave charity, her slat would mark poor wax or charity wax. If Wren alone laid a cord, the count would not make her mother Maura Dain in the death line. The line says Maura Dain. The marriage page says Maura Reed joined to Edric Dain. Ruan's fair copy keeps Dain where death costs nothing and cuts husband where wardship costs meadow."
 
 The last sentence went farther than she meant. It reached the benches. The wool men stopped muttering. The grain woman by the door raised her face.
 
@@ -108,7 +108,7 @@ Ruan smiled without warmth. "A copyist may compare ink. She may not guess motive
 
 "I do not have to guess what you drafted." Elsbet lifted his rejected sheet from the side table before fear could ask permission. "Maura Reed, called Dain in local use. Wren Reed. Marriage entry disputed for want of clear witness. Meadow and ferry under manor handling pending harvest review."
 
-A murmur moved through the room at meadow and ferry. That was what Ruan feared and used: people cared more easily when their own crossing stood inside another person's loss.
+A murmur moved through the room at meadow and ferry. People cared more easily when their own crossing stood inside another person's loss.
 
 Harl held out his hand. "Give it here."
 
@@ -122,17 +122,17 @@ The steward read the draft. His expression did not change, which made the silenc
 
 "My time has suffered many kindnesses today." Harl set the draft beside the clerk's roll. "Where is Matra Voss?"
 
-As if the question had struck wood, the court door opened.
+The court door opened as if the question had struck wood.
 
-Matra Voss came in carrying a box against her hip and a bundle of tallow lights under one arm. Rain had flattened her gray hair to her skull. Her apron was clean only where wax had made dirt slide away. A manor boy hurried behind her with two seal candles and the offended look of someone made late by another person's courage.
+Matra Voss came in with a candle box, tallow lights, rain-plastered hair, and a manor boy behind her carrying two seal candles and the offended look of someone made late by another person's courage.
 
-"Court candles," she said before anyone accused her. "Twelve bench lights, two seal candles, one witness taper. Ordered by Master Kest. Delayed by Moat Lane and a cart with one wheel sunk to its prayers."
+"Court candles," she said before anyone accused her. "Twelve bench lights, two seal candles, one witness taper. Ordered by Master Kest. Delayed by Moat Lane and a cart sunk to its prayers."
 
 Ruan's face did not move. That was how Elsbet knew the arrival had hurt him.
 
 Harl looked at the box, then at Ruan. "You ordered a candlewright to attend my court with candles and did not summon her to a candle matter. Efficient again."
 
-Matra's eyes found Wren. They found the cord. Then they found Elsbet, and in them was fear sharpened into anger because anger could stand in public better.
+Matra's eyes found Wren, the cord, then Elsbet; in them was fear sharpened into anger because anger could stand in public better.
 
 "Mistress Voss," Harl said, "remain."
 
@@ -174,9 +174,9 @@ Matra looked at Elsbet, then away. "In front of Elsbet Vale and Wren Dain. From 
 
 Everyone looked at him. Even Harl.
 
-The old priest's hand had stopped shaking because it had curled around his key cord. "I locked them because if we dragged every poor thing through rain in frightened hands, Master Kest would call it planted, altered, stolen, or taught after quarrel. So I kept the slat copy and tally under chapel key. If that is wrong, punish me for custody, not her for invention."
+The old priest's hand had stopped shaking around his key cord. "I locked them because if we dragged every poor thing through rain in frightened hands, Master Kest would call it planted, altered, stolen, or taught after quarrel. So I kept the slat copy and tally under chapel key. If that is wrong, punish me for custody, not her for invention."
 
-Elsbet had not known he had that much voice left.
+Elsbet had not known he had that voice left.
 
 Ruan recovered first. "A priest in debt to the manor now discovers courage when his seal is threatened."
 
@@ -186,7 +186,7 @@ Wren made a sound. Not a sob. Smaller and more dangerous.
 
 Harl stood.
 
-The chair scraped back hard enough to silence the benches. Outside, a shout rose from the yard about the ferry rope, then another shout answered from nearer the water. The flood had not paused for court. Ruan's best argument kept pushing at the walls with wet hands.
+The chair scraped back hard enough to silence the benches. Outside, shouts rose from the yard and the water. The flood had not paused for court. Ruan's best argument kept pushing at the walls with wet hands.
 
 "I will not decide marriage title on a cord," Harl said. "I will not decide wardship on a copyist's temper. I will not decide ferry lease on a candlewright's memory without the original slat in the room."
 
@@ -214,9 +214,9 @@ Ruan said, very softly, "The road will not thank you."
 
 "And the ferry?" one of the wool men called before fear caught him.
 
-Harl's narrow eyes moved to the benches. "Emergency crossings may run under the old toll tally until next hearing. Fees held in the court pouch. Any man who moves rope stakes before the order is read will pay twice what his cart is worth."
+Harl's eyes moved to the benches. "Emergency crossings may run under the old toll tally until next hearing. Fees to the court pouch. Any man moving rope stakes before the order is read pays twice what his cart is worth."
 
-That was not justice. Elsbet knew it at once. It was money made cautious. It was Wren's life balanced against wet wool and appeal fees. It was a narrow plank laid over water because the steward disliked mud on his shoes.
+That was not justice. It was money made cautious, Wren's life balanced against wet wool and appeal fees, a narrow plank over water because the steward disliked mud on his shoes.
 
 It was enough for this hour.
 
@@ -238,7 +238,7 @@ Wren's face reddened. Elsbet thought she would answer. Instead the child laid th
 
 Harl's mouth thinned, but he did not send her outside.
 
-Matra took one of the bench lights from her box and set it upright in the iron cup nearest the table. Then another. Then another. No one told her to stop. She counted under her breath until eight small flames stood between the rough register and the clerk's roll.
+Matra set one bench light in the iron cup nearest the table. Then another. Then another. No one stopped her. She counted under her breath until eight small flames stood between the rough register and the clerk's roll.
 
 At the ninth, her hand paused.
 
@@ -250,19 +250,17 @@ She lit the ninth.
 
 The flame leaned, caught, and held.
 
-Elsbet looked at Maura's name in the rough book, at Wren's cord beside it, at Ruan's clean draft lying useless for now under Harl's hand. Her brother's bond still waited. Orlan's debt still waited. The meadow was not safe. Ruan was not beaten, only checked before witnesses he would remember.
+Elsbet looked at Maura's name in the rough book, at Wren's cord beside it, at Ruan's clean draft lying useless for now under Harl's hand. Her brother's bond still waited. Orlan's debt still waited. The meadow was not safe. Ruan was only checked before witnesses he would remember.
 
-But the clerk had written delay into the roll.
+But the clerk had written delay into the roll. A false clean line had failed to become law before noon.
 
-A false clean line had failed to become law before noon.
-
-That was not victory as songs liked it. It was a door held shut with one shaking hand while everyone inside searched for a bar.
+That was not victory. It was a door held shut with one shaking hand while everyone inside searched for a bar.
 
 Wren looked at Elsbet across the candles.
 
 "Did we save her?" she asked.
 
-Elsbet wanted to say yes. She wanted to be that cruel and that kind.
+Elsbet wanted to say yes. She wanted to be that cruel and kind.
 
 "We made them stop erasing her today," she said.
 

@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 23,969
-- Estimated pages: 95.9
+- Manuscript words: 23,820
+- Estimated pages: 95.3
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 1,031
+- Remaining words before hard cap: 1,180
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -31,7 +31,7 @@ The Ninth Candle
 | 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
-| 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
+| 10 | `chapter-10-candles-counted-aloud.md` | 2,264 | compressed |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,971 | drafted |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,985 | drafted |
 
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-1202-audit.md`
+- `book-one/cron/audits/2026-05-31-1302-audit.md`
 
 ## What Chapter 1 proves
 
@@ -144,12 +144,12 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is over the compression threshold at 23,969 words / 95.9 pages.
-- Chapters 1, 2, 4, 5, 6, 7, 8, 10, 11, and 12 are over target, though none triggers per-chapter compression.
-- Chapter 1 is close to the 20% over-target trigger and should be checked early.
-- Chapter 10 is the longest chapter and may offer the largest safe compression opportunity.
+- The completed draft is over the compression threshold at 23,820 words / 95.3 pages.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target, though none triggers per-chapter compression.
+- Chapter 10 has been compressed below target while preserving the public candle-count climax.
+- Chapter 1 is close to the 20% over-target trigger and should be the next compression target.
 - The ending should be reviewed after compression to ensure the final margin note feels earned, lawful, and emotionally sufficient.
 
 ## Next likely work
 
-Compression pass on actual manuscript prose. Start with Chapter 10 or Chapter 1 after the next required hourly audit. Do not add new framework instead of trimming the completed draft.
+Compression pass on actual manuscript prose. Start with Chapter 1 after the next required hourly audit. Do not add new framework instead of trimming the completed draft.

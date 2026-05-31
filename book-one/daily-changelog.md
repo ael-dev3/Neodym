@@ -1,5 +1,57 @@
 # Daily Changelog
 
+## 2026-05-31 13:02 - Hourly audit and Chapter 10 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1302-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1302-audit.md`
+- `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 10 — Candles Counted Aloud.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 149 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -149 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,820 words.
+
+**Current manuscript page estimate:** 95.3 pages.
+
+**Remaining words before cap:** 1,180 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 10 from 2,413 words to 2,264 words, bringing the longest chapter under its 2,300-word target.
+- Trimmed repeated court-procedure explanation while preserving the candle-count proof chain, Matra's arrival, Harl's procedural delay, Wren's visible cord, and the ninth-candle ending image.
+- Reduced total manuscript length while keeping the conflict human-first and avoiding any new Aurelith explanation or intervention.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,820 words / 95.3 pages.
+- Chapter 1 remains the closest chapter to the 20% over-target trigger and should be the next compression target.
+- Chapters 2, 4, 5, 6, 7, 8, 11, and 12 remain over target, though below per-chapter compression triggers.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 1 while preserving Elsbet's legitimate access, the rough-register/fair-copy distinction, Ruan's pressure, and the opening hook.
+
+**Questions for owner:**
+
+1. Did the Chapter 10 compression preserve the public candle-count climax's clarity and emotion?
+2. Should compression continue chapter-by-chapter from the highest-risk overages, or should the next pass target any ending softness first?
+3. Is Chapter 1's opening mechanism clear enough to survive a tighter cut?
+
 ## 2026-05-31 12:02 - Hourly audit and Chapter 12 draft
 
 **Mode:** drafting.

@@ -2,37 +2,37 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-1202-audit.md`
+`book-one/cron/audits/2026-05-31-1302-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 12 of **The Ninth Candle**: `book-one/manuscript/chapter-12-the-name-in-the-margin.md`.
+Compressed Chapter 10 of **The Ninth Candle**: `book-one/manuscript/chapter-10-candles-counted-aloud.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified the missing ending as the weakest manuscript gap. Chapter 12 pays off Harl Brey's margin-cause order by showing Elsbet write a lawful, limited note in the fair-copy margin: Maura Dain remains present in the record, Matra's original slat is produced under order, custody remains procedural, and the ending stays narrow rather than solving the manor system.
+The required audit found no blocking logic failure and confirmed compression mode is active. Chapter 10 was the longest chapter, so I trimmed repeated court-procedure explanation while preserving the candle-count proof chain, Matra's arrival, Harl Brey's procedural delay, Wren's visible cord, and the ninth-candle ending image.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-1202-audit.md`
-2. `book-one/manuscript/chapter-12-the-name-in-the-margin.md`
+1. `book-one/cron/audits/2026-05-31-1302-audit.md`
+2. `book-one/manuscript/chapter-10-candles-counted-aloud.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
 - Drafted chapters: 12 of 12
-- Current manuscript word count: 23,969
-- Page estimate: 95.9
-- Remaining words before hard cap: 1,031
+- Current manuscript word count: 23,820
+- Page estimate: 95.3
+- Remaining words before hard cap: 1,180
 - Compression mode: active
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Risks
 
-- The complete draft is now above the 22,500-word / 90-page compression trigger, so the next run should compress actual manuscript prose rather than add support framework.
-- Chapter 1 is very close to the 20% over-target per-chapter threshold, and Chapter 10 is the longest chapter.
-- Compression must preserve the proof chain, Elsbet/Wren emotional arc, and thin-veil restraint.
+- The completed draft remains above the 22,500-word / 90-page compression trigger, so the next run should continue compressing actual manuscript prose.
+- Chapter 1 remains the closest chapter to the 20% over-target per-chapter threshold.
+- Compression must preserve protagonist access logic, the proof chain, Elsbet/Wren emotional arc, and thin-veil Glass Mile restraint.
 
 ## Suggested owner feedback
 
-Check whether the final margin note feels lawful and limited, whether Tomas's bond pressure remains visible enough, and whether the next pass should compress Chapter 10 first or begin with Chapter 1.
+Check whether Chapter 10 still reads clearly and emotionally after the cut, and whether the next compression pass should target Chapter 1 as recommended.
