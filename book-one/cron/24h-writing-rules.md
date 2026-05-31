@@ -10,7 +10,7 @@ This workflow exists to prevent the old failure mode: framework, outline, and lo
 2. Read `book-one/owner-feedback.md`.
 3. Read current manuscript chapters in `book-one/manuscript/`.
 4. Read `book-one/page-budget.md`, `book-one/daily-changelog.md`, and `book-one/cron/last-run-report.md` if present.
-5. Read Book One premise, plot, chapter, logic, character, and location files that exist.
+5. Read Book One premise, plot, chapter, logic, character, location, setting, risk, and theme files that exist.
 6. Recalculate manuscript word count directly from `book-one/manuscript/chapter-*.md`.
 7. Create a new audit note in `book-one/cron/audits/YYYY-MM-DD-HHMM-audit.md` before any other repo change.
 8. Make exactly one focused manuscript change.
@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 9, `book-one/manuscript/chapter-09-before-the-flood-court.md`, only after creating the next hourly audit note. Move the side-table refusal into formal court procedure, make Harl Brey's clean-record motive visible, and do not add a new proof source or resolve the case before the public candle count.
+Draft Chapter 10, `book-one/manuscript/chapter-10-candles-counted-aloud.md`, only after creating the next hourly audit note. Count the candles aloud in public, test the rough register against the disputed fair-copy wording, use only established proof and custody channels, and let Harl Brey delay the transfer for procedural cleanliness rather than compassion.

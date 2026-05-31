@@ -1,5 +1,61 @@
 # Daily Changelog
 
+## 2026-05-31 09:03 - Hourly audit and Chapter 9 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0903-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0903-audit.md`
+- `book-one/manuscript/chapter-09-before-the-flood-court.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 9 — Before the Flood Court.
+
+**Words added:** 1,674 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,674 words by direct chapter-file count. This run also normalized support-file counts to direct `wc -w` output after the previous support total had drifted by 16 words.
+
+**Current manuscript word count:** 17,600 words.
+
+**Current manuscript page estimate:** 70.4 pages.
+
+**Remaining words before cap:** 7,400 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the ninth actual new-version manuscript chapter.
+- Converted Elsbet's side-table refusal into formal court cause for not sealing the fair copy.
+- Established Harl Brey as procedure-first and self-protective rather than compassionate.
+- Arranged the existing proof chain without adding a new proof source: rough register, fair copy, cord, chapel-held slat/tally, Matra's original slat, and route mark all remain limited.
+- Let Ruan use flood urgency and public ferry need to move Wren's wardship/ferry matter first.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 10 must make the candle count vivid and legible without turning into court notes.
+- Harl Brey's delay must remain self-protective procedure, not moral rescue.
+- Matra or chapel-held evidence can be used only through established custody or court order, not convenience.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 10 — Candles Counted Aloud.
+
+**Questions for owner:**
+
+1. Does Harl Brey feel useful for the right reason: clean procedure rather than kindness?
+2. Does Chapter 9 keep the proof chain clear without resolving the case early?
+3. Does Ruan moving the wardship/ferry matter first feel like plausible procedural pressure?
+
 ## 2026-05-31 08:02 - Hourly audit and Chapter 8 draft
 
 **Mode:** drafting.

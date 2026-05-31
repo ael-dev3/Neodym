@@ -10,36 +10,37 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 15,910
-- Estimated pages: 63.6
-- Drafted chapters: 8 of 12
+- Manuscript words: 17,600
+- Estimated pages: 70.4
+- Drafted chapters: 9 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 9,090
+- Remaining words before hard cap: 7,400
 - Compression mode: not active
+- Counting method: direct `wc -w` over `chapter-*.md`
 
 ## Drafted chapters
 
 | Chapter | File | Words | Status |
 |---|---|---:|---|
-| 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
-| 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
-| 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
-| 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
-| 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
-| 6 | `chapter-06-father-orlans-key.md` | 1,990 | drafted |
-| 7 | `chapter-07-the-glass-mile-bend.md` | 2,081 | drafted |
-| 8 | `chapter-08-a-debt-called-mercy.md` | 1,967 | drafted |
+| 1 | `chapter-01-the-fair-copy.md` | 2,038 | drafted |
+| 2 | `chapter-02-the-missing-ninth.md` | 1,950 | drafted |
+| 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
+| 4 | `chapter-04-matras-wax-slats.md` | 2,107 | drafted |
+| 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
+| 6 | `chapter-06-father-orlans-key.md` | 1,992 | drafted |
+| 7 | `chapter-07-the-glass-mile-bend.md` | 2,083 | drafted |
+| 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
+| 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 
 ## Missing chapters
 
-- Chapter 9 — Before the Flood Court
 - Chapter 10 — Candles Counted Aloud
 - Chapter 11 — Ward of Saint Brenna
 - Chapter 12 — The Name in the Margin
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0802-audit.md`
+- `book-one/cron/audits/2026-05-31-0903-audit.md`
 
 ## What Chapter 1 proves
 
@@ -108,21 +109,29 @@ The Ninth Candle
 - Harl Brey enters as a procedure-first steward, setting up the formal hearing without making him a benevolent rescuer.
 - The chapter returns pressure to human debt, language, witness, and court procedure after the Glass Mile route chapter.
 
+## What Chapter 9 proves
+
+- Harl Brey is useful only because he wants a clean roll and fears a dirty, appealable entry; he is not kind and does not rescue Wren.
+- Elsbet converts private refusal into formal cause for not sealing the fair copy, keeping her access and objection procedural rather than convenient.
+- The proof chain remains limited: rough register and cord are present; candle slat, ferry tally, Matra's original slat, and route mark are not allowed to solve the case by themselves.
+- Ruan uses flood urgency and public pressure to move Wren's wardship/ferry matter first, making the court's need for the ferry part of his leverage.
+- The chapter ends with the candle count set up, not resolved.
+
 ## Current weak points
 
 - Chapters 1, 2, 4, 5, 6, 7, and 8 are over target, though none triggers compression.
-- Matra's copy slat, Wren's ferry tally board, the marriage cord, and the way-post mark are intentionally limited proof; future chapters must not let any one item solve the case alone.
-- Chapter 9 must keep Harl Brey procedural rather than heroic and must not resolve the court case before the public candle count.
-- Orlan must remain a custodian and procedural witness, not the hero who wins the dispute.
+- Matra's copy slat, Wren's ferry tally board, the marriage cord, and the way-post mark remain intentionally limited proof; Chapter 10 must not let any one item solve the case alone.
+- Harl Brey must remain procedure-first and self-protective during the candle count rather than becoming a moral judge.
+- Chapter 10 must call existing proof sources in a clean order and avoid adding a convenient new witness or document.
 
 ## Next likely chapter
 
-`chapter-09-before-the-flood-court.md`
+`chapter-10-candles-counted-aloud.md`
 
-Required Chapter 9 work:
+Required Chapter 10 work:
 
 - Follow a fresh hourly audit before drafting.
-- Move from Elsbet's side-table refusal into formal court procedure.
-- Make Harl Brey's clean-record motive visible without making him compassionate or heroic.
-- Arrange the existing proof chain for the hearing: rough register, ninth candle, cord, Matra's slat, ferry tally, and route mark.
-- Do not add a new proof source or resolve the case before Chapter 10's public candle count.
+- Count the candles aloud in public and test the rough register against the disputed fair-copy wording.
+- Keep Wren, Tomas's bond risk, chapel seal risk, and ferry urgency emotionally present during procedure.
+- If Matra or the chapel-held slat/tally are used, make their access come through court order or established custody, not convenience.
+- Let Harl delay the wardship/ferry transfer for procedural cleanliness rather than compassion.

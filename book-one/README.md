@@ -6,7 +6,7 @@ Book One has been restarted from the ground up. The prior levy-bell premise is a
 
 Current mode: **hourly audit-first drafting**.
 
-Chapters 1, 2, 3, 4, 5, 6, 7, and 8 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
+Chapters 1, 2, 3, 4, 5, 6, 7, 8, and 9 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
 ## Working title
 
@@ -40,11 +40,12 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **15,910**
-- Estimated manuscript pages: **63.6**
+- Drafted manuscript words: **17,600**
+- Estimated manuscript pages: **70.4**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
+- Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then draft Chapter 9: `book-one/manuscript/chapter-09-before-the-flood-court.md`.
+Use the next run to create a fresh hourly audit, then draft Chapter 10: `book-one/manuscript/chapter-10-candles-counted-aloud.md`.
