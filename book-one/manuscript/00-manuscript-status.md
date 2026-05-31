@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 7,840
-- Estimated pages: 31.4
-- Drafted chapters: 4 of 12
+- Manuscript words: 9,872
+- Estimated pages: 39.5
+- Drafted chapters: 5 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 17,160
+- Remaining words before hard cap: 15,128
 - Compression mode: not active
 
 ## Drafted chapters
@@ -25,10 +25,10 @@ The Ninth Candle
 | 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
+| 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
 
 ## Missing chapters
 
-- Chapter 5 — The Meadow Under Water
 - Chapter 6 — Father Orlan's Key
 - Chapter 7 — The Glass Mile Bend
 - Chapter 8 — A Debt Called Mercy
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0401-audit.md`
+- `book-one/cron/audits/2026-05-31-0502-audit.md`
 
 ## What Chapter 1 proves
 
@@ -74,21 +74,30 @@ The Ninth Candle
 - Matra gives a copied tally slat but refuses voluntary testimony, preserving tension for the flood court.
 - Wren understands that even helpful adults may only risk partial bravery.
 
+## What Chapter 5 proves
+
+- Nine-Candle Meadow is practical road power: ferry ropes, dry bank, stranded carts, and floodwater make the property valuable immediately.
+- Elsbet reaches the meadow through Wren's own household access and Matra's back-wash route, not through convenient official permission.
+- Ruan's men are already preparing rope and stakes before judgment, showing why timing matters.
+- Wren's household ferry tally board supports the fact that the ferry was a living household economy, but it is not decisive marriage proof.
+- The distant white-road pressure remains thin and unexplained while clarifying why routes bend toward the ferry.
+
 ## Current weak points
 
-- Chapters 1, 2, and 4 are over target, though none triggers compression.
-- Matra's copy slat is intentionally thin proof; future chapters must not let it solve the case by itself.
-- Chapter 5 must make Nine-Candle Meadow's value visible through floodwater, ferry ropes, and bailiff attention rather than explanation.
-- Ruan's noon delay should increase danger, not give the protagonists a safe pause.
+- Chapters 1, 2, 4, and 5 are over target, though none triggers compression.
+- Matra's copy slat and Wren's ferry tally board are intentionally limited proof; future chapters must not let either solve the case alone.
+- Chapter 6 must convert the ferry-bank sighting into consequences at Saint Brenna's chapel and make Father Orlan's key, debt, and seal fear concrete.
+- Ruan's noon court pressure should keep tightening; no safe pause should follow the meadow scene.
 
 ## Next likely chapter
 
-`chapter-05-the-meadow-under-water.md`
+`chapter-06-father-orlans-key.md`
 
-Required Chapter 5 work:
+Required Chapter 6 work:
 
 - Follow a fresh hourly audit before drafting.
-- Bring Elsbet and Wren to Nine-Candle Meadow or the ferry bank through a plausible route and risk.
-- Show flood marks, ferry value, and why Ruan needs the meadow before court.
-- Make bailiff surveillance or trespass danger concrete.
+- Return Elsbet and Wren to Saint Brenna's chapel with the cost of being seen at the ferry bank.
+- Make Father Orlan's debt and failing-eyes fear specific enough to explain his weakness.
+- Show how the chapel key and seal can delay or expose the fair copy without giving Orlan a heroic rescue.
+- Introduce or prepare the manor summons for Wren's wardship placement.
 - Keep the conflict human-first and avoid Aurelith explanation.

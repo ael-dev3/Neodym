@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 05:02 - Hourly audit and Chapter 5 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0502-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0502-audit.md`
+- `book-one/manuscript/chapter-05-the-meadow-under-water.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 5 — The Meadow Under Water.
+
+**Words added:** 2,032 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +2,032 words.
+
+**Current manuscript word count:** 9,872 words.
+
+**Current manuscript page estimate:** 39.5 pages.
+
+**Remaining words before cap:** 15,128 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the fifth actual new-version manuscript chapter.
+- Made Nine-Candle Meadow visibly valuable as ferry control, not sentimental property.
+- Gave Elsbet a plausible risky visit: Wren can go to her own cottage, and Elsbet witnesses rather than steals or conveniently accesses official documents.
+- Showed Ruan's men preparing practical control before court through rope, stakes, and witness intimidation.
+- Kept the Aurelith layer thin: only a distant white-road pressure appears, with no explanation or intervention.
+
+**What remains weak:**
+
+- Chapter 5 is 182 words over target, though below the 20% over-target compression trigger.
+- Wren now carries a household ferry tally board; future chapters must keep it corroborating economic life, not decisive marriage proof.
+- Chapter 6 must turn the ferry-bank sighting into chapel/court consequences and make Father Orlan's debt specific without making him the hero.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 6 — Father Orlan's Key.
+
+**Questions for owner:**
+
+1. Does Elsbet's reason for accompanying Wren to the ferry bank feel lawful enough while still risky?
+2. Is the new household tally board useful as ferry-context proof without over-solving the central marriage dispute?
+3. Does the brief distant white-road glimpse stay thin enough, or should it be delayed until Chapter 7?
+
 ## 2026-05-31 04:01 - Hourly audit and Chapter 4 draft
 
 **Mode:** drafting.
