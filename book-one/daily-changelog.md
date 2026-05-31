@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 07:02 - Hourly audit and Chapter 7 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0702-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0702-audit.md`
+- `book-one/manuscript/chapter-07-the-glass-mile-bend.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 7 — The Glass Mile Bend.
+
+**Words added:** 2,081 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +2,081 words.
+
+**Current manuscript word count:** 13,943 words.
+
+**Current manuscript page estimate:** 55.8 pages.
+
+**Remaining words before cap:** 11,057 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the seventh actual new-version manuscript chapter.
+- Converted the Chapter 6 summons into a pressured walk to court rather than a disconnected scene.
+- Used the Glass Mile only as route taboo and economic pressure: people avoid the white road, making the ferry and its public way-post matter.
+- Added a limited public ferry wake/lease mark at the bend that contradicts concealment without proving the marriage by itself.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 7 is 231 words over target, though below the 20% over-target compression trigger.
+- The route-post mark must remain corroborating context, not decisive proof.
+- Chapter 8 must make Ruan's debt-pressure offer sharp and human without pausing the court momentum or repeating proof-gathering.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 8 — A Debt Called Mercy.
+
+**Questions for owner:**
+
+1. Does the Glass Mile bend feel like human route pressure rather than mystery exposition?
+2. Is the public way-post/ferry wake mark plausible and limited enough?
+3. Does the grain-woman witness moment add human cost without creating an easy solution?
+
 ## 2026-05-31 06:02 - Hourly audit and Chapter 6 draft
 
 **Mode:** drafting.

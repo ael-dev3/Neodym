@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 7, `book-one/manuscript/chapter-07-the-glass-mile-bend.md`, only after creating the next hourly audit note. Keep the Glass Mile as route pressure and human fear; do not explain it or let it solve the court dispute.
+Draft Chapter 8, `book-one/manuscript/chapter-08-a-debt-called-mercy.md`, only after creating the next hourly audit note. Keep the chapter focused on Ruan's debt-pressure offer and the first court-threshold cost; do not let Orlan, the Glass Mile, or the route-post mark solve the case.

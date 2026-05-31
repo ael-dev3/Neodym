@@ -2,36 +2,36 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-0602-audit.md`
+`book-one/cron/audits/2026-05-31-0702-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 6 of **The Ninth Candle**: `book-one/manuscript/chapter-06-father-orlans-key.md`.
+Drafted Chapter 7 of **The Ninth Candle**: `book-one/manuscript/chapter-07-the-glass-mile-bend.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified the unaddressed consequence after the ferry-bank sighting as the weakest current manuscript gap. Chapter 6 returns the conflict to Saint Brenna's chapel, makes Father Orlan's debt and seal fear specific, places limited proof under chapel custody, and delivers the wardship summons naming Wren as "Reed, called Dain" before court.
+The required audit found no blocking logic failure and identified the missing Chapter 7 route/court transition as the weakest current manuscript gap. Chapter 7 turns the summons from Chapter 6 into pressured movement toward court, uses the Glass Mile as human route taboo and ferry economics, and adds a limited public way-post mark that makes Ruan's concealment dirtier without solving the marriage dispute.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-0602-audit.md`
-2. `book-one/manuscript/chapter-06-father-orlans-key.md`
+1. `book-one/cron/audits/2026-05-31-0702-audit.md`
+2. `book-one/manuscript/chapter-07-the-glass-mile-bend.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 6 of 12
-- Current manuscript word count: 11,862
-- Page estimate: 47.4
-- Remaining words before hard cap: 13,138
+- Drafted chapters: 7 of 12
+- Current manuscript word count: 13,943
+- Page estimate: 55.8
+- Remaining words before hard cap: 11,057
 - Compression mode: not active
 
 ## Risks
 
-- Chapter 6 is 190 words over target, though below the 20% chapter compression trigger.
-- Orlan's limited help must stay limited; he should preserve custody and testimony pressure, not solve the court problem.
-- Chapter 7 needs to use the Glass Mile as route economics and human fear without explaining it or making it a magical solution.
+- Chapter 7 is 231 words over target, though below the 20% chapter compression trigger.
+- The public way-post/ferry wake mark must remain corroborating context, not decisive property or marriage proof.
+- Chapter 8 should preserve court momentum while making Ruan's debt-pressure offer concrete; do not let Orlan, the Glass Mile, or the route mark solve the case.
 
 ## Suggested owner feedback
 
-Check whether Orlan's debt feels specific enough, whether putting the slat and tally board under chapel key feels like plausible custody rather than hiding, and whether the summons wording makes Wren's erasure vivid without becoming too legalistic.
+Check whether the Glass Mile bend stays thin and human-scale, whether the public ferry mark feels plausible rather than convenient, and whether the grain-woman witness creates useful pressure without becoming an easy rescue.

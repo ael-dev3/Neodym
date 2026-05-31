@@ -12,16 +12,17 @@ Book One manuscript prose is underway for **The Ninth Candle**.
 | 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,990 | drafted |
+| 7 | `chapter-07-the-glass-mile-bend.md` | 2,081 | drafted |
 
 ## Current manuscript count
 
-- Total manuscript words: 11,862
-- Estimated pages: 47.4
+- Total manuscript words: 13,943
+- Estimated pages: 55.8
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: not active
 
 ## Next planned file
 
-- `chapter-07-the-glass-mile-bend.md`
+- `chapter-08-a-debt-called-mercy.md`
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

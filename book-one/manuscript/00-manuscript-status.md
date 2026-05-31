@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 11,862
-- Estimated pages: 47.4
-- Drafted chapters: 6 of 12
+- Manuscript words: 13,943
+- Estimated pages: 55.8
+- Drafted chapters: 7 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 13,138
+- Remaining words before hard cap: 11,057
 - Compression mode: not active
 
 ## Drafted chapters
@@ -27,10 +27,10 @@ The Ninth Candle
 | 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
 | 6 | `chapter-06-father-orlans-key.md` | 1,990 | drafted |
+| 7 | `chapter-07-the-glass-mile-bend.md` | 2,081 | drafted |
 
 ## Missing chapters
 
-- Chapter 7 — The Glass Mile Bend
 - Chapter 8 — A Debt Called Mercy
 - Chapter 9 — Before the Flood Court
 - Chapter 10 — Candles Counted Aloud
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0602-audit.md`
+- `book-one/cron/audits/2026-05-31-0702-audit.md`
 
 ## What Chapter 1 proves
 
@@ -52,7 +52,7 @@ The Ninth Candle
 
 ## What Chapter 2 proves
 
-- The ninth candle is a human custom with procedural weight: a household light claimed Maura Dain's burial.
+- The ninth candle is a human custom with procedural weight: a household light supports Maura Dain's married name without becoming magical proof.
 - Elsbet can examine the death and candle notes because the rough register is already under her lawful copying work.
 - Father Orlan's weakness is tied to fear for the chapel seal and the limits of his memory, not simple cowardice.
 - Ruan's leverage against Tomas is concrete through the mill bond review and the phrase "household conduct."
@@ -91,21 +91,30 @@ The Ninth Candle
 - Orlan helps by preserving custody and bringing the register, but he does not become a rescuer or solve the court problem.
 - The summons's phrase "Wren Reed, called Dain" makes the attempted erasure visible before court.
 
+## What Chapter 7 proves
+
+- The summons creates a plausible travel consequence: Elsbet, Wren, and Orlan must move toward court under escort rather than wander for atmosphere.
+- The Glass Mile stays thin-veil: white stones, local fear, lowered cloth, and animal refusal shape movement without explanation or intervention.
+- Route fear makes the ferry economically necessary, showing why Ruan wants Nine-Candle Meadow during floodwater.
+- The public way-post/ferry wake mark gives limited corroboration that the Dain ferry was active; it does not prove the marriage or decide the property dispute alone.
+- Elsbet keeps the mark credible by refusing to touch or alter it and by letting witnesses see the red cloth covering it.
+- Wren gains a possible human witness through the grain woman, but the witness is conditional and frightened rather than an easy rescue.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, 5, and 6 are over target, though none triggers compression.
-- Matra's copy slat and Wren's ferry tally board are intentionally limited proof; future chapters must not let either solve the case alone.
-- Chapter 7 must use the Glass Mile as route pressure and human fear without explaining it or letting it become a magical solution.
-- The next chapter needs a plausible path to any ferry lease mark or route evidence; no convenient manor chest access.
+- Chapters 1, 2, 4, 5, 6, and 7 are over target, though none triggers compression.
+- Matra's copy slat, Wren's ferry tally board, and the way-post mark are intentionally limited proof; future chapters must not let any one item solve the case alone.
+- Chapter 8 must keep court momentum while making Ruan's debt-pressure offer concrete and tempting.
+- Orlan must remain a custodian and procedural witness, not the hero who wins the dispute.
 
 ## Next likely chapter
 
-`chapter-07-the-glass-mile-bend.md`
+`chapter-08-a-debt-called-mercy.md`
 
-Required Chapter 7 work:
+Required Chapter 8 work:
 
 - Follow a fresh hourly audit before drafting.
-- Move Elsbet, Wren, and Orlan toward flood court under the new summons pressure.
-- Use floodwater and local taboo to make the Glass Mile bend matter economically, not mystically.
-- If the chapter uses a ferry lease mark or route proof, make access public, physical, witnessed, and risky rather than conveniently official.
+- Move from the court threshold into Ruan's debt-pressure offer or anteroom confrontation.
+- Make Tomas's bond and Elsbet's household risk immediate enough that compromise is tempting.
+- Use the route-post mark only as limited public context, not decisive proof.
 - Keep the conflict human-first and avoid Aurelith explanation or intervention.
