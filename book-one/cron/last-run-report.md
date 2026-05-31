@@ -2,36 +2,36 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-0502-audit.md`
+`book-one/cron/audits/2026-05-31-0602-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 5 of **The Ninth Candle**: `book-one/manuscript/chapter-05-the-meadow-under-water.md`.
+Drafted Chapter 6 of **The Ninth Candle**: `book-one/manuscript/chapter-06-father-orlans-key.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified the missing meadow-value chapter as the weakest current manuscript gap. Chapter 5 makes Nine-Candle Meadow a practical ferry-control stake, gives Elsbet and Wren a risky but plausible reason to be at the bank, and has Ruan's men see them before court so the visit creates consequences.
+The required audit found no blocking logic failure and identified the unaddressed consequence after the ferry-bank sighting as the weakest current manuscript gap. Chapter 6 returns the conflict to Saint Brenna's chapel, makes Father Orlan's debt and seal fear specific, places limited proof under chapel custody, and delivers the wardship summons naming Wren as "Reed, called Dain" before court.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-0502-audit.md`
-2. `book-one/manuscript/chapter-05-the-meadow-under-water.md`
+1. `book-one/cron/audits/2026-05-31-0602-audit.md`
+2. `book-one/manuscript/chapter-06-father-orlans-key.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 5 of 12
-- Current manuscript word count: 9,872
-- Page estimate: 39.5
-- Remaining words before hard cap: 15,128
+- Drafted chapters: 6 of 12
+- Current manuscript word count: 11,862
+- Page estimate: 47.4
+- Remaining words before hard cap: 13,138
 - Compression mode: not active
 
 ## Risks
 
-- Chapter 5 is 182 words over target, though below the 20% chapter compression trigger.
-- Wren's household ferry tally board must stay contextual corroboration, not decisive marriage proof.
-- Chapter 6 needs to turn the ferry-bank sighting into chapel and court pressure while keeping Father Orlan helpful but not heroic.
+- Chapter 6 is 190 words over target, though below the 20% chapter compression trigger.
+- Orlan's limited help must stay limited; he should preserve custody and testimony pressure, not solve the court problem.
+- Chapter 7 needs to use the Glass Mile as route economics and human fear without explaining it or making it a magical solution.
 
 ## Suggested owner feedback
 
-Check whether Elsbet's meadow access feels plausible, whether the household tally board is useful without over-solving the dispute, and whether the brief white-road glimpse should stay in Chapter 5 or wait for Chapter 7.
+Check whether Orlan's debt feels specific enough, whether putting the slat and tally board under chapel key feels like plausible custody rather than hiding, and whether the summons wording makes Wren's erasure vivid without becoming too legalistic.

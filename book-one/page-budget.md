@@ -10,10 +10,10 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **9,872 words**.
-- Current page estimate: **39.5 pages**.
-- Remaining words before hard cap: **15,128 words**.
-- Drafted chapters: **5 of 12**.
+- Current new-version manuscript word count: **11,862 words**.
+- Current page estimate: **47.4 pages**.
+- Remaining words before hard cap: **13,138 words**.
+- Drafted chapters: **6 of 12**.
 - Compression status: **not active**.
 
 ## Words by chapter
@@ -25,7 +25,7 @@
 | 3 | Wren at the Chapel Door | 1,800 | 1,751 | -49 | drafted |
 | 4 | Matra's Wax Slats | 1,800 | 2,105 | +305 | drafted |
 | 5 | The Meadow Under Water | 1,850 | 2,032 | +182 | drafted |
-| 6 | Father Orlan's Key | 1,800 | 0 | -1,800 | not drafted |
+| 6 | Father Orlan's Key | 1,800 | 1,990 | +190 | drafted |
 | 7 | The Glass Mile Bend | 1,850 | 0 | -1,850 | not drafted |
 | 8 | A Debt Called Mercy | 1,800 | 0 | -1,800 | not drafted |
 | 9 | Before the Flood Court | 1,750 | 0 | -1,750 | not drafted |
@@ -37,10 +37,10 @@ Planned target total: **21,850 words**.
 
 ## Budget flags
 
-- Chapters over budget: Chapter 1 is **336 words over target**, Chapter 2 is **198 words over target**, Chapter 4 is **305 words over target**, and Chapter 5 is **182 words over target**; all remain below the 20% over-target compression trigger.
-- Chapters under budget: Chapter 3 is **49 words under target**; Chapters 6–12 are not drafted.
-- Compression trigger: **inactive**. Current manuscript is 9,872 words / 39.5 pages.
+- Chapters over budget: Chapter 1 is **336 words over target**, Chapter 2 is **198 words over target**, Chapter 4 is **305 words over target**, Chapter 5 is **182 words over target**, and Chapter 6 is **190 words over target**; all remain below the 20% over-target compression trigger.
+- Chapters under budget: Chapter 3 is **49 words under target**; Chapters 7–12 are not drafted.
+- Compression trigger: **inactive**. Current manuscript is 11,862 words / 47.4 pages.
 
 ## Next recommended action
 
-Draft Chapter 6, `book-one/manuscript/chapter-06-father-orlans-key.md`, after creating the required hourly audit note. Keep Chapter 6 close to 1,800 words, return the ferry-bank consequences to Saint Brenna's chapel, make Father Orlan's debt and seal fear specific, and let the manor summons for Wren tighten the court pressure without turning Orlan into the hero.
+Draft Chapter 7, `book-one/manuscript/chapter-07-the-glass-mile-bend.md`, after creating the required hourly audit note. Keep Chapter 7 close to 1,850 words, use the Glass Mile only as route pressure and human fear, make the route/ferry economics concrete, and ensure any ferry lease mark or public proof is reached through plausible travel and custody rather than convenient official access.

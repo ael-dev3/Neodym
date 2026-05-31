@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 06:02 - Hourly audit and Chapter 6 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0602-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0602-audit.md`
+- `book-one/manuscript/chapter-06-father-orlans-key.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 6 — Father Orlan's Key.
+
+**Words added:** 1,990 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,990 words.
+
+**Current manuscript word count:** 11,862 words.
+
+**Current manuscript page estimate:** 47.4 pages.
+
+**Remaining words before cap:** 13,138 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the sixth actual new-version manuscript chapter.
+- Paid off the Chapter 5 ferry-bank sighting by turning it into a chapel/court summons consequence.
+- Made Father Orlan's debt specific: roof lead, fever burial wax, coffins, wall lime, chapel dues, copy fees, and seal risk.
+- Put the copied candle slat and ferry tally board into plausible chapel custody without making them decisive proof.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 6 is 190 words over target, though below the 20% over-target compression trigger.
+- Orlan's help must stay limited in later chapters so he does not become a convenient rescuer.
+- Chapter 7 must handle the Glass Mile as route pressure and human fear without explanation or plot-solving.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 7 — The Glass Mile Bend.
+
+**Questions for owner:**
+
+1. Does Orlan's debt and seal fear feel institutional enough rather than merely personal cowardice?
+2. Does chapel custody of the slat/tally board feel plausible, or does it risk seeming like hidden evidence?
+3. Is the summons wording "Wren Reed, called Dain" sharp enough without becoming too legalistic?
+
 ## 2026-05-31 05:02 - Hourly audit and Chapter 5 draft
 
 **Mode:** drafting.

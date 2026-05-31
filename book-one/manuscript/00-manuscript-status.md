@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 9,872
-- Estimated pages: 39.5
-- Drafted chapters: 5 of 12
+- Manuscript words: 11,862
+- Estimated pages: 47.4
+- Drafted chapters: 6 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 15,128
+- Remaining words before hard cap: 13,138
 - Compression mode: not active
 
 ## Drafted chapters
@@ -26,10 +26,10 @@ The Ninth Candle
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,751 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 2,105 | drafted |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,032 | drafted |
+| 6 | `chapter-06-father-orlans-key.md` | 1,990 | drafted |
 
 ## Missing chapters
 
-- Chapter 6 — Father Orlan's Key
 - Chapter 7 — The Glass Mile Bend
 - Chapter 8 — A Debt Called Mercy
 - Chapter 9 — Before the Flood Court
@@ -39,7 +39,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0502-audit.md`
+- `book-one/cron/audits/2026-05-31-0602-audit.md`
 
 ## What Chapter 1 proves
 
@@ -82,22 +82,30 @@ The Ninth Candle
 - Wren's household ferry tally board supports the fact that the ferry was a living household economy, but it is not decisive marriage proof.
 - The distant white-road pressure remains thin and unexplained while clarifying why routes bend toward the ferry.
 
+## What Chapter 6 proves
+
+- The ferry-bank sighting has immediate consequences: the manor summons Wren for wardship placement and calls Elsbet as copyist witness.
+- Father Orlan's debt is specific and institutional: roof lead, fever burial wax, coffins, and wall lime secured against chapel dues and copy fees.
+- Orlan's fear of losing the chapel seal now has a concrete mechanism without excusing his cowardice.
+- The copied candle slat and ferry tally board move into chapel custody under Orlan's key, while Wren keeps her marriage cord as household property.
+- Orlan helps by preserving custody and bringing the register, but he does not become a rescuer or solve the court problem.
+- The summons's phrase "Wren Reed, called Dain" makes the attempted erasure visible before court.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, and 5 are over target, though none triggers compression.
+- Chapters 1, 2, 4, 5, and 6 are over target, though none triggers compression.
 - Matra's copy slat and Wren's ferry tally board are intentionally limited proof; future chapters must not let either solve the case alone.
-- Chapter 6 must convert the ferry-bank sighting into consequences at Saint Brenna's chapel and make Father Orlan's key, debt, and seal fear concrete.
-- Ruan's noon court pressure should keep tightening; no safe pause should follow the meadow scene.
+- Chapter 7 must use the Glass Mile as route pressure and human fear without explaining it or letting it become a magical solution.
+- The next chapter needs a plausible path to any ferry lease mark or route evidence; no convenient manor chest access.
 
 ## Next likely chapter
 
-`chapter-06-father-orlans-key.md`
+`chapter-07-the-glass-mile-bend.md`
 
-Required Chapter 6 work:
+Required Chapter 7 work:
 
 - Follow a fresh hourly audit before drafting.
-- Return Elsbet and Wren to Saint Brenna's chapel with the cost of being seen at the ferry bank.
-- Make Father Orlan's debt and failing-eyes fear specific enough to explain his weakness.
-- Show how the chapel key and seal can delay or expose the fair copy without giving Orlan a heroic rescue.
-- Introduce or prepare the manor summons for Wren's wardship placement.
-- Keep the conflict human-first and avoid Aurelith explanation.
+- Move Elsbet, Wren, and Orlan toward flood court under the new summons pressure.
+- Use floodwater and local taboo to make the Glass Mile bend matter economically, not mystically.
+- If the chapter uses a ferry lease mark or route proof, make access public, physical, witnessed, and risky rather than conveniently official.
+- Keep the conflict human-first and avoid Aurelith explanation or intervention.

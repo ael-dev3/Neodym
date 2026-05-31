@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 6, `book-one/manuscript/chapter-06-father-orlans-key.md`, only after creating the next hourly audit note.
+Draft Chapter 7, `book-one/manuscript/chapter-07-the-glass-mile-bend.md`, only after creating the next hourly audit note. Keep the Glass Mile as route pressure and human fear; do not explain it or let it solve the court dispute.

@@ -6,7 +6,7 @@ Book One has been restarted from the ground up. The prior levy-bell premise is a
 
 Current mode: **hourly audit-first drafting**.
 
-Chapters 1, 2, 3, 4, and 5 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
+Chapters 1, 2, 3, 4, 5, and 6 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
 ## Working title
 
@@ -40,11 +40,11 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **9,872**
-- Estimated manuscript pages: **39.5**
+- Drafted manuscript words: **11,862**
+- Estimated manuscript pages: **47.4**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then draft Chapter 6: `book-one/manuscript/chapter-06-father-orlans-key.md`.
+Use the next run to create a fresh hourly audit, then draft Chapter 7: `book-one/manuscript/chapter-07-the-glass-mile-bend.md`.
