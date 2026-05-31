@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 2, because it now has the largest remaining absolute overage after Chapter 11 was compressed. Preserve the ninth-candle custom, Tomas's bond pressure, Father Orlan's fear, Wren's chapel-door arrival, the proof chain, Elsbet/Wren emotional arc, lawful margin-note ending, and thin-veil Glass Mile restraint.
+Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 6, because it now has the largest remaining absolute overage after Chapter 2 was compressed. Preserve Father Orlan's debt mechanism, chapel-key custody, summons pressure, Wren's limited agency, the proof chain, Elsbet/Wren emotional arc, lawful margin-note ending, and thin-veil Glass Mile restraint.

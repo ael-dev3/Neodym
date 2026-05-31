@@ -7,7 +7,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | Chapter | File | Words | Status |
 |---|---|---:|---|
 | 1 | `chapter-01-the-fair-copy.md` | 1,858 | compressed |
-| 2 | `chapter-02-the-missing-ninth.md` | 1,950 | drafted |
+| 2 | `chapter-02-the-missing-ninth.md` | 1,773 | compressed |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 23,164
-- Estimated pages: 92.7
+- Total manuscript words: 22,987
+- Estimated pages: 91.9
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate next target: Chapter 2 because it now has the largest remaining absolute overage. Preserve the ninth-candle custom, Tomas's bond pressure, Father Orlan's fear, and Wren's arrival at the chapel door while trimming repeated explanation.
+- Candidate next target: Chapter 6 because it now has the largest remaining absolute overage. Preserve Father Orlan's debt mechanism, chapel-key custody, the summons pressure, Wren's limited agency, and the proof chain while trimming repeated explanation.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

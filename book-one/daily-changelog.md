@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 19:03 - Hourly audit and Chapter 2 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1903-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1903-audit.md`
+- `book-one/manuscript/chapter-02-the-missing-ninth.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 2 — The Missing Ninth.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 177 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -177 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,987 words.
+
+**Current manuscript page estimate:** 91.9 pages.
+
+**Remaining words before cap:** 2,013 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 2 from 1,950 words to 1,773 words.
+- Cut repeated candle-custom explanation, work-scrap setup, and Tomas bond-pressure exposition while preserving the ninth household candle, Father Orlan's fear and guilt, Tomas's concrete family cost, Elsbet's lawful access, and Wren's arrival as an active claimant.
+- Kept the chapter human-first: the proof remains custom, record, memory, debt, and risk rather than magic, Aurelith intervention, or convenient discovery.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 22,987 words / 91.9 pages.
+- Chapter 6 now has the largest remaining absolute overage and may contain repeated explanation around chapel debt, proof custody, and summons pressure.
+- The final draft still needs continued compression review without adding new scenes unless replacing weaker material.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 6 while preserving Father Orlan's debt mechanism, chapel-key custody, the summons pressure, Wren's limited agency, and the proof chain.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 2 still make the ninth household candle clear enough?
+2. Does Tomas's bond cost remain emotionally visible after trimming?
+3. Should the next compression pass target Chapter 6 as recommended, or Chapter 5 because it carries another large ferry-economics overage?
+
 ## 2026-05-31 18:04 - Hourly audit and Chapter 11 compression
 
 **Mode:** compression.

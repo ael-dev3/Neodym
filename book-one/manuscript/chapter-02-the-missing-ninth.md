@@ -4,7 +4,7 @@ Father Orlan reached for the register as if a hand had risen from it to strike h
 
 Elsbet put her palm on the page first.
 
-The old priest stopped. His fingers hovered above the cracked leather cover, blue at the knuckles, wet-looking in the brazier light though he had not gone back into the rain. Outside, the river bell kept ringing. Not fast enough for drowning, not yet, but steady enough that every pause between strikes seemed to ask who had not listened the first time.
+The old priest stopped with his fingers above the cracked leather cover, blue at the knuckles in the brazier light. Outside, the river bell kept ringing: not drowning-fast, not yet, but steady enough to accuse.
 
 “You heard me,” Elsbet said.
 
@@ -68,29 +68,25 @@ Father Orlan looked at her then, properly. “The ninth candle was paid?”
 
 “Who promised?”
 
-She turned the page backward, forward again, following the cramped cross-marks around the death entries. There were always more marks in fever season than sense: initials, candle sizes, scraps of debt, who fetched the body, who stood close enough to count as kin. The rich bought wax and space. The poor bought one flame at a time and prayed the saint could add.
+She turned the page back and forward, following cramped fever marks: initials, candle sizes, debt scraps, who fetched the body, who stood close enough to count as kin. The rich bought wax and space; the poor bought one flame at a time and prayed the saint could add.
 
 “Ferry bank,” Elsbet said. “No hand named.”
 
 “Then it is weak.”
 
-“It is not empty.”
+“Not empty.”
 
 “A court eats weak things.”
 
-“Then we find the teeth before it eats her.”
+“Then we find its teeth first.”
 
 Father Orlan made the warning sound again, but softer now. Elsbet heard the grief under it and hated that grief could be another locked door.
 
-She pulled the rough register nearer and set a clean scrap beside the fair copy. Not a lawful copy. Not a sealed note. Only a work scrap, the kind a copyist kept to avoid making mistakes on good paper. She wrote the death line exactly as it stood, then stopped before the candle mark.
+She pulled the register nearer and set a clean work scrap beside the fair copy. Not lawful, not sealed; only the kind a copyist used to spare good paper. She wrote the death line exactly, then stopped before the candle mark.
 
-“Tell me the custom as you would tell it at a burial,” she said.
+“Tell me the custom as you would tell it at court,” she said.
 
-“I would not tell it at a burial. People know.”
-
-“I am asking because the court will pretend not to know.”
-
-He pressed both hands together. For a moment he looked less like a priest than an old man warming his fingers over words he wished would catch fire and vanish.
+He pressed his hands together like an old man warming them over words he wished would burn.
 
 “Eight lights for any soul buried from Saint Brenna’s door when there is coin or charity enough,” he said at last. “One at the feet, one at the head, two for the watchers, four for the road prayers.”
 
@@ -104,7 +100,7 @@ Elsbet wrote household light.
 
 She looked up.
 
-“Do not make that face. I am being exact. The ninth is set when a household claims the dead aloud. Husband for wife. Wife for husband. Grown child for parent if the house is theirs to hold. Sometimes a guild, for an apprentice with no kin. Sometimes the chapel, if no one else will stand.”
+“Do not make that face. I am being exact. The ninth is set when a household claims the dead aloud: husband, wife, house-holding child, sometimes a guild, sometimes the chapel if no one else will stand.”
 
 “But not for a woman the court says had no husband entered.”
 
@@ -154,19 +150,13 @@ She wrote cord? and circled it once.
 
 Father Orlan saw. “Do not go to the cottage.”
 
-“I did not say I would.”
-
-“You wrote it like a road.”
-
 “I wrote it like a question.”
 
 “Questions can trespass.”
 
 “So can wardship men.”
 
-He flinched.
-
-Good, Elsbet thought, then was ashamed. Fear had made her mean and clear. She was beginning to understand why men like Ruan liked clarity so much.
+He flinched. Elsbet was ashamed of the satisfaction. Fear had made her mean and clear, and she was beginning to understand why men like Ruan liked clarity.
 
 A knock came at the side door.
 
@@ -178,17 +168,17 @@ Elsbet folded her work scrap under her hand.
 
 The door opened far enough to spill rain and a boy into the chapel.
 
-Tomas Vale was not a boy anymore, not if one counted years. Sixteen made him nearly a man when the miller wanted sacks lifted, still a child when debt was counted. Rain had plastered his fair hair to his forehead. Flour paste streaked one cheek white as bone.
+Tomas Vale was sixteen: nearly a man when the miller wanted sacks lifted, still a child when debt was counted. Rain plastered his fair hair to his forehead. Flour paste streaked one cheek white.
 
-“Els,” he said, and tried to smile because he always tried first. “Miller sent me down.”
+“Els,” he said, trying the smile he always tried first. “Miller sent me down.”
 
 “At this hour?”
 
-“He said Master Kest wanted the bond mark checked before dusk.”
+“Master Kest wanted the bond mark checked before dusk.”
 
 Father Orlan’s eyes went to Elsbet.
 
-Tomas did not understand the look. Or perhaps he did and chose not to. He crossed the room with his shoulders hunched, dripping onto the chapel flags, and held out a narrow strip of folded parchment. It was tied with mill twine and sealed with a thumb of brown wax, not the manor hawk. Lower than that. Crueler, because it needed no emblem.
+Tomas either missed the look or chose to. He crossed the room dripping onto the flags and held out a folded parchment tied with mill twine, sealed with a thumb of brown wax. Not the manor hawk. Lower than that. Crueler, because it needed no emblem.
 
 Elsbet took it. Her fingers left ink on the damp outside.
 
@@ -220,9 +210,9 @@ Tomas looked from one to the other. Rainwater ran from his sleeve and tapped ste
 
 “I can work another month,” he said. “If that is all. I told Miller I could take night grinding when the flood grain comes. I do not mind.”
 
-Elsbet wanted to put her ink-stained hand over his mouth before he offered any more of himself to men who measured bodies by debt. Instead she smoothed the bond strip and set it beside Maura’s death line.
+Elsbet wanted to cover his mouth before he offered more of himself to men who measured bodies by debt. Instead she set the bond strip beside Maura’s death line.
 
-Two records. Two clean traps.
+Two clean records. Two traps.
 
 “Go home,” she said.
 
@@ -234,7 +224,7 @@ Hurt crossed his face.
 
 She made herself softer. “If Ruan’s men ask where you stood, I need you able to say you stood nowhere near this table.”
 
-His eyes dropped to the covered register, then to the fair copy, then to her work scrap half-hidden under her hand. Tomas was not stupid. Poverty did not make people stupid. It only made cleverness expensive.
+His eyes dropped to the covered register, the fair copy, the work scrap half-hidden under her hand. Poverty did not make people stupid. It only made cleverness expensive.
 
 “You found something,” he said.
 
