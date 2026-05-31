@@ -1,8 +1,8 @@
-# Neodym Book One Hourly Cron — Current Settings
+# Neodym Book One Daily Cron — Current Settings
 
-Archived: 2026-05-31T17:03:31+02:00
+Archived: 2026-05-31T21:16:59+02:00
 
-This file is a public repo snapshot of the live Hermes cron configuration for the Neodym Book One hourly writing pass.
+This file is a public repo snapshot of the live Hermes cron configuration for the Neodym Book One daily writing pass.
 
 Source: `~/.hermes/cron/jobs.json`, job `f6c43e8202cf`.
 
@@ -13,7 +13,7 @@ Note: Discord platform/chat/thread IDs are intentionally omitted. No secrets are
 ```json
 {
   "id": "f6c43e8202cf",
-  "name": "neodym-book-one-hourly-audit-writing-workflow",
+  "name": "neodym-book-one-daily-audit-writing-workflow",
   "skills": [
     "worldbuilding-bible",
     "github-pr-workflow"
@@ -26,22 +26,22 @@ Note: Discord platform/chat/thread IDs are intentionally omitted. No secrets are
   "no_agent": false,
   "context_from": null,
   "schedule": {
-    "kind": "cron",
-    "expr": "0 * * * *",
-    "display": "0 * * * *"
+    "kind": "interval",
+    "minutes": 1440,
+    "display": "every 1440m"
   },
-  "schedule_display": "0 * * * *",
+  "schedule_display": "every 1440m",
   "repeat": {
     "times": null,
-    "completed": 15
+    "completed": 20
   },
   "enabled": true,
   "state": "scheduled",
   "paused_at": null,
   "paused_reason": null,
   "created_at": "2026-05-30T23:07:01.727029+02:00",
-  "next_run_at": "2026-05-31T18:00:00+02:00",
-  "last_run_at": "2026-05-31T16:10:57.469444+02:00",
+  "next_run_at": "2026-06-01T21:16:10.291171+02:00",
+  "last_run_at": "2026-05-31T21:09:56.982370+02:00",
   "last_status": "ok",
   "last_error": null,
   "last_delivery_error": null,
@@ -60,12 +60,12 @@ Note: Discord platform/chat/thread IDs are intentionally omitted. No secrets are
 ## Full Current Prompt
 
 ```text
-Hourly Neodym Book One autonomous manuscript-quality pass. This job is already the scheduled job: do NOT create, update, remove, pause, resume, run, or list cron jobs from inside this cron run. Do not recursively schedule anything. Run at most once per hour.
+Daily Neodym Book One autonomous manuscript-quality pass. This job is already the scheduled job: do NOT create, update, remove, pause, resume, run, or list cron jobs from inside this cron run. Do not recursively schedule anything. Run at most once per 24 hours.
 
 PROJECT: Neodym
 CURRENT BOOK ONE: The Ninth Candle
 REPO / WORKDIR: /Users/marko/.openclaw/workspace/Neodym
-SCHEDULE INTENT: 0 * * * *
+SCHEDULE INTENT: every 1440m (once every 24 hours)
 
 MISSION
 Improve Book One into a complete, coherent, small-scale, meaningful high-fantasy novella. Read the whole story and make whatever manuscript/canon changes are necessary. Do not treat current chapters as sacred. Do not merely continue forward if the story is getting weaker. Do not preserve bad chapters just because they exist. You may work in any chapter order. The only requirement is that the whole story becomes more coherent, grounded, emotionally meaningful, and readable.
@@ -93,7 +93,7 @@ Most problems must be caused by humans: land, hunger, inheritance, fear, revenge
 - What institution, custom, law, debt, oath, relationship, geography, or fear makes it plausible?
 No plot-critical item may be available merely because convenient.
 
-EVERY HOURLY RUN MUST
+EVERY 24-HOUR RUN MUST
 1. Pull/latest-check the repo safely before editing.
 2. Study the repo before making changes.
 3. Read the full current Book One manuscript.
@@ -116,7 +116,7 @@ Audit filename: book-one/cron/audits/YYYY-MM-DD-HHMM-audit.md
 The audit must be saved BEFORE any other repo edit.
 
 Audit format:
-# Hourly Story Audit — YYYY-MM-DD HH:MM
+# Daily Story Audit — YYYY-MM-DD HH:MM
 
 ## Run Goal
 One sentence describing what this run is trying to improve.
@@ -201,7 +201,7 @@ DAILY CHANGELOG
 Update book-one/daily-changelog.md every run. Entry must include date/time; audit file; mode; files changed; chapters touched; chapters archived if any; words added; words removed; net word-count change; current active manuscript word count; current page estimate; what improved; what remains weak; next recommended action; questions for owner.
 
 LAST RUN REPORT
-Update book-one/cron/last-run-report.md every run, short: audit file; what changed this hour; why; what to read next; current story status; active manuscript status; archived material; risks; suggested owner feedback.
+Update book-one/cron/last-run-report.md every run, short: audit file; what changed this 24-hour run; why; what to read next; current story status; active manuscript status; archived material; risks; suggested owner feedback.
 
 FINAL CHECK BEFORE ENDING
 Verify: audit was created before other edits; full current manuscript was read; whole-story sense was judged; reader experience weaknesses were identified; actual manuscript/canon improved; stale contradictions were handled; active manuscript is under 25,000 words; Book One remains small-scale; conflict is mostly human; Aurelith are absent/extremely subtle; no direct elf/magic intervention; plot survives “why?” questioning; story is more coherent after the run. If checks pass and worktree is dirty, do not leave it hanging: commit/push or state blocker.
