@@ -2,37 +2,37 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-1001-audit.md`
+`book-one/cron/audits/2026-05-31-1101-audit.md`
 
 ## What I did this hour
 
-Drafted Chapter 10 of **The Ninth Candle**: `book-one/manuscript/chapter-10-candles-counted-aloud.md`.
+Drafted Chapter 11 of **The Ninth Candle**: `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`.
 
 ## Why I did it
 
-The required audit found no blocking logic failure and identified the missing public candle-count climax as the weakest manuscript gap. Chapter 10 converts Chapter 9's setup into a human-first court scene: the rough register is read, the ninth household candle is counted aloud, Matra appears through the already established court-candle order, and Harl Brey delays the wardship/ferry transfer because Ruan's clean entry is procedurally dirty rather than because Harl is kind.
+The required audit found no blocking logic failure and identified Chapter 10's aftermath as the weakest manuscript gap. Chapter 11 converts the court delay into human cost: Wren becomes a temporary ward under Saint Brenna's roof, emergency crossings run only under old tolls and a court pouch, Matra and Orlan face visible costs, Tomas's bond pressure begins, and Elsbet is named as the copyist responsible for a lawful margin cause.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-1001-audit.md`
-2. `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+1. `book-one/cron/audits/2026-05-31-1101-audit.md`
+2. `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
-- Drafted chapters: 10 of 12
-- Current manuscript word count: 20,013
-- Page estimate: 80.1
-- Remaining words before hard cap: 4,987
+- Drafted chapters: 11 of 12
+- Current manuscript word count: 21,984
+- Page estimate: 87.9
+- Remaining words before hard cap: 3,016
 - Compression mode: not active
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Risks
 
-- Chapter 11 must make the aftermath costly and concrete rather than treating delay as full victory.
-- Matra's original slat and the chapel-held slat/tally must be produced only through court order and custody, not convenience.
-- Ruan's next pressure should be human and procedural, likely through Tomas's bond or road accounts.
+- Drafting Chapter 12 at full target will likely push the manuscript above the compression threshold, so the final chapter should be compact and a later compression pass may be needed.
+- Chapter 12 must make Elsbet's margin note lawful and limited, not an implausible complete legal victory.
+- Tomas's bond pressure should stay visible without turning into melodrama or a convenient rescue.
 
 ## Suggested owner feedback
 
-Check whether the candle count reads as a vivid climax rather than court-note exposition, whether Harl's delay feels self-protective rather than kind, and whether Wren's temporary reprieve stays narrow enough to keep the final chapters tense.
+Check whether temporary chapel wardship feels costly rather than cozy, whether Ruan's bond retaliation feels procedural enough, and whether the final chapter should end on a local margin note or a broader deanery/harvest-hearing preparation.

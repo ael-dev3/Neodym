@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Draft Chapter 11, `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`, only after creating the next hourly audit note. Pay off the Chapter 10 court delay as human aftermath: Wren remains in temporary chapel keeping, emergency ferry crossings run under old toll tally and court pouch, Matra and Orlan face costs for standing visible, and Ruan's retaliation should begin through debt pressure rather than a new proof source.
+Draft Chapter 12, `book-one/manuscript/chapter-12-the-name-in-the-margin.md`, only after creating the next hourly audit note. Keep the final chapter compact under page-budget pressure: pay off the Chapter 11 margin-cause order, preserve Maura's name through a lawful limited note, keep Tomas's bond pressure visible, and end with a narrow human victory rather than a solved system or Aurelith explanation.

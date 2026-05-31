@@ -16,17 +16,18 @@ Book One manuscript prose is underway for **The Ninth Candle**.
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
+| 11 | `chapter-11-ward-of-saint-brenna.md` | 1,971 | drafted |
 
 ## Current manuscript count
 
-- Total manuscript words: 20,013
-- Estimated pages: 80.1
+- Total manuscript words: 21,984
+- Estimated pages: 87.9
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: not active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
 ## Next planned file
 
-- `chapter-11-ward-of-saint-brenna.md`
+- `chapter-12-the-name-in-the-margin.md`
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

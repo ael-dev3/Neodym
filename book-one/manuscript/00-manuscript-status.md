@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 20,013
-- Estimated pages: 80.1
-- Drafted chapters: 10 of 12
+- Manuscript words: 21,984
+- Estimated pages: 87.9
+- Drafted chapters: 11 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 4,987
+- Remaining words before hard cap: 3,016
 - Compression mode: not active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -32,15 +32,15 @@ The Ninth Candle
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,413 | drafted |
+| 11 | `chapter-11-ward-of-saint-brenna.md` | 1,971 | drafted |
 
 ## Missing chapters
 
-- Chapter 11 — Ward of Saint Brenna
 - Chapter 12 — The Name in the Margin
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-1001-audit.md`
+- `book-one/cron/audits/2026-05-31-1101-audit.md`
 
 ## What Chapter 1 proves
 
@@ -125,21 +125,29 @@ The Ninth Candle
 - Orlan's help stays limited to custody, reading, and responsibility; he does not win the case.
 - Wren gains temporary chapel keeping and a same-day reprieve, while the meadow, Tomas's bond, Orlan's debt, and Ruan's power remain unresolved.
 
+## What Chapter 11 proves
+
+- Harl's order is a procedural delay, not rescue: Wren becomes ward to Saint Brenna's custody, the ferry runs only under old tolls, and fees go into a court pouch.
+- The aftermath makes the delay costly and concrete rather than triumphant: villagers calculate crossings, Matra faces contract review, Orlan must lock and answer for the proof, and Wren sleeps under a chapel roof that still feels like custody.
+- Ruan retaliates through Tomas's mill bond pressure without openly changing a document before court closes, keeping his methods human and procedural.
+- Elsbet loses her safe invisibility because Harl's order names her as copyist responsible for the margin cause.
+- No new proof source or Aurelith explanation appears; the chapter pays off existing consequences.
+
 ## Current weak points
 
-- Chapters 1, 2, 4, 5, 6, 7, 8, and 10 are over target, though none triggers compression.
-- Chapter 10 wins a delay rather than safety; Chapter 11 must make the aftermath costly and not treat the court order as a full victory.
-- Matra's original slat, chapel-held copy slat, and ferry tally are now ordered but not yet produced; future prose must handle them through custody and summons, not convenience.
-- Ruan's retaliation should be concrete and human, likely through Tomas's bond or road-account pressure, not sudden violence or lore.
+- Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 are over target, though none triggers per-chapter compression.
+- Drafting Chapter 12 at full target will likely push the completed manuscript above the 22,500-word / 90-page compression threshold.
+- Chapter 12 must finish the margin-note and name-preservation arc without pretending Ruan, Tomas's bond, the chapel debt, or the manor system are fully solved.
+- Elsbet's final written action must be lawful and limited: a margin cause or fair-copy note that can stand, not an implausible full legal victory.
 
 ## Next likely chapter
 
-`chapter-11-ward-of-saint-brenna.md`
+`chapter-12-the-name-in-the-margin.md`
 
-Required Chapter 11 work:
+Required Chapter 12 work:
 
 - Follow a fresh hourly audit before drafting.
-- Pay off the court order in immediate aftermath rather than adding a new proof source.
-- Show Wren entering temporary chapel keeping as protection with costs, not comfort.
-- Keep emergency ferry operations and court pouch/tally logistics concrete and limited.
-- Begin the cost to Elsbet's household through Tomas's bond or Ruan's next procedural pressure.
+- Draft the final chapter compactly with page-budget pressure in view.
+- Pay off the margin-cause order from Chapter 11.
+- Preserve Maura's name through a lawful limited note rather than overclaiming proof.
+- Keep the ending human-first and narrow, with no Aurelith answer or plot-solving intervention.

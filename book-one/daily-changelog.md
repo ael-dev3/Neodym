@@ -1,5 +1,62 @@
 # Daily Changelog
 
+## 2026-05-31 11:01 - Hourly audit and Chapter 11 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1101-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1101-audit.md`
+- `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+- `book-one/cron/24h-writing-rules.md`
+
+**Chapter worked on:** Chapter 11 — Ward of Saint Brenna.
+
+**Words added:** 1,971 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,971 words by direct chapter-file count.
+
+**Current manuscript word count:** 21,984 words.
+
+**Current manuscript page estimate:** 87.9 pages.
+
+**Remaining words before cap:** 3,016 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the eleventh actual new-version manuscript chapter.
+- Converted Chapter 10's court delay into concrete aftermath rather than treating it as full victory.
+- Made Wren's temporary chapel wardship protective but uncomfortable: a roof, a key, a locked chest, and a funeral pall instead of home.
+- Kept emergency ferry use procedural and limited through old tolls and a court pouch.
+- Put visible costs on Matra, Orlan, Elsbet, and Tomas, with Ruan retaliating through bond pressure rather than sudden violence or a new proof source.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 11 is 221 words over target, though below the 20% over-target compression trigger.
+- The manuscript is now 21,984 words / 87.9 pages; drafting Chapter 12 at full target will likely trigger compression mode for the completed draft.
+- Chapter 12 must pay off the margin-cause order without overclaiming proof or pretending the system is solved.
+- Tomas's bond pressure remains unresolved and should stay visible in the final chapter.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 12 — The Name in the Margin, compactly and with page-budget pressure in view.
+
+**Questions for owner:**
+
+1. Does temporary chapel wardship feel like a costly shelter rather than comfort?
+2. Does Ruan's retaliation through Tomas's bond feel concrete and procedural enough?
+3. Should the final chapter end on a lawful margin note, deanery preparation, or a still narrower local court record?
+
 ## 2026-05-31 10:01 - Hourly audit and Chapter 10 draft
 
 **Mode:** drafting.
