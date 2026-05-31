@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 21:02 - Hourly audit and Chapter 5 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-2102-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-2102-audit.md`
+- `book-one/manuscript/chapter-05-the-meadow-under-water.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 5 — The Meadow Under Water.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 100 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -100 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,766 words.
+
+**Current manuscript page estimate:** 91.1 pages.
+
+**Remaining words before cap:** 2,234 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 5 from 2,034 words to 1,934 words.
+- Cut repeated meadow-access, proof-limit, and route-pressure explanation while preserving Wren's cottage access, the moved ferry rope/stakes, the household tally board, the distant thin-veil road glimpse, and the manor men's intimidation turn.
+- Kept the chapter human-first: pressure still comes from floodwater, ferry control, household records, wardship threat, and manor intimidation rather than magic, Aurelith intervention, or convenient proof.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 22,766 words / 91.1 pages.
+- Chapter 8 remains a high-overage uncompressed middle chapter and may contain trim-ready private-compromise procedure.
+- The final draft still needs continued compression review without adding new scenes unless replacing weaker material.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 8 while preserving Ruan's human leverage, Elsbet's real temptation, Wren's agency, and the proof chain.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 5 still make Nine-Candle Meadow's ferry value clear enough?
+2. Did Wren's household access and the tally board remain plausible without overexplaining proof limits?
+3. Should Chapter 8 be the next compression target, or should the ending be reviewed for emotional sufficiency first?
+
 ## 2026-05-31 20:03 - Hourly audit and Chapter 6 compression
 
 **Mode:** Compression Mode.

@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 5 or Chapter 8: Chapter 5 remains a high-overage uncompressed middle chapter, while Chapter 8 carries the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve ferry economics, Wren's agency, Ruan's human leverage, the proof chain, Elsbet/Wren emotional arc, lawful margin-note ending, and thin-veil Glass Mile restraint.
+Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 8: it remains a high-overage uncompressed middle chapter carrying the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve Ruan's human leverage, Elsbet's real temptation, Wren's agency, the proof chain, lawful margin-note ending, and thin-veil Glass Mile restraint.

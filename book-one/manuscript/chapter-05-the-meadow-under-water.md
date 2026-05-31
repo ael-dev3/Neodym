@@ -20,9 +20,9 @@ Wren waited, not laughing. She had tucked the marriage cord back beneath her sha
 
 Wren looked at her.
 
-Elsbet heard how foolish it sounded. The child had been almost carried from her own cottage in a basket. Men were preparing to decide whether her house had ever properly been hers. Saying she did not have to go was the kind of mercy adults offered when they had already taken the road away.
+Elsbet heard how foolish it sounded. The child had almost been carried from her own cottage in a basket. Saying she did not have to go was mercy offered after the road had been taken.
 
-"I mean," Elsbet said, "if Master Kest has men there, they will say I stirred you. They may say worse."
+"If Master Kest has men there," Elsbet said, "they will say I stirred you."
 
 "He already says things."
 
@@ -30,7 +30,7 @@ Elsbet heard how foolish it sounded. The child had been almost carried from her 
 
 "So can not seeing." Wren stepped over a half-drowned rail. "You cannot tell court what the meadow is if you think it is grass."
 
-That was true enough to sting. Elsbet knew meadow as a word in records: meadow rent, meadow dower, meadow claim, meadow unresolved. In ink it lay flat and green. Ahead, where the land opened, Nine-Candle Meadow was neither.
+That stung. Elsbet knew meadow as ink: rent, dower, claim, unresolved. Ahead, where the land opened, Nine-Candle Meadow was neither flat nor green.
 
 Water had taken it in pieces.
 
@@ -54,13 +54,13 @@ Wren went down the slope before Elsbet could stop her. The mud sucked at the gir
 
 "Careful," Elsbet said.
 
-"This ring was my father's," Wren said. "Not because he made iron. Because he paid the smith after lambing and the smith cut three marks here so no one could say he had not." She pointed to cuts near the bolt, worn but visible beneath a skin of rain. "Mother said a paid thing needs scars or men call it borrowed."
+"This ring was my father's," Wren said. "He paid the smith after lambing, and the smith cut three marks here so no one could call it borrowed." She pointed to cuts near the bolt, worn but visible beneath a skin of rain. "Mother said a paid thing needs scars."
 
-Elsbet crouched beside her. The marks were not letters. They would not stand in court like a clean line. But they were there, made long before Ruan's clerk wrote no husband entered.
+Elsbet crouched beside her. The marks were not letters. They would not stand in court like a clean line, but they were there, older than Ruan's no husband entered.
 
 "Do not touch the new rope," Elsbet said.
 
-Wren's hand had already lifted toward it. "It is on our post."
+Wren's hand stopped. "It is on our post."
 
 "That is why touching it helps him. He can say you damaged what court had to inspect."
 
@@ -70,7 +70,7 @@ Wren's hand had already lifted toward it. "It is on our post."
 
 "Then why is it tied?"
 
-Across the water a man shouted that he would pay double if someone brought the ferry over before the wool spoiled. Another voice shouted back that no crossing was lawful until the hearing settled the bank. The words broke in the rain, but their meaning reached well enough. Grain, wool, messages, sick people, lambs, debts, summons: all of them could pile up on one side of water and become money for whoever owned the rope.
+Across the water a man shouted that he would pay double if someone brought the ferry over before the wool spoiled. Another voice shouted back that no crossing was lawful until the hearing settled the bank. The words broke in the rain, but their meaning reached well enough. Grain, wool, messages, sick people, lambs, debts, summons could pile up on one side of water and become money for whoever owned the rope.
 
 Elsbet looked from the stranded carts to the new stake. She understood then what Ruan had understood before dawn. Nine-Candle Meadow was not a dead woman's pretty patch. It was a hand on the village throat whenever the bridge failed.
 
@@ -86,7 +86,7 @@ Wren turned. "What?"
 
 "You always say no before I finish saving myself."
 
-"Because saving yourself in a way they can punish is letting them choose the charge." Elsbet forced herself to stand. Her skirt was soaked to the thigh. "We need witnesses to see that the rope was moved before the order, not a cut rope they can blame on you."
+"Because saving yourself in a punishable way lets them choose the charge." Elsbet forced herself to stand. Her skirt was soaked to the thigh. "We need witnesses to see the rope was moved before the order, not a cut rope they can blame on you."
 
 Wren stared at the red cloth as if hatred might set it smoking.
 
@@ -128,9 +128,9 @@ Elsbet did not take it. "Is it current?"
 
 "Some. Not all. I was learning." Wren's fingers tightened. "If I bring it, they will say I made marks after. If I leave it, she comes back and burns it."
 
-There was no answer that did not bite. Elsbet looked past Wren to the hearth, to the cold ash, to a clay candle stub guttered into a saucer. Human lives made records because human lives could be denied. Then the records needed protection like children, and the children needed protection like records, and there were never enough hands.
+There was no answer that did not bite. Elsbet looked past Wren to the cold hearth and a candle stub guttered into a saucer. Human lives made records because human lives could be denied; then records needed protecting like children, and children like records, and there were never enough hands.
 
-"Wrap it," Elsbet said. "You are not stealing from your own chest. But if anyone asks, I told you not to show it unless the court asks about unpaid crossings. It is not proof of the marriage. It is proof this ferry was living."
+"Wrap it," Elsbet said. "You are not stealing from your own chest. If anyone asks, I told you not to show it unless court asks about unpaid crossings. It is not marriage proof. It proves this ferry was living."
 
 Wren wrapped the board in the second shawl.
 
@@ -138,7 +138,7 @@ A horse snorted outside.
 
 Not close at first. Down by the old post. Then another horse, and men's voices low enough to be dangerous.
 
-Elsbet went to the window gap. Two manor men had come along the higher bank, cloaks dark with rain. One was the broad-shouldered man who had snorted in the chapel porch. The other carried a mallet and three sharpened stakes. Behind them, a pony dragged a coil of rope through the mud.
+Elsbet went to the window gap. Two manor men came along the higher bank, cloaks dark with rain: the broad-shouldered man from the chapel porch, and another with a mallet and three sharpened stakes. Behind them, a pony dragged a rope coil through the mud.
 
 The broad man saw the kicked basket first. Then he looked up and saw Elsbet at the cottage window.
 
@@ -172,7 +172,7 @@ His face changed a little at that. Not fear. Calculation finding a stone in its 
 
 Wren's breath hitched behind her. Pride or terror. Maybe both.
 
-Across the river, the stranded wool men shouted again. One lifted both arms, pleading or cursing. The current took his words. On the far rise beyond the broken bridge, a pale line of old stone showed through rain, dry-looking though everything around it was drowned. No cart went that way. No banner, no team, no sensible man with accounts to keep. Roads bent around fear and charged the poor for the turning.
+Across the river, the stranded wool men shouted again. One lifted both arms, pleading or cursing. The current took his words. On the far rise beyond the broken bridge, a pale line of old stone showed through rain, dry-looking in the flood. No cart went that way. Roads bent around fear and charged the poor for the turning.
 
 The broad manor man followed Elsbet's glance and spat into the mud.
 

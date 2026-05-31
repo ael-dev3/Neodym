@@ -41,8 +41,8 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **22,866**
-- Estimated manuscript pages: **91.5**
+- Drafted manuscript words: **22,766**
+- Estimated manuscript pages: **91.1**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 - Compression status: **active**
@@ -50,4 +50,4 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then continue compressing actual manuscript prose in the completed 12-chapter draft. Chapters 1, 2, 4, 6, 7, 10, and 11 have been compressed, with Chapter 10 now compressed twice; candidate next targets are Chapter 5 or Chapter 8, preserving ferry economics, Wren's agency, Ruan's human leverage, and the proof chain.
+Use the next run to create a fresh hourly audit, then continue compressing actual manuscript prose in the completed 12-chapter draft. Chapters 1, 2, 4, 5, 6, 7, 10, and 11 have been compressed, with Chapter 4 and Chapter 10 compressed twice; candidate next target is Chapter 8, preserving Ruan's human leverage, Elsbet's real temptation, Wren's agency, and the proof chain.
