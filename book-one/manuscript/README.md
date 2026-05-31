@@ -1,22 +1,23 @@
 # Manuscript
 
-Book One manuscript prose has begun for **The Ninth Candle**.
+Book One manuscript prose is underway for **The Ninth Candle**.
 
 ## Current chapter files
 
 | Chapter | File | Words | Status |
 |---|---|---:|---|
 | 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
+| 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
 
 ## Current manuscript count
 
-- Total manuscript words: 2,036
-- Estimated pages: 8.1
+- Total manuscript words: 3,984
+- Estimated pages: 15.9
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: not active
 
 ## Next planned file
 
-- `chapter-02-the-missing-ninth.md`
+- `chapter-03-wren-at-the-chapel-door.md`
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

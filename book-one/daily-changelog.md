@@ -1,5 +1,59 @@
 # Daily Changelog
 
+## 2026-05-31 02:02 - Hourly audit and Chapter 2 draft
+
+**Mode:** drafting.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-0202-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-0202-audit.md`
+- `book-one/manuscript/chapter-02-the-missing-ninth.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 2 — The Missing Ninth.
+
+**Words added:** 1,948 manuscript words.
+
+**Words removed:** 0 words from the previous committed manuscript state.
+
+**Net word-count change:** +1,948 words.
+
+**Current manuscript word count:** 3,984 words.
+
+**Current manuscript page estimate:** 15.9 pages.
+
+**Remaining words before cap:** 21,016 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Drafted the second actual new-version manuscript chapter.
+- Turned the ninth-candle hook into human procedure: the household light supports Maura Dain's married name without becoming magical proof.
+- Brought Tomas on-page so Elsbet's household-debt risk is concrete rather than abstract.
+- Ended with Wren arriving as an active claimant, setting up Chapter 3.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- Chapter 2 is 198 words over target, though still below the 20% over-target compression trigger.
+- Wren has only just arrived; Chapter 3 must make her vivid and active.
+- The marriage cord is now visible and must remain corroborating evidence, not a too-easy solution.
+
+**Next recommended action:** create the next hourly audit, then draft Chapter 3 — Wren at the Chapel Door.
+
+**Questions for owner:**
+
+1. Does the ninth-candle custom read as clear human procedure rather than lore exposition?
+2. Is Tomas's debt pressure concrete enough without making Ruan cartoonish?
+3. Should Chapter 3 keep Wren angry at Elsbet, Father Orlan, or both?
+
 ## 2026-05-31 01:40 - Hourly audit and Chapter 1 draft
 
 **Mode:** drafting.

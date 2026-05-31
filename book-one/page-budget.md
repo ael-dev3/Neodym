@@ -10,10 +10,10 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **2,036 words**.
-- Current page estimate: **8.1 pages**.
-- Remaining words before hard cap: **22,964 words**.
-- Drafted chapters: **1 of 12**.
+- Current new-version manuscript word count: **3,984 words**.
+- Current page estimate: **15.9 pages**.
+- Remaining words before hard cap: **21,016 words**.
+- Drafted chapters: **2 of 12**.
 - Compression status: **not active**.
 
 ## Words by chapter
@@ -21,7 +21,7 @@
 | Chapter | Title | Target Words | Actual Words | Delta | Status |
 |---|---|---:|---:|---:|---|
 | 1 | The Fair Copy | 1,700 | 2,036 | +336 | drafted |
-| 2 | The Missing Ninth | 1,750 | 0 | -1,750 | not drafted |
+| 2 | The Missing Ninth | 1,750 | 1,948 | +198 | drafted |
 | 3 | Wren at the Chapel Door | 1,800 | 0 | -1,800 | not drafted |
 | 4 | Matra's Wax Slats | 1,800 | 0 | -1,800 | not drafted |
 | 5 | The Meadow Under Water | 1,850 | 0 | -1,850 | not drafted |
@@ -37,10 +37,10 @@ Planned target total: **21,850 words**.
 
 ## Budget flags
 
-- Chapters over budget: Chapter 1 is **336 words over target**, but remains below the 20% over-target compression trigger.
-- Chapters under budget: Chapters 2–12 are not drafted.
-- Compression trigger: **inactive**. Current manuscript is 2,036 words / 8.1 pages.
+- Chapters over budget: Chapter 1 is **336 words over target** and Chapter 2 is **198 words over target**; both remain below the 20% over-target compression trigger.
+- Chapters under budget: Chapters 3–12 are not drafted.
+- Compression trigger: **inactive**. Current manuscript is 3,984 words / 15.9 pages.
 
 ## Next recommended action
 
-Draft Chapter 2, `book-one/manuscript/chapter-02-the-missing-ninth.md`, after creating the required hourly audit note. Keep Chapter 2 close to 1,750 words and make the ninth candle proof clarify the record mechanism without repeating Chapter 1's exposition.
+Draft Chapter 3, `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`, after creating the required hourly audit note. Keep Chapter 3 close to 1,800 words, make Wren an active claimant rather than an object of pity, and do not let the marriage cord solve the case by itself.

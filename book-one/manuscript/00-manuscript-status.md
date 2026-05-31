@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 2,036
-- Estimated pages: 8.1
-- Drafted chapters: 1 of 12
+- Manuscript words: 3,984
+- Estimated pages: 15.9
+- Drafted chapters: 2 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 22,964
+- Remaining words before hard cap: 21,016
 - Compression mode: not active
 
 ## Drafted chapters
@@ -22,10 +22,10 @@ The Ninth Candle
 | Chapter | File | Words | Status |
 |---|---|---:|---|
 | 1 | `chapter-01-the-fair-copy.md` | 2,036 | drafted |
+| 2 | `chapter-02-the-missing-ninth.md` | 1,948 | drafted |
 
 ## Missing chapters
 
-- Chapter 2 — The Missing Ninth
 - Chapter 3 — Wren at the Chapel Door
 - Chapter 4 — Matra's Wax Slats
 - Chapter 5 — The Meadow Under Water
@@ -39,9 +39,9 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-0140-audit.md`
+- `book-one/cron/audits/2026-05-31-0202-audit.md`
 
-## What Chapter 1 now proves
+## What Chapter 1 proves
 
 - Elsbet has legitimate access because she is actively preparing the chapel fair copy.
 - The rough register and fair copy are physically distinct.
@@ -50,19 +50,28 @@ The Ninth Candle
 - The first contradiction is visible: Maura's marriage appears in the rough register but not in the manor wording.
 - The second hook is visible: the ninth candle count also contradicts the manor summary.
 
+## What Chapter 2 proves
+
+- The ninth candle is a human custom with procedural weight: a household light claimed Maura Dain's burial.
+- Elsbet can examine the death and candle notes because the rough register is already under her lawful copying work.
+- Father Orlan's weakness is tied to fear for the chapel seal and the limits of his memory, not simple cowardice.
+- Ruan's leverage against Tomas is concrete through the mill bond review and the phrase "household conduct."
+- Wren arrives at the chapel as an active claimant, forcing Chapter 3 toward living stakes rather than abstract record proof.
+
 ## Current weak points
 
-- Chapter 1 is over target by 336 words, though not enough to trigger compression.
-- Wren is vivid through memory and risk but not yet present on-page.
-- Ruan's account-review pressure is implied through road money and flood court urgency; future chapters should sharpen it without a villain speech.
+- Chapters 1 and 2 are both over target, though neither triggers compression.
+- Wren has just entered; Chapter 3 must make her vivid, difficult, and active without making her magically able to win the case.
+- The marriage cord is now present as a question; future chapters must keep it supporting rather than decisive.
 
 ## Next likely chapter
 
-`chapter-02-the-missing-ninth.md`
+`chapter-03-wren-at-the-chapel-door.md`
 
-Required Chapter 2 work:
+Required Chapter 3 work:
 
 - Follow a fresh hourly audit before drafting.
-- Make the ninth candle proof concrete through chapel death notes and candle custom.
-- Keep Matra's receipt slats for Chapter 4; do not solve too much too early.
-- Bring Wren's risk closer to the page.
+- Let Wren challenge Elsbet and Father Orlan directly.
+- Clarify what the marriage cord can and cannot prove.
+- Keep Matra's receipt slats for Chapter 4.
+- Keep the conflict human-first and avoid Aurelith explanation.

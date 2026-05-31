@@ -6,7 +6,7 @@ Book One has been restarted from the ground up. The prior levy-bell premise is a
 
 Current mode: **hourly audit-first drafting**.
 
-Chapter 1 prose now exists for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
+Chapters 1 and 2 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
 ## Working title
 
@@ -40,11 +40,11 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **2,036**
-- Estimated manuscript pages: **8.1**
+- Drafted manuscript words: **3,984**
+- Estimated manuscript pages: **15.9**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 
 ## Next action
 
-Use the next run to create a fresh hourly audit, then draft Chapter 2: `book-one/manuscript/chapter-02-the-missing-ninth.md`.
+Use the next run to create a fresh hourly audit, then draft Chapter 3: `book-one/manuscript/chapter-03-wren-at-the-chapel-door.md`.
