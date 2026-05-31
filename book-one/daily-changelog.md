@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 18:04 - Hourly audit and Chapter 11 compression
+
+**Mode:** compression.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-1804-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-1804-audit.md`
+- `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 11 — Ward of Saint Brenna.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 109 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -109 words by direct chapter-file count.
+
+**Current manuscript word count:** 23,164 words.
+
+**Current manuscript page estimate:** 92.7 pages.
+
+**Remaining words before cap:** 1,836 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 11 from 1,971 words to 1,862 words.
+- Cut repeated court-order and aftermath logistics while preserving Wren's temporary chapel wardship, old-toll/court-pouch ferry status, Matra's contract risk, Tomas's mill-bond cost, Orlan's evidence custody, Ruan's procedural retaliation, and the Chapter 12 margin-note setup.
+- Kept the aftermath human-first: Ruan retaliates through debt and procedure, not magic or spectacle, and Wren's safety remains narrow rather than triumphant.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 23,164 words / 92.7 pages.
+- Chapter 2 now has the largest remaining absolute overage and may contain repeated candle-custom/Tomas-bond explanation that can be tightened.
+- The final draft still needs continued compression review without adding new scenes unless replacing weaker material.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 2 while preserving the ninth-candle custom, Tomas's bond pressure, Father Orlan's fear, and Wren's chapel-door arrival.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 11 still make Wren's ward status and the old-toll ferry order clear enough?
+2. Did the Tomas mill-bond cost remain emotionally visible after trimming court logistics?
+3. Should the next compression pass target Chapter 2 as recommended, or Chapter 6 because Father Orlan's key scene remains another high-overage chapter?
+
 ## 2026-05-31 17:03 - Hourly audit and Chapter 10 compression
 
 **Mode:** compression.

@@ -2,23 +2,23 @@
 
 Harl Brey's order did not sound like rescue when the clerk read it back.
 
-It sounded like weather counted into rent: chapel keeping pending production of material marks; ferry use under old toll tally; fees held in court pouch; no final wardship; no new lease; next hearing when the steward had the original slat, the chapel-held slat copy, and the household tally before him. Each phrase landed dry and narrow. Each one made Wren safer by making her smaller.
+It sounded like weather counted into rent: chapel keeping pending production of material marks; ferry use under old toll tally; fees held in court pouch; no final wardship; no new lease. Each phrase landed dry and narrow. Each one made Wren safer by making her smaller.
 
 The clerk stumbled over temporary chapel keeping.
 
 "Ward," Harl corrected.
 
-The word moved through the room faster than the candle smoke. Wren's hands closed around the marriage cord, then opened again, as if she had remembered that strangling proof would not help it breathe.
+The word moved through the room faster than candle smoke. Wren's hands closed around the marriage cord, then opened again, as if she had remembered that strangling proof would not help it breathe.
 
-"Not wardship to the manor," Harl said, annoyed by the way people heard what he said and feared what it meant. "Ward to Saint Brenna's custody until the disputed name is clean enough to enter or strike. Father Orlan will answer for the child. Mistress Vale will answer for the fair copy. Mistress Voss will answer for her slat. Master Kest will answer for the road accounts he has so helpfully endangered. Has everyone enough rope to hang themselves by form, or shall I issue more?"
+"Not wardship to the manor," Harl said, annoyed by how people heard what they feared. "Ward to Saint Brenna's custody until the disputed name is clean enough to enter or strike. Father Orlan answers for the child. Mistress Vale answers for the fair copy. Mistress Voss answers for her slat. Master Kest answers for the road accounts he has so helpfully endangered. Has everyone enough rope to hang themselves by form, or shall I issue more?"
 
 No one laughed.
 
 Ruan bowed as if insult could be folded and carried for later. "The ferry, Master Brey."
 
-"The ferry runs if the water demands it. Old tolls, not new. The child does not take coin. The manor does not take coin. My clerk's pouch takes coin until I say otherwise. Anyone moving stakes or changing rope marks before the order is posted pays treble."
+"Runs if the water demands it. Old tolls, not new. Coin to my clerk's pouch until I say otherwise. Anyone moving stakes or changing rope marks before the order is posted pays treble."
 
-The wool men began talking at once. A farmer near the door asked who would pull rope if no one owned the crossing for the day. The goose in its basket answered first, savage and useless. Harl pointed his pen at the broad manor man.
+The wool men began talking at once. A farmer near the door asked who would pull rope if no one owned the crossing for the day. Harl pointed his pen at the broad manor man.
 
 "You. Find two men who know the ferry and fear fines more than weather. They sign the pouch tally. If one penny vanishes, Master Kest may explain to Lady Merrow why flood income learned to swim."
 
@@ -30,7 +30,7 @@ Harl saw. So did half the room.
 
 The broad man reddened and went.
 
-Elsbet stood with one hand still near the rough register, though Father Orlan had already closed it. Her fingers smelled of old leather and smoke. Chapter by chapter of the day, she had imagined a moment when truth became heavier than fear. It had not happened. Fear only changed hands. Now it sat in the court pouch, in Harl's roll, in Matra's sealed mouth, in the way villagers looked at Wren and saw delayed ferry work before they saw a child.
+Elsbet stood with one hand near the rough register, though Father Orlan had already closed it. Her fingers smelled of old leather and smoke. All day she had imagined a moment when truth became heavier than fear. It had not happened. Fear only changed hands. Now it sat in the court pouch, in Harl's roll, in Matra's sealed mouth, in the way villagers looked at Wren and saw delayed ferry work before they saw a child.
 
 Wren leaned close. "Am I theirs now?"
 
@@ -38,23 +38,23 @@ Wren leaned close. "Am I theirs now?"
 
 The answer came too fast.
 
-Wren heard the crack in it. "Am I yours?"
+Wren heard the crack. "Am I yours?"
 
-Elsbet looked at Father Orlan. The old priest held his key cord with one hand and the wrapped register with the other. He seemed to have aged into both objects.
+Father Orlan held his key cord with one hand and the wrapped register with the other. He seemed to have aged into both objects.
 
 "You are under Saint Brenna's roof," he said.
 
-"Roofs leak," Wren said.
+"Roofs leak."
 
 "This one especially." His mouth tried for a smile and failed before it became an insult. "But it is the roof the order names. I will answer for you."
 
 "You already did," she said. It was not forgiveness. It was a receipt.
 
-Matra Voss shut her candle box. The ninth court flame still burned on the table because no one had thought of putting it out, and perhaps because everyone feared what that would look like. Harl's clerk sanded the roll. Ruan watched the sand fall.
+Matra Voss shut her candle box. The ninth court flame still burned on the table because no one had thought of putting it out, and perhaps because everyone feared what that would look like. Ruan watched the flame, then the box.
 
 "Mistress Voss," he said.
 
-Matra did not look up. "Master Kest."
+"Master Kest."
 
 "Your contract accounts will need cleaning after this disorder. Court lights arrived late."
 
@@ -68,9 +68,9 @@ Ruan's smile sharpened. "So many lessons today."
 
 "No," Matra said. "Only people you taught badly."
 
-For a moment Elsbet thought he might strike her with words that had legal edges. Instead he turned away from Matra as if dismissing trade dirt, and his eyes found Elsbet.
+For a moment Elsbet thought he might strike her with words that had legal edges. Instead he turned away from trade dirt, and his eyes found Elsbet.
 
-"Your brother works hard," he said.
+"Your brother works hard."
 
 The room seemed to tilt.
 
@@ -86,13 +86,13 @@ Elsbet felt Tomas's bond strip in her sleeve, softened by rain and handling. She
 
 Harl's pen stopped above the roll. "Master Kest. If the mill bond changes before this court closes its copy, I will wonder why every document you touch becomes lively only when crossed."
 
-Ruan bowed again, lower this time. "Of course. No document will change before proper review."
+Ruan bowed lower than before. "Of course. No document will change before proper review."
 
 Before, Elsbet thought. He was already choosing the hour after.
 
-The court broke badly, as courts did: not with an ending, but with people realizing their own matters had become wet and late while someone else's truth took up the bench. Men pushed toward the yard. The grain woman passed Wren without speaking, then turned back and gave a quick, terrified nod. Wren nodded as if accepting a coin too small to spend.
+The court broke badly, as courts did: not with an ending, but with people remembering their own matters had become wet and late while someone else's truth took up the bench. Men pushed toward the yard. The grain woman passed Wren without speaking, then turned back and gave a quick, terrified nod. Wren nodded as if accepting a coin too small to spend.
 
-At the doorway, the broad manor man returned with a leather pouch and two reluctant villagers behind him. Neither would meet Wren's eye. One held a ferry pole. The other had rope burns old enough to prove knowledge and fresh enough to prove need.
+At the doorway, the broad manor man returned with a leather pouch and two reluctant villagers behind him. Neither met Wren's eye. One held a ferry pole. The other had rope burns old enough to prove knowledge and fresh enough to prove need.
 
 "Old tolls," Elsbet said before she could stop herself.
 
@@ -102,13 +102,13 @@ The broad man glared. "Court order says so."
 
 He looked over her head toward Ruan, remembered Harl, and swore under his breath. Then he pushed into the rain and shouted, "Old tolls! Coin to court pouch! No lease changed!"
 
-A cheer did not rise. Hungry people did not cheer delay. But the shout changed the yard. Men who had been ready to curse Wren for holding the rope cursed the pouch instead, and that was a little room around her body.
+A cheer did not rise. Hungry people did not cheer delay. But the shout changed the yard. Men who had been ready to curse Wren for holding the rope cursed the pouch instead, and that gave a little room around her body.
 
 Elsbet took it for what it was worth.
 
 The walk back to Saint Brenna's chapel was shorter than the walk to court and heavier in every step. Father Orlan carried the register. Matra had gone toward her shed under a court boy's watch to fetch the original slat by evening bell. Wren walked between Elsbet and the priest, not because she had been placed there, but because both adults had learned enough to leave room for her to choose the middle.
 
-Rain softened to mist. The village looked rubbed thin: doors open, faces withdrawn, cart ruts full, smoke beaten low by wet air. At the mill turning, Tomas waited under the eave with flour on his sleeves and a split lip.
+Rain softened to mist. At the mill turning, Tomas waited under the eave with flour on his sleeves and a split lip.
 
 Elsbet stopped so quickly Orlan almost struck her with the register bundle.
 
@@ -122,7 +122,7 @@ His eyes flicked to Wren, then Orlan, then away. "Miller says I sleep at the mil
 
 "Since when?"
 
-"Since the court got noisy." He tried to smile. It pulled the split open again. "Do not make your face like that, Els. I told him I would go. Better a night by the stones than him saying I ran from bond."
+"Since the court got noisy." He tried to smile. It pulled the split open again. "Do not make your face like that, Els. Better a night by the stones than him saying I ran from bond."
 
 Ruan had not changed the document before court closed. He had only made the world lean again.
 
