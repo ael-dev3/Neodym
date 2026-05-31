@@ -2,7 +2,7 @@
 
 ## Audit file created
 
-`book-one/cron/audits/2026-05-31-1903-audit.md`
+`book-one/cron/audits/2026-05-31-2003-audit.md`
 
 ## Mode
 
@@ -10,30 +10,30 @@ Compression Mode
 
 ## What I did this hour
 
-Compressed Chapter 2 of **The Ninth Candle**: `book-one/manuscript/chapter-02-the-missing-ninth.md`.
+Compressed Chapter 6 of **The Ninth Candle**: `book-one/manuscript/chapter-06-father-orlans-key.md`.
 
 ## Why I did it
 
-The required audit found no blocking whole-story logic failure and confirmed compression mode is active. Chapter 2 had the largest remaining absolute overage after the last pass and repeated some candle-custom, work-scrap, and Tomas bond-pressure explanation, so I tightened it while preserving the ninth household candle, Father Orlan's fear and guilt, Tomas's concrete bond cost, Elsbet's lawful access, and Wren's arrival at the chapel door.
+The required audit found no blocking whole-story logic failure and confirmed compression mode is active. Chapter 6 was an essential hinge, but it repeated custody, fear, key, and summons phrasing after the reader already understood the proof-chain mechanism. I tightened the chapter while preserving Father Orlan's debt mechanism, Wren's distrust of locked proof, chapel-key custody, the evidence handoff, the summons naming Wren Reed called Dain, and Orlan's limited move toward courage.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-1903-audit.md`
-2. `book-one/manuscript/chapter-02-the-missing-ninth.md`
+1. `book-one/cron/audits/2026-05-31-2003-audit.md`
+2. `book-one/manuscript/chapter-06-father-orlans-key.md`
 3. `book-one/page-budget.md`
 
 ## Current manuscript status
 
 - Drafted chapters: 12 of 12
-- Current manuscript word count: 22,987
-- Page estimate: 91.9
-- Remaining words before hard cap: 2,013
+- Current manuscript word count: 22,866
+- Page estimate: 91.5
+- Remaining words before hard cap: 2,134
 - Compression mode: active
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Active manuscript status
 
-The novella remains coherent, human-first, and under the 25,000-word cap. Chapter 2 now moves faster while keeping the core proof chain intact: Elsbet finds the ninth candle's household meaning through lawful chapel records, Father Orlan's fear stays human and institutional, Tomas's bond shows the cost to Elsbet's family, and Wren arrives as an active claimant rather than an abstract victim.
+The novella remains coherent, human-first, and under the 25,000-word cap. Chapter 6 now moves faster from the ferry-bank consequence to the court summons while keeping the proof chain intact: Matra's copied slat and Wren's tally enter chapel custody, Wren keeps the marriage cord, Father Orlan's debt explains his fear without excusing him, and the summons exposes the attempted renaming before court.
 
 ## Archived material
 
@@ -42,9 +42,9 @@ None this hour.
 ## Risks
 
 - The completed draft remains above the 22,500-word / 90-page compression trigger, so the next run should continue compressing actual manuscript prose.
-- Chapter 6 now has the largest remaining absolute overage and should be reviewed for repeated debt, custody, and summons explanation.
-- Compression must preserve proof custody, character motive, Elsbet/Wren's emotional arc, and the absence of direct Aurelith/magic intervention.
+- Chapter 5 remains a high-overage uncompressed middle chapter; Chapter 8 also carries dense private-compromise procedure that may be trim-ready.
+- Compression must preserve proof custody, ferry economics, character motive, Elsbet/Wren's emotional arc, the lawful margin-note ending, and the absence of direct Aurelith/magic intervention.
 
 ## Suggested owner feedback
 
-Check whether the tightened Chapter 2 still makes the ninth household candle and Tomas's bond cost clear enough, and whether the next compression pass should target Chapter 6 as recommended.
+Check whether the tightened Chapter 6 still makes chapel-key custody and Orlan's debt leverage clear enough. If it does, the next compression pass should probably target Chapter 5's ferry-meadow sequence or Chapter 8's private-compromise hinge.

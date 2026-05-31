@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 6, because it now has the largest remaining absolute overage after Chapter 2 was compressed. Preserve Father Orlan's debt mechanism, chapel-key custody, summons pressure, Wren's limited agency, the proof chain, Elsbet/Wren emotional arc, lawful margin-note ending, and thin-veil Glass Mile restraint.
+Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 5 or Chapter 8: Chapter 5 remains a high-overage uncompressed middle chapter, while Chapter 8 carries the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve ferry economics, Wren's agency, Ruan's human leverage, the proof chain, Elsbet/Wren emotional arc, lawful margin-note ending, and thin-veil Glass Mile restraint.

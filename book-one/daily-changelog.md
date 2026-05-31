@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-05-31 20:03 - Hourly audit and Chapter 6 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-05-31-2003-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-05-31-2003-audit.md`
+- `book-one/manuscript/chapter-06-father-orlans-key.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 6 — Father Orlan's Key.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 121 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -121 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,866 words.
+
+**Current manuscript page estimate:** 91.5 pages.
+
+**Remaining words before cap:** 2,134 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 6 from 1,992 words to 1,871 words.
+- Cut repeated custody, fear, key, and summons phrasing while preserving Father Orlan's debt mechanism, Wren's distrust of locked proof, chapel-key custody, the evidence handoff, the summons naming Wren Reed called Dain, and Orlan's limited move toward courage.
+- Kept the chapter human-first: pressure still comes from debt, seal custody, court summons, and institutional fear rather than magic, Aurelith intervention, or convenient rescue.
+
+**What remains weak:**
+
+- The completed draft remains in compression mode at 22,866 words / 91.5 pages.
+- Chapter 5 remains a high-overage uncompressed middle chapter, while Chapter 8 still carries dense private-compromise procedure that may be trim-ready.
+- The final draft still needs continued compression review without adding new scenes unless replacing weaker material.
+
+**Next recommended action:** create the next hourly audit, then compress Chapter 5 or Chapter 8 while preserving ferry economics, Wren's agency, Ruan's human leverage, the proof chain, and the lawful margin-note ending.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 6 still make chapel-key custody and Orlan's debt leverage clear enough?
+2. Did Wren's distrust of locked proof remain emotionally visible after trimming?
+3. Should the next compression pass target Chapter 5's ferry-meadow sequence or Chapter 8's private-compromise hinge?
+
 ## 2026-05-31 19:03 - Hourly audit and Chapter 2 compression
 
 **Mode:** Compression Mode.

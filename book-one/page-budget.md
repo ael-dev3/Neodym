@@ -10,9 +10,9 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **22,987 words**.
-- Current page estimate: **91.9 pages**.
-- Remaining words before hard cap: **2,013 words**.
+- Current new-version manuscript word count: **22,866 words**.
+- Current page estimate: **91.5 pages**.
+- Remaining words before hard cap: **2,134 words**.
 - Drafted chapters: **12 of 12**.
 - Compression status: **active**.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
@@ -26,7 +26,7 @@
 | 3 | Wren at the Chapel Door | 1,800 | 1,753 | -47 | drafted |
 | 4 | Matra's Wax Slats | 1,800 | 1,989 | +189 | compressed twice; latest pass removed repeated warning/permit exposition while preserving Matra as a pressure character |
 | 5 | The Meadow Under Water | 1,850 | 2,034 | +184 | drafted |
-| 6 | Father Orlan's Key | 1,800 | 1,992 | +192 | drafted |
+| 6 | Father Orlan's Key | 1,800 | 1,871 | +71 | compressed; latest pass removed repeated custody/fear/key phrasing while preserving Orlan's debt reveal, evidence custody, and summons turn |
 | 7 | The Glass Mile Bend | 1,850 | 1,914 | +64 | compressed |
 | 8 | A Debt Called Mercy | 1,800 | 1,969 | +169 | drafted |
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
@@ -36,16 +36,16 @@
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **22,987 words**.
+Completed draft total: **22,866 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
 - Chapters under budget: Chapter 3 is **47 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **116 words under target** after compression.
-- Compression trigger: **active**. Current manuscript is 22,987 words / 91.9 pages, above both the 22,500-word and 90-page thresholds.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,013 words of space before the cap.
-- Latest compression: Chapter 2 was reduced from 1,950 to 1,773 words, removing 177 words of repeated candle-custom explanation, work-scrap setup, and Tomas bond-pressure exposition while preserving the ninth household candle, Father Orlan's fear and guilt, Tomas's concrete cost, and Wren's arrival at the chapel door.
+- Compression trigger: **active**. Current manuscript is 22,866 words / 91.5 pages, above both the 22,500-word and 90-page thresholds.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,134 words of space before the cap.
+- Latest compression: Chapter 6 was reduced from 1,992 to 1,871 words, removing 121 words of repeated custody, fear, key, and summons phrasing while preserving Orlan's debt mechanism, Wren's distrust of locked proof, chapel-key custody, and the court summons.
 
 ## Next recommended action
 
-Create the next hourly audit, then continue compression mode on actual manuscript prose. Start with Chapter 6 because it now has the largest remaining absolute overage; preserve Father Orlan's debt mechanism, chapel-key custody, the summons pressure, Wren's limited agency, and the proof chain while trimming repeated explanation.
+Create the next hourly audit, then continue compression mode on actual manuscript prose. Candidate next target is Chapter 5 or Chapter 8: Chapter 5 remains a high-overage uncompressed middle chapter, while Chapter 8 carries the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve ferry economics, Wren's agency, Ruan's human leverage, and the proof chain.

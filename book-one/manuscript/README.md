@@ -11,7 +11,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 2,034 | drafted |
-| 6 | `chapter-06-father-orlans-key.md` | 1,992 | drafted |
+| 6 | `chapter-06-father-orlans-key.md` | 1,871 | compressed |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,914 | compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 22,987
-- Estimated pages: 91.9
+- Total manuscript words: 22,866
+- Estimated pages: 91.5
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate next target: Chapter 6 because it now has the largest remaining absolute overage. Preserve Father Orlan's debt mechanism, chapel-key custody, the summons pressure, Wren's limited agency, and the proof chain while trimming repeated explanation.
+- Candidate next target: Chapter 5 or Chapter 8. Chapter 5 remains a high-overage uncompressed middle chapter; Chapter 8 carries the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve ferry economics, Wren's agency, Ruan's human leverage, and the proof chain.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.
