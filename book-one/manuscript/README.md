@@ -13,7 +13,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 5 | `chapter-05-the-meadow-under-water.md` | 1,934 | compressed |
 | 6 | `chapter-06-father-orlans-key.md` | 1,871 | compressed |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,914 | compressed |
-| 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
+| 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,184 | compressed twice |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,862 | compressed |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 22,766
-- Estimated pages: 91.1
+- Total manuscript words: 22,580
+- Estimated pages: 90.3
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Compression pass on the completed 12-chapter draft, starting with actual manuscript prose rather than support framework.
-- Candidate next target: Chapter 8. It remains a high-overage uncompressed middle chapter carrying the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve Ruan's human leverage, Elsbet's real temptation, Wren's agency, and the proof chain.
+- Candidate next target: Chapter 12. A focused compression of the final margin-note chapter could likely bring the completed draft below the 22,500-word / 90-page compression threshold. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

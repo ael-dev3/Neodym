@@ -1,10 +1,10 @@
-# Hourly writing workflow
+# 24-hour writing workflow
 
-Suggested schedule: `0 * * * *`.
+Suggested schedule: every 1440 minutes / once per 24 hours.
 
 This workflow exists to prevent the old failure mode: framework, outline, and lore expansion replacing the actual manuscript.
 
-## Hourly run order
+## 24-hour run order
 
 1. Read the repo state.
 2. Read `book-one/owner-feedback.md`.
@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Run compression mode on the completed 12-chapter draft, only after creating the next hourly audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 8: it remains a high-overage uncompressed middle chapter carrying the private-compromise hinge and may contain trim-ready procedural phrasing. Preserve Ruan's human leverage, Elsbet's real temptation, Wren's agency, the proof chain, lawful margin-note ending, and thin-veil Glass Mile restraint.
+Run compression mode on the completed 12-chapter draft, only after creating the next 24-hour audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 12: it remains over target and a focused compression of roughly 80 to 100 words would likely bring the completed draft below the compression threshold. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending.

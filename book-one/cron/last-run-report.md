@@ -1,50 +1,56 @@
-# Last run report
+# Last Run Report
 
-## Audit file created
+## Run
 
-`book-one/cron/audits/2026-05-31-2102-audit.md`
+- Date/time: 2026-06-01 21:18 +0200
+- Mode: Compression Mode
+- Audit file: `book-one/cron/audits/2026-06-01-2118-audit.md`
 
-## Mode
+## What changed this 24-hour run
 
-Compression Mode
+- Read the full active Book One manuscript and current support files before editing.
+- Created the required audit before touching manuscript/support files.
+- Compressed `book-one/manuscript/chapter-08-a-debt-called-mercy.md` from 1,969 to 1,783 words.
+- Cut repeated private-compromise, side-table, internal-accounting, and court-room procedural phrasing.
+- Preserved Ruan's leverage, Elsbet's temptation, Wren's cord intervention, and Harl Brey's procedure-first entrance.
+- Updated page budget, manuscript status/index files, daily changelog, Book One README, and 24-hour writing rules.
 
-## What I did this hour
+## Why
 
-Compressed Chapter 5 of **The Ninth Candle**: `book-one/manuscript/chapter-05-the-meadow-under-water.md`.
-
-## Why I did it
-
-The required audit found no whole-story logic failure and confirmed compression mode is active. Chapter 5 is essential because it turns Nine-Candle Meadow into practical ferry power, but it still repeated some meadow-access, proof-limit, and route-pressure explanation. I tightened the chapter while preserving Wren's lawful cottage access, the moved ferry rope and stakes, the household tally board, the distant thin-veil road glimpse, and the manor men's intimidation turn.
+The completed draft remained over the compression threshold at 22,766 words / 91.1 pages. Chapter 8 was the strongest next target because it was an uncompressed middle hinge carrying necessary but repetition-prone compromise logic. Tightening it improves pacing without changing the proof chain or adding new framework.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-05-31-2102-audit.md`
-2. `book-one/manuscript/chapter-05-the-meadow-under-water.md`
+1. `book-one/cron/audits/2026-06-01-2118-audit.md`
+2. `book-one/manuscript/chapter-08-a-debt-called-mercy.md`
 3. `book-one/page-budget.md`
+4. `book-one/daily-changelog.md`
 
-## Current manuscript status
+## Current story status
 
-- Drafted chapters: 12 of 12
-- Current manuscript word count: 22,766
-- Page estimate: 91.1
-- Remaining words before hard cap: 2,234
-- Compression mode: active
-- Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
+The Ninth Candle is a complete 12-chapter compact human novella about Elsbet Vale, a chapel copyist, refusing to let Maura Dain's marriage and Wren Dain's ferry claim be erased through a clean fair copy. The story remains small-scale: chapel, ferry, market court, debt, wardship, candle custom, and local road pressure. Aurelith/magic remain absent on-page; the Glass Mile is still only a distant taboo and route pressure.
 
 ## Active manuscript status
 
-The novella remains coherent, human-first, and under the 25,000-word cap. Chapter 5 now moves faster from Wren's choice to visit the meadow through the ferry-value reveal, the cottage/tally-board beat, and the manor men's pre-judgment rope work. The chapter still shows that Nine-Candle Meadow matters because floodwater, road avoidance, ferry ropes, and court timing make it immediate road power rather than sentimental property.
+- Active manuscript word count: 22,580 words
+- Estimated pages: 90.3
+- Hard cap: 25,000 words / 100 pages
+- Remaining before hard cap: 2,420 words
+- Compression status: active, still barely above the 22,500-word / 90-page trigger
+- Chapters drafted: 12 of 12
+- Chapter compressed this run: Chapter 8 — A Debt Called Mercy
 
 ## Archived material
 
-None this hour.
+None this run.
 
 ## Risks
 
-- The completed draft remains above the 22,500-word / 90-page compression trigger, so the next run should continue compressing actual manuscript prose.
-- Chapter 8 remains a high-overage uncompressed middle chapter and should probably be the next compression target.
-- Future compression must preserve proof custody, Ruan's human leverage, Elsbet's real temptation, Wren's agency, and the lawful margin-note ending.
+- Chapter 8 should be reread to ensure Elsbet's temptation still feels costly after compression.
+- Chapter 12 remains over target; cutting roughly 80 to 100 words there would likely bring the draft below the compression threshold.
+- The final margin-note ending should be protected from overcompression so the emotional payoff remains lawful, limited, and human.
 
 ## Suggested owner feedback
 
-Check whether the tightened Chapter 5 still makes the ferry value and Wren's household access clear enough. If it does, the next compression pass should probably target Chapter 8's private-compromise hinge.
+- Does the tightened Chapter 8 still make Ruan's compromise feel tempting rather than obviously villainous?
+- Should the next pass prioritize crossing below 22,500 words by compressing Chapter 12, or focus first on emotional polish for the ending even if word-count cuts are smaller?

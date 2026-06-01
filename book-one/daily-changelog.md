@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-01 21:18 - Daily audit and Chapter 8 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-01-2118-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-01-2118-audit.md`
+- `book-one/manuscript/chapter-08-a-debt-called-mercy.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 8 — A Debt Called Mercy.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 186 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -186 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,580 words.
+
+**Current manuscript page estimate:** 90.3 pages.
+
+**Remaining words before cap:** 2,420 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 8 from 1,969 words to 1,783 words.
+- Cut repeated side-table positioning, private-compromise explanation, internal accounting, and court-room procedural phrasing.
+- Preserved Ruan's human leverage over Tomas and Orlan, Elsbet's real temptation, Wren's active cord intervention, and Harl Brey's procedure-first entrance.
+- Updated active tracking files to reflect the daily / 24-hour cadence and the new Chapter 12 compression target.
+
+**What remains weak:**
+
+- The completed draft remains barely in compression mode at 22,580 words / 90.3 pages.
+- Chapter 12 is still over target and should be compressed carefully without weakening the lawful margin-note ending.
+- The ending should still be reviewed for emotional sufficiency after the next compression pass.
+
+**Next recommended action:** create the next 24-hour audit, then compress Chapter 12 by roughly 80 to 100 words while preserving the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending.
+
+**Questions for owner:**
+
+1. Does Chapter 8 still make Elsbet's temptation feel real after tightening?
+2. Should the next pass prioritize getting below the compression threshold through Chapter 12, or spend the same space strengthening the final emotional beat even if cuts are smaller?
+
 ## 2026-05-31 21:02 - Hourly audit and Chapter 5 compression
 
 **Mode:** Compression Mode.

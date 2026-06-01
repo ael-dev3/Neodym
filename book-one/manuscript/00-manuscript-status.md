@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Compression mode after completion of the first 12-chapter draft under the hourly audit-first workflow.
+Compression mode after completion of the first 12-chapter draft under the 24-hour audit-first workflow.
 
 ## Working title
 
@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 22,766
-- Estimated pages: 91.1
+- Manuscript words: 22,580
+- Estimated pages: 90.3
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 2,234
+- Remaining words before hard cap: 2,420
 - Compression mode: active
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -29,7 +29,7 @@ The Ninth Candle
 | 5 | `chapter-05-the-meadow-under-water.md` | 1,934 | compressed |
 | 6 | `chapter-06-father-orlans-key.md` | 1,871 | compressed |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,914 | compressed |
-| 8 | `chapter-08-a-debt-called-mercy.md` | 1,969 | drafted |
+| 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,184 | compressed twice |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,862 | compressed |
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-05-31-2102-audit.md`
+- `book-one/cron/audits/2026-06-01-2118-audit.md`
 
 ## What Chapter 1 proves
 
@@ -144,8 +144,8 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is over the compression threshold at 22,766 words / 91.1 pages.
-- Chapters 1, 2, 4, 5, 6, 7, 8, 11, and 12 are over target, though none triggers per-chapter compression.
+- The completed draft is still just over the compression threshold at 22,580 words / 90.3 pages.
+- Chapters 1, 2, 4, 5, 6, 7, 11, and 12 are over target, though none triggers per-chapter compression.
 - Chapter 1 has been compressed from 2,038 to 1,858 words while preserving the opening proof mechanism.
 - Chapter 4 has been compressed from 2,107 to 1,989 words while preserving Matra's trade-risk motive, the copy-slat custody logic, and Wren's limited agency.
 - Chapter 7 has been compressed from 2,083 to 1,914 words while preserving the Glass Mile's thin-veil restraint, ferry economics, public mark, and conditional witness beat.
@@ -154,8 +154,9 @@ The Ninth Candle
 - Chapter 2 has been compressed from 1,950 to 1,773 words while preserving the ninth household candle, Tomas's bond pressure, Father Orlan's fear, and Wren's chapel-door arrival.
 - Chapter 6 has been compressed from 1,992 to 1,871 words while preserving Father Orlan's debt mechanism, chapel-key custody, summons pressure, Wren's limited agency, and the proof chain.
 - Chapter 5 has been compressed from 2,034 to 1,934 words while preserving Wren's cottage access, ferry economics, the moved rope/stakes, the household tally board, the distant thin-veil road glimpse, and the manor men's intimidation turn.
+- Chapter 8 has been compressed from 1,969 to 1,783 words while preserving Ruan's human leverage, Elsbet's real temptation, Wren's agency through the cord, and Harl Brey's procedure-first entrance.
 - The ending should be reviewed after compression to ensure the final margin note feels earned, lawful, and emotionally sufficient.
 
 ## Next likely work
 
-Compression pass on actual manuscript prose. Candidate next target is Chapter 8 after the next required hourly audit; preserve Ruan's human leverage, Elsbet's real temptation, Wren's agency, and the proof chain. Do not add new framework instead of trimming the completed draft.
+Compression pass on actual manuscript prose. Candidate next target is Chapter 12 after the next required 24-hour audit; preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending. Do not add new framework instead of trimming the completed draft.
