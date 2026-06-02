@@ -2,27 +2,27 @@
 
 ## Run
 
-- Date/time: 2026-06-01 21:18 +0200
+- Date/time: 2026-06-02 21:31 +0200
 - Mode: Compression Mode
-- Audit file: `book-one/cron/audits/2026-06-01-2118-audit.md`
+- Audit file: `book-one/cron/audits/2026-06-02-2131-audit.md`
 
 ## What changed this 24-hour run
 
 - Read the full active Book One manuscript and current support files before editing.
 - Created the required audit before touching manuscript/support files.
-- Compressed `book-one/manuscript/chapter-08-a-debt-called-mercy.md` from 1,969 to 1,783 words.
-- Cut repeated private-compromise, side-table, internal-accounting, and court-room procedural phrasing.
-- Preserved Ruan's leverage, Elsbet's temptation, Wren's cord intervention, and Harl Brey's procedure-first entrance.
+- Compressed `book-one/manuscript/chapter-10-candles-counted-aloud.md` from 2,184 to 2,080 words.
+- Cut repeated candle-count explanation, court-order phrasing, and not-victory commentary.
+- Preserved the public proof chain, Matra Voss's arrival, Harl Brey's limited procedural ruling, Wren's temporary chapel keeping, and the unresolved costs to Tomas, Orlan, and the meadow.
 - Updated page budget, manuscript status/index files, daily changelog, Book One README, and 24-hour writing rules.
 
 ## Why
 
-The completed draft remained over the compression threshold at 22,766 words / 91.1 pages. Chapter 8 was the strongest next target because it was an uncompressed middle hinge carrying necessary but repetition-prone compromise logic. Tightening it improves pacing without changing the proof chain or adding new framework.
+The completed draft began this run just over the compression threshold at 22,580 words / 90.3 pages. Chapter 10 was the longest active chapter and the court climax, so tightening repeated procedure there improved pace without changing canon, access rules, custody logic, or the partial-victory ending.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-06-01-2118-audit.md`
-2. `book-one/manuscript/chapter-08-a-debt-called-mercy.md`
+1. `book-one/cron/audits/2026-06-02-2131-audit.md`
+2. `book-one/manuscript/chapter-10-candles-counted-aloud.md`
 3. `book-one/page-budget.md`
 4. `book-one/daily-changelog.md`
 
@@ -32,13 +32,14 @@ The Ninth Candle is a complete 12-chapter compact human novella about Elsbet Val
 
 ## Active manuscript status
 
-- Active manuscript word count: 22,580 words
-- Estimated pages: 90.3
+- Active manuscript word count: 22,476 words
+- Estimated pages: 89.9
 - Hard cap: 25,000 words / 100 pages
-- Remaining before hard cap: 2,420 words
-- Compression status: active, still barely above the 22,500-word / 90-page trigger
+- Remaining before hard cap: 2,524 words
+- Compression status: watch / currently just below the 22,500-word / 90-page trigger
 - Chapters drafted: 12 of 12
-- Chapter compressed this run: Chapter 8 — A Debt Called Mercy
+- Chapter compressed this run: Chapter 10 — Candles Counted Aloud
+- Manuscript change this run: -104 words
 
 ## Archived material
 
@@ -46,11 +47,11 @@ None this run.
 
 ## Risks
 
-- Chapter 8 should be reread to ensure Elsbet's temptation still feels costly after compression.
-- Chapter 12 remains over target; cutting roughly 80 to 100 words there would likely bring the draft below the compression threshold.
-- The final margin-note ending should be protected from overcompression so the emotional payoff remains lawful, limited, and human.
+- The draft is only 24 words below the compression trigger, so future revisions should avoid expansion unless replacing weaker material.
+- Chapter 12 remains over target and should be reread for emotional sufficiency, but the final lawful margin note should not be over-compressed.
+- Chapter 7 may still tolerate light route-scene tightening if the Glass Mile bend feels slow on the next full read.
 
 ## Suggested owner feedback
 
-- Does the tightened Chapter 8 still make Ruan's compromise feel tempting rather than obviously villainous?
-- Should the next pass prioritize crossing below 22,500 words by compressing Chapter 12, or focus first on emotional polish for the ending even if word-count cuts are smaller?
+- Does the tightened Chapter 10 still make Harl Brey's delay feel procedural rather than merciful rescue?
+- Is Chapter 12's margin-note ending emotionally sufficient as-is, or should the next run polish it while keeping word count flat?

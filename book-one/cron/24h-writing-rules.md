@@ -74,4 +74,4 @@ A run that only updates README files, indexes, character files, location files, 
 
 ## Current next action
 
-Run compression mode on the completed 12-chapter draft, only after creating the next 24-hour audit note. Trim actual manuscript prose rather than adding framework. Candidate next target is Chapter 12: it remains over target and a focused compression of roughly 80 to 100 words would likely bring the completed draft below the compression threshold. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending.
+Create the next 24-hour audit note, reread the full completed manuscript, then make exactly one count-flat prose revision or light compression based on the weakest passage. The draft is currently just below the 22,500-word / 90-page compression trigger, so do not add new scenes unless replacing weaker material. Candidate next targets are Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, Aurelith absence, and the quiet thin-veil ending.

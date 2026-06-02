@@ -4,7 +4,7 @@
 
 Book One has been restarted from the ground up. The prior levy-bell premise is archived under `archive/book-one-failed-levy-bell/` and is not live canon.
 
-Current mode: **compression mode after a completed 12-chapter draft**.
+Current mode: **post-compression watch after a completed 12-chapter draft**.
 
 Chapters 1 through 12 prose now exist for this new version. Each future writing run must create a visible audit note before changing manuscript prose.
 
@@ -41,13 +41,13 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **22,580**
-- Estimated manuscript pages: **90.3**
+- Drafted manuscript words: **22,476**
+- Estimated manuscript pages: **89.9**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
-- Compression status: **active**
+- Compression status: **watch / currently below trigger**
 - Counting method: direct `wc -w` over `book-one/manuscript/chapter-*.md`
 
 ## Next action
 
-Use the next run to create a fresh 24-hour audit, then continue compressing actual manuscript prose in the completed 12-chapter draft. Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 have been compressed, with Chapter 4 and Chapter 10 compressed twice; candidate next target is Chapter 12, preserving the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, and the quiet thin-veil ending.
+Use the next run to create a fresh 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 have been compressed, with Chapter 4 compressed twice and Chapter 10 compressed three times; candidate next targets are Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening.

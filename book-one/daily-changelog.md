@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-02 21:31 - Daily audit and Chapter 10 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-02-2131-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-02-2131-audit.md`
+- `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 10 — Candles Counted Aloud.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 104 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -104 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,476 words.
+
+**Current manuscript page estimate:** 89.9 pages.
+
+**Remaining words before cap:** 2,524 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 10 from 2,184 words to 2,080 words.
+- Cut repeated candle-count explanation, court-order phrasing, and not-victory commentary while preserving the public proof chain, Matra's arrival, Harl Brey's limited ruling, Wren's temporary chapel keeping, and the unresolved costs to Tomas, Orlan, and the meadow.
+- Brought the complete draft just under the compression threshold at 22,476 words / 89.9 pages.
+- Updated active tracking files so the next run does not keep following the stale Chapter 12 threshold-crossing target.
+
+**What remains weak:**
+
+- The draft is only 24 words below the compression trigger, so future revisions should stay count-flat unless clearly needed.
+- Chapter 12 remains over target and should be reread for emotional sufficiency, but the lawful margin-note ending should not be over-compressed.
+- Chapter 7 may still be a later light-compression target if the Glass Mile bend feels slow in a full-story reread.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Candidate targets are Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening; do not add framework in place of prose.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 10 still make Harl's delay feel procedural rather than merciful rescue?
+2. Is the final Chapter 12 margin-note ending emotionally sufficient as-is, or should the next pass polish it while keeping the count flat?
+
 ## 2026-06-01 21:18 - Daily audit and Chapter 8 compression
 
 **Mode:** Compression Mode.
