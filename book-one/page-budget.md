@@ -10,12 +10,14 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **22,476 words**.
-- Current page estimate: **89.9 pages**.
-- Remaining words before hard cap: **2,524 words**.
+- Current new-version manuscript word count: **22,418 words**.
+- Current page estimate: **89.7 pages**.
+- Remaining words before hard cap: **2,582 words**.
+- Remaining pages before hard cap: **10.3 pages**.
 - Drafted chapters: **12 of 12**.
-- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the latest compression, but close enough that future revisions should stay count-flat unless clearly necessary.
+- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the latest light compression, with an 82-word cushion before compression mode reactivates.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
+- Archived/discarded chapters are excluded from the active manuscript count.
 
 ## Words by chapter
 
@@ -32,20 +34,20 @@
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
 | 10 | Candles Counted Aloud | 2,300 | 2,080 | -220 | compressed three times; latest pass removed repeated candle-count, court-order, and not-victory explanation while preserving the public ruling |
 | 11 | Ward of Saint Brenna | 1,750 | 1,862 | +112 | compressed; latest pass tightened repeated aftermath procedure while preserving Wren's wardship, Tomas's cost, and Ruan's retaliation |
-| 12 | The Name in the Margin | 1,900 | 1,985 | +85 | drafted |
+| 12 | The Name in the Margin | 1,900 | 1,927 | +27 | compressed; latest pass tightened final margin-note aftermath while preserving Maura Dain's name, Tomas's cost, and the quiet ending |
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **22,476 words**.
+Completed draft total: **22,418 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
 - Chapters under budget: Chapter 3 is **47 words under target**, Chapter 8 is **17 words under target** after compression, Chapter 9 is **76 words under target**, and Chapter 10 is **220 words under target** after compression.
-- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,476 words / 89.9 pages, just under both the 22,500-word and 90-page thresholds.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,524 words of space before the cap.
-- Latest compression: Chapter 10 was reduced from 2,184 to 2,080 words, removing 104 words of repeated candle-count, court-order, and not-victory explanation while preserving the public proof chain, Matra's arrival, Harl's limited ruling, and Wren's temporary reprieve.
+- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,418 words / 89.7 pages, 82 words below the 22,500-word threshold and 0.3 pages below the 90-page threshold.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,582 words of space before the cap.
+- Latest compression: Chapter 12 was reduced from 1,985 to 1,927 words, removing 58 words of repeated margin-note and aftermath phrasing while preserving the final lawful record action, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the silent Glass Mile.
 
 ## Next recommended action
 
-Create the next 24-hour audit, then run a whole-story sense check before choosing the next prose move. The draft is now just below the compression threshold, so the next best target is likely a count-flat Revision Mode pass on Chapter 12's ending or a light Chapter 7/12 compression if the full read shows pacing drag. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and the quiet thin-veil ending.
+Create the next 24-hour audit, then run a whole-story sense check before choosing the next prose move. The draft is below but near the compression threshold, so the next best target is likely a count-flat Revision Mode pass on Chapter 7's route/Glass Mile bend if it still feels slow, or a style-level pass on Chapter 1 that does not add words. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and Aurelith absence.

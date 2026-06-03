@@ -41,8 +41,8 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Current manuscript count
 
-- Drafted manuscript words: **22,476**
-- Estimated manuscript pages: **89.9**
+- Drafted manuscript words: **22,418**
+- Estimated manuscript pages: **89.7**
 - Hard cap: **25,000 words / 100 pages**
 - Compression begins: **22,500 words / 90 pages**
 - Compression status: **watch / currently below trigger**
@@ -50,4 +50,4 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Next action
 
-Use the next run to create a fresh 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Chapters 1, 2, 4, 5, 6, 7, 8, 10, and 11 have been compressed, with Chapter 4 compressed twice and Chapter 10 compressed three times; candidate next targets are Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening.
+Use the next run to create a fresh 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Chapters 1, 2, 4, 5, 6, 7, 8, 10, 11, and 12 have been compressed, with Chapter 4 compressed twice and Chapter 10 compressed three times; candidate next targets are Chapter 7 route-scene tightening or a style-level Chapter 1 pass.

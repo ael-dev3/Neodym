@@ -88,7 +88,7 @@ Matra snorted. "Charge him for breathing. He does it badly."
 
 Elsbet took the order, read it, and set it beside Tomas's bond strip.
 
-The bond strip had gone soft from rain and from the heat of her skin. Household conduct to be considered. Review pending. It had spent the day pressed against Maura's proof as if threats and records were kin. She thought of Tomas under the mill eave, split lip trying to smile, stepping back because if she touched him he might choose love over bond terms and be punished for both.
+The bond strip had gone soft from rain and skin heat. Household conduct to be considered. Review pending. It had spent the day pressed against Maura's proof as if threats and records were kin. Tomas waited under the mill eave, split-lipped and out of reach because a touch might tempt breach.
 
 Wren saw where Elsbet looked.
 
@@ -100,7 +100,7 @@ Elsbet could have lied. The lie stood ready, kinder than truth and just as usele
 
 Wren's mouth trembled once. She held it still by force. "Then why keep writing?"
 
-Because Maura was dead. Because Tomas was alive. Because neither fact excused spending the other. Because every road out of the room crossed someone.
+Because Maura was dead and Tomas was alive, and neither fact excused spending the other.
 
 Elsbet dipped the pen.
 
@@ -120,7 +120,7 @@ Elsbet wrote the second line smaller.
 
 Candlewright Matra Voss produced fever-season slat before evening bell, marking eight chapel lights and one household under Maura Dain; chapel-held copy slat and ferry tally remain under key pending review.
 
-Her hand began to ache. The margin narrowed further. She could feel everyone reading over her fingers: Orlan fearing too much, Matra fearing too little, Wren wanting one word to become a door, the manor boy storing phrases for men who would use them poorly.
+Her hand began to ache. The margin narrowed further. Everyone read over her fingers: Orlan fearing too much, Matra too little, Wren wanting one word to become a door, the manor boy storing phrases for men who would use them poorly.
 
 She wrote the last line.
 
@@ -142,7 +142,7 @@ At Maura Dain, Wren shut her eyes. Not long. Long enough for the name to enter a
 
 No one hurried to answer this time.
 
-"It keeps the fair copy from pretending she was never Dain," Elsbet said. "It tells the next hand where the knife is. It gives Harl Brey less room to say he did not know. It gives Ruan less clean paper."
+"It keeps the fair copy from pretending she was never Dain," Elsbet said. "It tells the next hand where the knife is. It gives Harl Brey less room to look away, and Ruan less clean paper."
 
 "But it does not save her."
 
@@ -158,7 +158,7 @@ Wren put one finger on the lid before he closed it. "Under her name."
 
 The key turned.
 
-Outside, the ferry bell sounded once from the river, not alarm, only crossing. Old tolls. Court pouch. Men pulling rope because the water did not care who was right. Farther off, the mill stones began their night grinding. Elsbet heard them through the rain-soft dark: stone over grain, debt over body, the world continuing to ask payment because one margin note had not improved its manners.
+Outside, the ferry bell sounded once from the river: not alarm, only crossing. Old tolls. Court pouch. Men pulling rope because water did not care who was right. Farther off, the mill stones began night grinding: stone over grain, debt over body, the world still asking payment.
 
 Matra tied her horn box shut. "I will sleep with this under my ribs and a knife under the pillow. If anyone asks, I learned piety from Saint Brenna."
 
@@ -182,7 +182,7 @@ Human roads bent around it all the same.
 
 Elsbet looked back at the chest, at the leaking roof, at Wren's small shape keeping watch over a locked name.
 
-Tomorrow the fair copy would travel again. Tomorrow Ruan would find another clean phrase. Tomorrow Tomas would lift sacks until someone counted mercy into debt. Tomorrow Harl Brey would decide how much dirt a roll could bear.
+Tomorrow the fair copy would travel again. Ruan would find another clean phrase, Tomas would lift sacks under mercy counted as debt, and Harl Brey would decide how much dirt a roll could bear.
 
 Tonight, Maura Dain was written in the margin where absence had been ordered to sit.
 

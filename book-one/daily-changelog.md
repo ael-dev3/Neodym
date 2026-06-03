@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-03 21:41 - Daily audit and Chapter 12 compression
+
+**Mode:** Compression Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-03-2141-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-03-2141-audit.md`
+- `book-one/manuscript/chapter-12-the-name-in-the-margin.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 12 — The Name in the Margin.
+
+**Chapters archived:** none.
+
+**Words added:** 0 manuscript words.
+
+**Words removed:** 58 manuscript words from the previous committed manuscript state.
+
+**Net word-count change:** -58 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,418 words.
+
+**Current manuscript page estimate:** 89.7 pages.
+
+**Remaining words before cap:** 2,582 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Compressed Chapter 12 from 1,985 words to 1,927 words.
+- Tightened repeated final-third phrasing around Tomas's bond, why Elsbet keeps writing, the margin note's limits, the ferry/mill aftermath, and tomorrow's threats.
+- Preserved the lawful margin cause, Maura Dain's name, Wren's guarded response, Matra's slat custody, Orlan's key, Tomas's unresolved bond cost, and the silent Glass Mile.
+- Gave the completed draft a slightly safer cushion below the compression trigger at 22,418 words / 89.7 pages.
+
+**What remains weak:**
+
+- The draft is still only 82 words below the compression trigger, so future revisions should stay count-flat unless replacing weaker material.
+- Chapter 7 remains a possible light-compression target if the Glass Mile bend feels slow in a full-story reread.
+- Any future Chapter 12 work should be style-level only; the lawful margin-note ending should not be over-compressed.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Candidate targets are Chapter 7 route-scene tightening or a style-level Chapter 1 pass; do not add framework in place of prose.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 12 still let the ending feel emotionally earned rather than merely procedural?
+2. Should the next pass target Chapter 7 route-scene tightening, or begin a style-level Chapter 1 opening pass while holding the word count flat?
+
 ## 2026-06-02 21:31 - Daily audit and Chapter 10 compression
 
 **Mode:** Compression Mode.

@@ -17,12 +17,12 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,862 | compressed |
-| 12 | `chapter-12-the-name-in-the-margin.md` | 1,985 | drafted |
+| 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
 
 ## Current manuscript count
 
-- Total manuscript words: 22,476
-- Estimated pages: 89.9
+- Total manuscript words: 22,418
+- Estimated pages: 89.7
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: watch / currently below trigger
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Full-story audit before the next prose move, then a count-flat revision or light compression of the weakest passage rather than support framework.
-- Candidate next targets: Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the quiet thin-veil ending.
+- Candidate next targets: Chapter 7 route-scene tightening or a style-level Chapter 1 pass. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

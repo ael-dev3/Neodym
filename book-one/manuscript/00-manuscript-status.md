@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass brought the draft just below the 22,500-word / 90-page trigger; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
+Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass kept the draft below the 22,500-word / 90-page trigger and created a slightly safer 82-word cushion; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
 
 ## Working title
 
@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 22,476
-- Estimated pages: 89.9
+- Manuscript words: 22,418
+- Estimated pages: 89.7
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 2,524
+- Remaining words before hard cap: 2,582
 - Compression mode: watch / currently below trigger
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -33,7 +33,7 @@ The Ninth Candle
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,862 | compressed |
-| 12 | `chapter-12-the-name-in-the-margin.md` | 1,985 | drafted |
+| 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
 
 ## Missing chapters
 
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-06-02-2131-audit.md`
+- `book-one/cron/audits/2026-06-03-2141-audit.md`
 
 ## What Chapter 1 proves
 
@@ -141,15 +141,15 @@ The Ninth Candle
 - Matra's original slat is produced under order and compared to the copy without becoming a magical or decisive proof source.
 - Tomas's bond remains an unresolved cost beside Elsbet's choice; the ending does not pretend everyone is safe.
 - The Glass Mile remains silent and unexplained; the final pressure stays human, local, and procedural.
+- The latest compression removed repeated aftermath phrasing while keeping the margin note's emotional and legal limits clear.
 
 ## Current weak points
 
-- The completed draft is now just below the compression trigger at 22,476 words / 89.9 pages, leaving little room for expansion.
+- The completed draft is below but close to the compression trigger at 22,418 words / 89.7 pages, leaving little room for expansion.
 - Chapters 1, 2, 4, 5, 6, 7, 11, and 12 remain over individual targets, though none triggers per-chapter compression.
-- Chapter 10 has now been compressed from 2,184 to 2,080 words in the latest pass while preserving the public candle-count climax, Matra's arrival, Harl's limited ruling, and the partial-victory aftermath.
-- Chapter 12 remains over target and should be reread for emotional sufficiency, but its lawful margin-note ending should not be over-compressed.
-- Chapter 7 remains a possible light-compression target if the Glass Mile bend feels too slow on a full-story reread.
+- Chapter 7 remains the most likely next light-compression target if the Glass Mile bend feels slow on a full-story reread.
+- Any future Chapter 12 work should stay style-level and avoid over-compressing the lawful margin-note ending.
 
 ## Next likely work
 
-Create the next 24-hour audit, reread the full manuscript, then choose a count-flat prose revision rather than new framework. Candidate targets are Chapter 12 ending polish/light compression or Chapter 7 route-scene tightening, depending on which passage feels weakest in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.
+Create the next 24-hour audit, reread the full manuscript, then choose a count-flat prose revision rather than new framework. Candidate targets are Chapter 7 route-scene tightening or a style-level Chapter 1 opening pass, depending on which passage feels weakest in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.
