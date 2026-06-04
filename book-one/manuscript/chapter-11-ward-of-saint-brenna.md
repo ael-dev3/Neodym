@@ -2,9 +2,9 @@
 
 Harl Brey's order did not sound like rescue when the clerk read it back.
 
-It sounded like weather counted into rent: chapel keeping pending production of material marks; ferry use under old toll tally; fees held in court pouch; no final wardship; no new lease. Each phrase landed dry and narrow. Each one made Wren safer by making her smaller.
+It sounded like a fence made of wet sticks: chapel keeping, old toll tally, court pouch, no final wardship, no new lease. Each phrase held only because the next leaned against it. Each one made Wren safer by making her smaller.
 
-The clerk stumbled over temporary chapel keeping.
+The clerk stumbled over chapel keeping.
 
 "Ward," Harl corrected.
 
@@ -30,7 +30,7 @@ Harl saw. So did half the room.
 
 The broad man reddened and went.
 
-Elsbet stood with one hand near the rough register, though Father Orlan had already closed it. Her fingers smelled of old leather and smoke. All day she had imagined a moment when truth became heavier than fear. It had not happened. Fear only changed hands. Now it sat in the court pouch, in Harl's roll, in Matra's sealed mouth, in the way villagers looked at Wren and saw delayed ferry work before they saw a child.
+Elsbet stood with one hand near the rough register, though Father Orlan had already closed it. Her fingers smelled of old leather and smoke. All day she had imagined truth becoming heavier than fear. It had not. Fear only changed hands: into the court pouch, into Harl's roll, into Matra's shut mouth, into the way villagers looked at Wren and saw delayed ferry work before they saw a child.
 
 Wren leaned close. "Am I theirs now?"
 
@@ -106,7 +106,7 @@ A cheer did not rise. Hungry people did not cheer delay. But the shout changed t
 
 Elsbet took it for what it was worth.
 
-The walk back to Saint Brenna's chapel was shorter than the walk to court and heavier in every step. Father Orlan carried the register. Matra had gone toward her shed under a court boy's watch to fetch the original slat by evening bell. Wren walked between Elsbet and the priest, not because she had been placed there, but because both adults had learned enough to leave room for her to choose the middle.
+The walk back to Saint Brenna's chapel was shorter than the walk to court and heavier in every step. Father Orlan carried the register. Matra had gone toward her shed under a court boy's watch to fetch the original slat by evening bell. Wren walked between Elsbet and the priest, not because the order placed her there, but because both adults had learned enough to leave room for her to choose the middle.
 
 Rain softened to mist. At the mill turning, Tomas waited under the eave with flour on his sleeves and a split lip.
 
@@ -114,7 +114,7 @@ Elsbet stopped so quickly Orlan almost struck her with the register bundle.
 
 "Who did that?"
 
-Tomas touched his mouth, then looked embarrassed by the blood as if he had spilled someone else's ink. "Sack hook slipped."
+Tomas touched his mouth, then looked embarrassed by the blood as if it were another debt he should have hidden. "Sack hook slipped."
 
 "Tomas."
 
@@ -122,9 +122,9 @@ His eyes flicked to Wren, then Orlan, then away. "Miller says I sleep at the mil
 
 "Since when?"
 
-"Since the court got noisy." He tried to smile. It pulled the split open again. "Do not make your face like that, Els. Better a night by the stones than him saying I ran from bond."
+"Since the court got noisy." He tried to smile. It pulled the split open again. "Do not make your face like that, Els. Better a night by the stones than breach written neat in the bond book."
 
-Ruan had not changed the document before court closed. He had only made the world lean again.
+Ruan had not changed the document before court closed. He had only moved the weight until it found Tomas's mouth.
 
 Elsbet stepped toward her brother. He stepped back.
 
@@ -142,7 +142,7 @@ Tomas looked at her, properly looked, perhaps for the first time since she had c
 
 A bell rang from the manor yard, calling men to the ferry. Tomas flinched toward the sound because debt had trained his body before thought could argue.
 
-Elsbet wanted to promise him something. By sunset. By tomorrow. By Saint Brenna's hard little mercy. Promises were cheap when someone else paid the coin.
+Elsbet wanted to promise him something: by sunset, by tomorrow, by Saint Brenna's hard little mercy. Promises were cheap when someone else paid the coin.
 
 "I will read the bond before they mark anything new," she said.
 

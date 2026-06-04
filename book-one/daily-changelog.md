@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-04 22:22 - Daily audit and Chapter 11 revision
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-04-2222-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-04-2222-audit.md`
+- `book-one/manuscript/chapter-11-ward-of-saint-brenna.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 11 — Ward of Saint Brenna.
+
+**Chapters archived:** none.
+
+**Words added:** 56 manuscript words in line-level revision.
+
+**Words removed:** 63 manuscript words in line-level revision.
+
+**Net word-count change:** -7 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,411 words.
+
+**Current manuscript page estimate:** 89.6 pages.
+
+**Remaining words before cap:** 2,589 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 11 from 1,862 words to 1,855 words.
+- Tightened repeated post-court aftermath phrasing while preserving the old-toll order, court pouch, Wren's chapel wardship, Matra's contract pressure, and Orlan's custody responsibility.
+- Sharpened the emotional cost to Elsbet by making Ruan's pressure land immediately on Tomas's split mouth and bond terms after the noisy court.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- The draft is still only 89 words below the compression trigger, so future revisions should stay count-flat unless replacing weaker material.
+- Chapter 7 remains a possible light-compression target if the Glass Mile bend feels slow in a full-story reread.
+- Chapter 11 now better carries Tomas's immediate cost; future work should not overstate Ruan's retaliation into melodrama.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest passage. Candidate targets are Chapter 7 route-scene tightening or a style-level Chapter 1 pass; do not add framework in place of prose.
+
+**Questions for owner:**
+
+1. Does Chapter 11 now make the court delay feel costly enough for Elsbet and Tomas?
+2. Should the next pass target Chapter 7 route-scene tightening, or begin a style-level Chapter 1 opening pass while holding the word count flat?
+
 ## 2026-06-03 21:41 - Daily audit and Chapter 12 compression
 
 **Mode:** Compression Mode.

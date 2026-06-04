@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass kept the draft below the 22,500-word / 90-page trigger and created a slightly safer 82-word cushion; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
+Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass kept the draft below the 22,500-word / 90-page trigger and created an 89-word cushion; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
 
 ## Working title
 
@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 22,418
-- Estimated pages: 89.7
+- Manuscript words: 22,411
+- Estimated pages: 89.6
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 2,582
+- Remaining words before hard cap: 2,589
 - Compression mode: watch / currently below trigger
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -32,7 +32,7 @@ The Ninth Candle
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
-| 11 | `chapter-11-ward-of-saint-brenna.md` | 1,862 | compressed |
+| 11 | `chapter-11-ward-of-saint-brenna.md` | 1,855 | revised after compression |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
 
 ## Missing chapters
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-06-03-2141-audit.md`
+- `book-one/cron/audits/2026-06-04-2222-audit.md`
 
 ## What Chapter 1 proves
 
@@ -130,6 +130,7 @@ The Ninth Candle
 
 - Harl's order is a procedural delay, not rescue: Wren becomes ward to Saint Brenna's custody, the ferry runs only under old tolls, and fees go into a court pouch.
 - The aftermath makes the delay costly and concrete rather than triumphant: villagers calculate crossings, Matra faces contract review, Orlan must lock and answer for the proof, and Wren sleeps under a chapel roof that still feels like custody.
+- The latest revision sharpens the cost to Elsbet by making Ruan's weight land immediately on Tomas's mouth and bond terms after the noisy court.
 - Ruan retaliates through Tomas's mill bond pressure without openly changing a document before court closes, keeping his methods human and procedural.
 - Elsbet loses her safe invisibility because Harl's order names her as copyist responsible for the margin cause.
 - No new proof source or Aurelith explanation appears; the chapter pays off existing consequences.
@@ -145,7 +146,7 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is below but close to the compression trigger at 22,418 words / 89.7 pages, leaving little room for expansion.
+- The completed draft is below but close to the compression trigger at 22,411 words / 89.6 pages, leaving little room for expansion.
 - Chapters 1, 2, 4, 5, 6, 7, 11, and 12 remain over individual targets, though none triggers per-chapter compression.
 - Chapter 7 remains the most likely next light-compression target if the Glass Mile bend feels slow on a full-story reread.
 - Any future Chapter 12 work should stay style-level and avoid over-compressing the lawful margin-note ending.

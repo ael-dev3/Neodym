@@ -10,12 +10,12 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **22,418 words**.
-- Current page estimate: **89.7 pages**.
-- Remaining words before hard cap: **2,582 words**.
-- Remaining pages before hard cap: **10.3 pages**.
+- Current new-version manuscript word count: **22,411 words**.
+- Current page estimate: **89.6 pages**.
+- Remaining words before hard cap: **2,589 words**.
+- Remaining pages before hard cap: **10.4 pages**.
 - Drafted chapters: **12 of 12**.
-- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the latest light compression, with an 82-word cushion before compression mode reactivates.
+- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the latest count-flat revision, with an 89-word cushion before compression mode reactivates.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
 - Archived/discarded chapters are excluded from the active manuscript count.
 
@@ -33,20 +33,20 @@
 | 8 | A Debt Called Mercy | 1,800 | 1,783 | -17 | compressed; latest pass cut repeated private-compromise and court-room procedural phrasing while preserving Ruan's leverage and Wren's cord intervention |
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | drafted |
 | 10 | Candles Counted Aloud | 2,300 | 2,080 | -220 | compressed three times; latest pass removed repeated candle-count, court-order, and not-victory explanation while preserving the public ruling |
-| 11 | Ward of Saint Brenna | 1,750 | 1,862 | +112 | compressed; latest pass tightened repeated aftermath procedure while preserving Wren's wardship, Tomas's cost, and Ruan's retaliation |
+| 11 | Ward of Saint Brenna | 1,750 | 1,855 | +105 | compressed; latest revision sharpened the post-court cost to Elsbet and Tomas while trimming repeated aftermath procedure |
 | 12 | The Name in the Margin | 1,900 | 1,927 | +27 | compressed; latest pass tightened final margin-note aftermath while preserving Maura Dain's name, Tomas's cost, and the quiet ending |
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **22,418 words**.
+Completed draft total: **22,411 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 2, 4, 5, 6, 7, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
-- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 8 is **17 words under target** after compression, Chapter 9 is **76 words under target**, and Chapter 10 is **220 words under target** after compression.
-- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,418 words / 89.7 pages, 82 words below the 22,500-word threshold and 0.3 pages below the 90-page threshold.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,582 words of space before the cap.
-- Latest compression: Chapter 12 was reduced from 1,985 to 1,927 words, removing 58 words of repeated margin-note and aftermath phrasing while preserving the final lawful record action, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and the silent Glass Mile.
+- Chapters under budget: Chapter 3 is **47 words under target**, Chapter 8 is **17 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **220 words under target** after compression.
+- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,411 words / 89.6 pages, 89 words below the 22,500-word threshold and about 0.4 pages below the 90-page threshold.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,589 words of space before the cap.
+- Latest manuscript revision: Chapter 11 was reduced from 1,862 to 1,855 words, removing 7 net words while strengthening the aftermath hinge from the court's procedural delay to Tomas's immediate bond cost.
 
 ## Next recommended action
 
