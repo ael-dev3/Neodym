@@ -1,12 +1,12 @@
 # Chapter 7 — The Glass Mile Bend
 
-Rain made a procession of them whether they wanted one or not.
+Rain made a procession of them.
 
-The broad manor man walked first with the summons bell looped through two fingers, striking it whenever a door opened too slowly or a dog came out to bark. Father Orlan followed with the rough register wrapped under his cloak and held against his ribs like a sick child. Wren came beside him because she would not walk behind a man carrying her mother's name. Elsbet walked last, one hand on the folded summons in her sleeve, the other near enough to Wren's shoulder to catch her if the mud took her feet.
+The broad manor man led with the summons bell, striking it whenever a door opened too slowly or a dog barked. Father Orlan followed with the rough register wrapped under his cloak like a sick child. Wren kept beside him, refusing to walk behind her mother's name. Elsbet came last, one hand on the damp summons, the other close enough to catch Wren if mud took her.
 
 Court bells left no room for warning Tomas or calling Matra. They made every decent errand look like disobedience.
 
-The lane below the chapel had become a brown runnel. Water ran over the wheel ruts and carried bits of straw, ash, and one drowned mouse that spun twice beside Elsbet's boot before vanishing under a gate. Villagers stood in doorways with shawls over their heads. Some crossed themselves for the register. Some looked away from Wren, performing the public art of not seeing what might require speech.
+The lane below the chapel had become a brown runnel carrying straw, ash, and one drowned mouse. Villagers stood in doorways with shawls over their heads. Some crossed themselves for the register. Some looked away from Wren, performing the public art of not seeing what might require speech.
 
 At the mill turning, the road split.
 
@@ -42,7 +42,7 @@ Elsbet saw Wren see it. That was how the Glass Mile worked on Harrowick Ford: no
 
 They took the upper way.
 
-The ridge path narrowed after the first rise. Floodwater lapped below on both sides, turning gardens and ditches into one skin. The white stones ran parallel for a while beyond a strip of winter grass. No hoof had marked them. No wheel. Where the ridge path sagged close, someone had planted hazel wands and tied bits of undyed thread between them, a poor fence against whatever people feared admitting they feared.
+The ridge path narrowed after the first rise. Floodwater lapped below on both sides, turning gardens and ditches into one skin. The white stones ran parallel beyond winter grass, unmarked by hoof or wheel. Where the ridge path sagged close, someone had planted hazel wands and tied undyed thread between them, a poor fence against fear.
 
 "Do not stare," Father Orlan said.
 
@@ -76,7 +76,7 @@ The broad man turned. "The post belongs to the road."
 
 Wren's hand froze above the knot.
 
-The grain woman had come up with her trembling donkey. Behind her, two wool men and a boy with hens waited because there was nowhere else to wait. Everyone was wet and wanted the road to become someone else's problem.
+The grain woman had come up with her trembling donkey. Behind her, two wool men and a boy with hens waited because there was nowhere else to wait.
 
 Elsbet stepped beside Wren and looked without touching.
 
@@ -138,27 +138,19 @@ He stepped close enough that she smelled horse sweat in his cloak. "Careful, cop
 
 "Then take us to the room where answers count."
 
-For a moment she thought he would strike her after all. Not hard, perhaps. Just enough to remind the ridge who could be corrected. But too many people stood there with too much need for the ferry, and the red strip hung behind him, covering a mark everyone now wanted either to use or forget.
+For a moment she thought he would strike her after all. But too many people stood there with too much need for the ferry, and the red strip hung behind him, covering a mark everyone now wanted either to use or forget.
 
 He rang the handbell once, violently.
 
-The donkey bolted.
+The donkey bolted. Its rope tore free; it lurched toward the white stones, stopped short, and split its sacks. Barley spilled across wet grass beside the old road. For a heartbeat no one moved. Every hand had learned caution before kindness.
 
-The rope tore from the grain woman's hand. The animal lurched toward the white stones, stopped short, and split its sacks. Barley spilled across wet grass near the old road but not onto it. The woman cried out and dropped to her knees, scooping with both hands.
-
-No one moved at first. The grain lay near the Glass Mile, and every hand had learned caution before kindness.
-
-Wren went first.
-
-She did not step on the white stones. She crouched in the grass beside them and pulled the torn sack upright. Elsbet followed, heart hammering with the fear that the road would notice intention better than feet. Nothing happened. Rain fell. Barley stuck to her palms. The donkey watched the white line as if addressed by name.
-
-Then the boy with hens came, then one wool man, then Father Orlan knelt with the register held high under his cloak and swept grain away from the pale edge with his free hand.
+Wren went first. She did not step on the white stones. She crouched beside them and pulled the torn sack upright. Elsbet followed; then the boy with hens, one wool man, and Father Orlan, who knelt with the register held high under his cloak and swept grain from the pale edge.
 
 The broad man did not help.
 
 He did not stop them either.
 
-When the sack was tied again, badly but enough, the grain woman gripped Wren's wrist. "Your mother's ferry took my sister over in fever week," she said, too low for the broad man if he chose not to hear. "No charge till thaw. I remember the blue cord on her door."
+When the sack was tied badly enough to hold, the grain woman gripped Wren's wrist. "Your mother's ferry took my sister over in fever week," she said low. "No charge till thaw. I remember the blue cord on her door."
 
 Wren's face changed so quickly it hurt to see. Hope could be as cruel as fear when it arrived without warning.
 
@@ -168,7 +160,7 @@ The woman looked toward the court road, then the red cloth, then her donkey. "If
 
 If called. Harrowick Ford's bravest measure.
 
-Elsbet did not press. A frightened witness broken on the ridge would be no witness at all. She only said, "Go to the court yard if you can. Stand where the steward can see you came by the bend."
+Elsbet did not press. A frightened witness broken on the ridge would be no witness at all. "Stand in the court yard if you can," she said. "Let the steward see you came by the bend."
 
 The woman nodded once.
 

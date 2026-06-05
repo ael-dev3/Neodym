@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-05 22:34 - Daily audit and Chapter 7 revision
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-05-2234-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-05-2234-audit.md`
+- `book-one/manuscript/chapter-07-the-glass-mile-bend.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 7 — The Glass Mile Bend.
+
+**Chapters archived:** none.
+
+**Words added:** 415 manuscript words in line-level revision.
+
+**Words removed:** 593 manuscript words in line-level revision.
+
+**Net word-count change:** -178 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,233 words.
+
+**Current manuscript page estimate:** 88.9 pages.
+
+**Remaining words before cap:** 2,767 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 7 from 1,914 words to 1,736 words.
+- Tightened the route procession, flooded-lane description, white-stone boundary, way-post dispute, and grain interruption so the chapter reads less like a travel interlude.
+- Preserved the Glass Mile as silent route pressure, the red manor cloth over the ferry wake mark, Elsbet's refusal to alter evidence, Wren's conditional witness, and the human court urgency.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or intervention entered the chapter.
+
+**What remains weak:**
+
+- The draft is still near the compression trigger, though the cushion is now healthier at 267 words below 22,500.
+- Chapter 1 may be the best next style-level target if the opening can be sharpened without expansion.
+- Chapters 2 and 9 remain possible light procedural-tightening targets if the candle custom or court setup feels slow in the next full-story reread.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. Candidate targets are a style-level Chapter 1 pass or light Chapter 2/9 procedural tightening; do not add framework in place of prose.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 7 still make the Glass Mile feel like distant pressure rather than a lore detour?
+2. Should the next pass sharpen the Chapter 1 opening, or trim remaining procedural load in Chapter 2 or 9?
+
 ## 2026-06-04 22:22 - Daily audit and Chapter 11 revision
 
 **Mode:** Revision Mode.
