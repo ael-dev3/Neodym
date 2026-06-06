@@ -1,5 +1,61 @@
 # Daily Changelog
 
+## 2026-06-06 22:42 - Daily audit and Chapter 1 count-flat revision
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-06-2242-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-06-2242-audit.md`
+- `book-one/manuscript/chapter-01-the-fair-copy.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 1 — The Fair Copy.
+
+**Chapters archived:** none.
+
+**Words added:** 53 manuscript words in line-level revision.
+
+**Words removed:** 53 manuscript words in line-level revision.
+
+**Net word-count change:** 0 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,233 words.
+
+**Current manuscript page estimate:** 88.9 pages.
+
+**Remaining words before cap:** 2,767 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 1 while holding it at 1,858 words.
+- Sharpened the opening fair-copy image so clean paper feels dangerous sooner.
+- Made Elsbet's lawful access pressure more immediate through the job/key/hand/seal sequence.
+- Tightened Ruan's first debt threat against Tomas while keeping it unwritable, human, and procedural.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or magic entered the chapter.
+
+**What remains weak:**
+
+- The draft remains near the compression trigger, with a 267-word cushion below 22,500 words / 90 pages, so future revisions should stay count-flat or count-negative.
+- Chapters 2 and 9 remain the strongest candidate next targets if the candle-custom explanation or court setup feels procedural in the next full-story reread.
+- Chapter 1 should not be reopened again unless a full read identifies a specific remaining weakness.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression. Candidate targets are Chapter 2 or Chapter 9 procedural tightening; preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, small-scale human conflict, and Aurelith absence.
+
+**Questions for owner:**
+
+1. Does the revised Chapter 1 opening make fair-copy danger feel immediate without over-explaining the institution?
+2. Should the next prose pass tighten Chapter 2's candle-custom mechanics or Chapter 9's court setup?
+
 ## 2026-06-05 22:34 - Daily audit and Chapter 7 revision
 
 **Mode:** Revision Mode.

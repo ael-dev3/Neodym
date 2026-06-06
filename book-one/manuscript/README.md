@@ -6,7 +6,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 | Chapter | File | Words | Status |
 |---|---|---:|---|
-| 1 | `chapter-01-the-fair-copy.md` | 1,858 | compressed |
+| 1 | `chapter-01-the-fair-copy.md` | 1,858 | revised after compression |
 | 2 | `chapter-02-the-missing-ninth.md` | 1,773 | compressed |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Full-story audit before the next prose move, then a count-flat revision or light compression of the weakest passage rather than support framework.
-- Candidate next targets: a style-level Chapter 1 pass or light Chapter 2/9 procedural tightening. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
+- Candidate next targets: light Chapter 2 or Chapter 9 procedural tightening if either feels slow after the next full read. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

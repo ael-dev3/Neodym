@@ -15,7 +15,7 @@
 - Remaining words before hard cap: **2,767 words**.
 - Remaining pages before hard cap: **11.1 pages**.
 - Drafted chapters: **12 of 12**.
-- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the Chapter 7 route-scene tightening, with a 267-word cushion before compression mode reactivates.
+- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the count-flat Chapter 1 opening revision, with a 267-word cushion before compression mode reactivates.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
 - Archived/discarded chapters are excluded from the active manuscript count.
 
@@ -23,7 +23,7 @@
 
 | Chapter | Title | Target Words | Actual Words | Delta | Status |
 |---|---|---:|---:|---:|---|
-| 1 | The Fair Copy | 1,700 | 1,858 | +158 | compressed |
+| 1 | The Fair Copy | 1,700 | 1,858 | +158 | revised after compression; latest pass sharpened the opening fair-copy pressure and Ruan's first debt threat without changing the chapter count |
 | 2 | The Missing Ninth | 1,750 | 1,773 | +23 | compressed; latest pass removed repeated candle-custom and bond-pressure explanation while preserving the proof chain |
 | 3 | Wren at the Chapel Door | 1,800 | 1,753 | -47 | drafted |
 | 4 | Matra's Wax Slats | 1,800 | 1,989 | +189 | compressed twice; latest pass removed repeated warning/permit exposition while preserving Matra as a pressure character |
@@ -46,8 +46,8 @@ Completed draft total: **22,233 words**.
 - Chapters under budget: Chapter 3 is **47 words under target**, Chapter 7 is **114 words under target**, Chapter 8 is **17 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **220 words under target** after compression/revision.
 - Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,233 words / 88.9 pages, 267 words below the 22,500-word threshold and about 1.1 pages below the 90-page threshold.
 - Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,767 words of space before the cap.
-- Latest manuscript revision: Chapter 7 was reduced from 1,914 to 1,736 words, removing 178 net words while tightening the route/Glass Mile bend, the red-cloth way-post dispute, and the grain interruption without adding new lore or proof.
+- Latest manuscript revision: Chapter 1 remained at 1,858 words after a count-flat line revision, adding 53 words and removing 53 words while sharpening the fair-copy opening, Elsbet's lawful access pressure, and Ruan's first debt threat without changing canon or adding a scene.
 
 ## Next recommended action
 
-Create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. The draft is comfortably below the compression trigger again, but future work should still avoid expansion; the next best target is likely a style-level Chapter 1 opening pass or a light Chapter 2/9 procedural-tightening pass. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and Aurelith absence.
+Create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. The draft is below the compression trigger, but future work should still avoid expansion; the next best targets are likely light Chapter 2 or Chapter 9 procedural tightening if either feels slow in the full read. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and Aurelith absence.

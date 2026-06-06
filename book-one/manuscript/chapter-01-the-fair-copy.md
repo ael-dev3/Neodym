@@ -2,21 +2,21 @@
 
 The ink would not dry.
 
-Elsbet Vale held the page near the chapel brazier until the damp began to curl it, then drew it back with a curse small enough for Saint Brenna to forgive. Rain worried at the shutters. By noon the ford would be brown to its knees. By dusk, Father Orlan had said, the fair copy must be sealed.
+Elsbet Vale held the fair sheet near the chapel brazier until heat curled one damp corner, then snatched it back with a curse small enough for Saint Brenna to forgive. Rain worried at the shutters. By noon the ford would be brown to its knees. By dusk, Father Orlan had said, the copy had to be dry enough to seal.
 
-She pressed the sheet flat. Good rag paper, bought with chapel coin: births down the left, marriages below, deaths and burial candles after. The rough register lay beside it like an old animal, spine split, pages greasy from years of thumbs, smelling of wax smoke, damp wool, and grief pressed flat between fees.
+She pressed the page flat. Rag paper, bought with chapel coin: births down the left, marriages below, deaths and burial candles after. Beside it, the rough register crouched like an old animal, spine split, pages greasy from years of thumbs, smelling of wax smoke, wet wool, and grief rubbed thin between fees.
 
-Her fair copy had none of that. Fair copies looked innocent. That was the trouble.
+The fair copy had none of that weight. That was why men with seals liked copies. They made old trouble look clean.
 
 A bell knocked once in the yard. Not the chapel bell in the little tower, but the iron handbell at the gate, hard-struck by someone who did not care whether a saint was sleeping.
 
-Father Orlan flinched at the sound. He sat by the sacristy chest with his key cord twisted around two fingers, lips moving over entries he could no longer see without bringing his nose almost to the page. His eyes had gone milk-blue at the rims. In candlelight they looked holy. In daylight they looked tired.
+Father Orlan flinched. He sat by the sacristy chest with his key cord twisted around two fingers, lips moving over entries he could no longer see without bringing his nose almost to the page. His eyes had gone milk-blue at the rims. In candlelight they looked holy. In daylight they looked tired.
 
 “Do not hurry the M’s,” he said.
 
 “Then tell men not to strike bells like debt collectors.”
 
-Father Orlan’s mouth twitched, but the bell came again, and the twitch died. He pushed himself upright. His knees made a sound like two sticks stepped on in mud.
+Father Orlan’s mouth twitched, but the bell came again, and the twitch died. He pushed himself upright. His knees sounded like sticks stepped on in mud.
 
 “Keep the register open only to this quarter.”
 
@@ -28,9 +28,9 @@ Father Orlan’s mouth twitched, but the bell came again, and the twitch died. H
 
 Father Orlan looked at her, not blindly. “You do not hand anyone the rough book.”
 
-Elsbet dipped her pen because her fingers wanted something useful to do. “I know the rule. I have heard it every quarter since I was sixteen.”
+Elsbet dipped her pen because her fingers wanted something useful to do. “I know. Job, key, hand, seal. I have heard the order every quarter since I was sixteen.”
 
-“Rules are easier to keep before the bailiff is in the room.”
+“Orders are easier before the bailiff is in the room.”
 
 The gate bell struck a third time.
 
@@ -154,7 +154,7 @@ Ink slid from Elsbet’s pen and made a black bead on the clean paper. Not on a 
 
 “Tomas has paid late two months.” Ruan’s eyes were flat now. “A household that keeps its marks clean has friends in a flood season. A household that smears them may find the road expensive.”
 
-There it was. Not a threat anyone could write down. Only weather. Only roads. Only the way powerful men made the world lean until poor people fell in the useful direction.
+There it was. Not a threat anyone could write down. Only weather, roads, and the way powerful men leaned the world until poor people fell where needed.
 
 Father Orlan said, “Enough.”
 
