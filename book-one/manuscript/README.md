@@ -14,7 +14,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | 6 | `chapter-06-father-orlans-key.md` | 1,871 | compressed |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,736 | revised/compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
-| 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
+| 9 | `chapter-09-before-the-flood-court.md` | 1,674 | revised count-flat |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,855 | revised after compression |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Full-story audit before the next prose move, then a count-flat revision or light compression of the weakest passage rather than support framework.
-- Candidate next targets: light Chapter 2 or Chapter 9 procedural tightening if either feels slow after the next full read. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
+- Candidate next target: light Chapter 2 candle-custom tightening if it feels slow after the next full read; Chapter 9 has received a count-flat court-setup pass. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

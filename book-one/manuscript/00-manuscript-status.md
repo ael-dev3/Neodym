@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass revised Chapter 1 count-flat and kept the draft below the 22,500-word / 90-page trigger with a 267-word cushion; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
+Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass revised Chapter 9 count-flat and kept the draft below the 22,500-word / 90-page trigger with a 267-word cushion; future runs should keep revisions count-flat unless a needed prose repair clearly justifies added words.
 
 ## Working title
 
@@ -30,7 +30,7 @@ The Ninth Candle
 | 6 | `chapter-06-father-orlans-key.md` | 1,871 | compressed |
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,736 | revised/compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
-| 9 | `chapter-09-before-the-flood-court.md` | 1,674 | drafted |
+| 9 | `chapter-09-before-the-flood-court.md` | 1,674 | revised count-flat |
 | 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,855 | revised after compression |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-06-06-2242-audit.md`
+- `book-one/cron/audits/2026-06-07-2251-audit.md`
 
 ## What Chapter 1 proves
 
@@ -119,6 +119,7 @@ The Ninth Candle
 - The proof chain remains limited: rough register and cord are present; candle slat, ferry tally, Matra's original slat, and route mark are not allowed to solve the case by themselves.
 - Ruan uses flood urgency and public pressure to move Wren's wardship/ferry matter first, making the court's need for the ferry part of his leverage.
 - The chapter ends with the candle count set up, not resolved.
+- The latest count-flat revision sharpened Elsbet's proof-limit answer, Ruan's ridicule, the room's ferry-first pressure on Wren, and Harl's transition into the candle count without changing the proof chain.
 
 ## What Chapter 10 proves
 
@@ -150,10 +151,10 @@ The Ninth Candle
 
 - The completed draft is safely below but still near the compression trigger at 22,233 words / 88.9 pages, so revisions should remain count-flat or count-negative unless a clear prose repair requires added words.
 - Chapters 1, 2, 4, 5, 6, 11, and 12 remain over individual targets, though none triggers per-chapter compression.
-- Chapters 2 and 9 are now the most likely light procedural-tightening targets if the candle custom or court setup feels slow on the next full read.
+- Chapter 2 is now the most likely light procedural-tightening target if the candle custom feels slow on the next full read; Chapter 9 has received a count-flat court-setup pass.
 - Chapter 1 has received a count-flat opening pass; future Chapter 1 work should only happen if a full-story reread finds a specific remaining weakness.
 - Any future Chapter 12 work should stay style-level and avoid over-compressing the lawful margin-note ending.
 
 ## Next likely work
 
-Create the next 24-hour audit, reread the full manuscript, then choose a count-flat prose revision rather than new framework. Candidate targets are light Chapter 2 or Chapter 9 procedural tightening, depending on which passage feels weakest in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.
+Create the next 24-hour audit, reread the full manuscript, then choose a count-flat prose revision rather than new framework. The most likely next target is light Chapter 2 candle-custom tightening if it feels slow in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.

@@ -1,5 +1,61 @@
 # Daily Changelog
 
+## 2026-06-07 22:51 - Daily audit and Chapter 9 count-flat revision
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-07-2251-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-07-2251-audit.md`
+- `book-one/manuscript/chapter-09-before-the-flood-court.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 9 — Before the Flood Court.
+
+**Chapters archived:** none.
+
+**Words added:** 71 manuscript words in line-level revision.
+
+**Words removed:** 71 manuscript words in line-level revision.
+
+**Net word-count change:** 0 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,233 words.
+
+**Current manuscript page estimate:** 88.9 pages.
+
+**Remaining words before cap:** 2,767 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 9 while holding it at 1,674 words.
+- Tightened the proof-limit exchange so Elsbet names evidence without overclaiming it.
+- Sharpened Ruan's ridicule and the room's ferry-first pressure so Wren feels the village need pressing against her, not just court procedure.
+- Smoothed Harl's transition into the candle-count hearing without making him kind or letting him solve the case.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or magic entered the chapter.
+
+**What remains weak:**
+
+- The draft remains near the compression trigger, with a 267-word cushion below 22,500 words / 90 pages, so future revisions should stay count-flat or count-negative.
+- Chapter 2 remains the strongest likely light-tightening target if the candle-custom explanation feels procedural in the next full-story reread.
+- Chapter 9 should not be reopened again unless a full read identifies a specific remaining weakness.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression. The likely next target is Chapter 2 candle-custom tightening if it feels slow; preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, small-scale human conflict, and Aurelith absence.
+
+**Questions for owner:**
+
+1. Does Chapter 9 now feel more like a pressured hearing than a procedural setup scene?
+2. Should the next prose pass lightly tighten Chapter 2's ninth-candle explanation, or leave the proof mechanics as-is?
+
 ## 2026-06-06 22:42 - Daily audit and Chapter 1 count-flat revision
 
 **Mode:** Revision Mode.

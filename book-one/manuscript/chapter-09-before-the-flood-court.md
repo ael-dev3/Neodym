@@ -98,11 +98,11 @@ Some men on the benches laughed because they thought the steward had invited the
 
 "Any other material proof dragged into my court without order?" he asked.
 
-There. The open door and the locked one together.
+There. The open door and the locked one together. If Elsbet made the proof sound stronger than it was, Ruan would break it for overclaiming.
 
-Elsbet said, "A copied candle slat and a household ferry tally are under chapel key. The candlewright's original slat remains with Matra Voss. A route mark at the Glass Mile bend was seen covered by manor cloth on the way here, but it is not marriage proof."
+"A copied candle slat and Wren's household ferry tally are under chapel key," she said. "Matra Voss keeps the original slat. At the Glass Mile bend, manor cloth covered a ferry mark. None of it proves marriage alone."
 
-Ruan made a soft sound. "Roadside mud, trade kindling, a child's string, and a priest's failing eyes. Master Brey, the bridge approach sinks while we sort village toys."
+Ruan made a soft sound. "Listen to her stack mud into a wall. Trade kindling, roadside scratches, a child's string, and a priest's failing eyes. Master Brey, the bridge approach sinks while we sort village toys."
 
 "The bridge approach sinks whether you speak or not." Harl took the clerk's roll and scanned the first page. "Where is Matra Voss?"
 
@@ -122,7 +122,7 @@ Harl handed the roll back to the clerk. "I dislike surprises. I dislike them mor
 
 For one foolish heartbeat Elsbet hoped.
 
-Then Harl looked at her and killed the hope before it could become dependence. "This does not mean your objection has merit. It means I will not have a wardship order appealed because a bailiff and a copyist chose a corner argument over form."
+Harl killed it with a look. "This does not mean your objection has merit. It means I will not have a wardship order appealed because a bailiff and a copyist chose a corner argument over form."
 
 "There is no appeal before hunger," Wren said.
 
@@ -136,13 +136,13 @@ Elsbet wanted to strike him. She wanted to thank him. She did neither. Court mad
 
 Ruan stepped toward the dais. "Then call the wardship now. Let the chapel read what it claims to read. If there is cause, you may decide whether to send for the candlewright. If there is not, we settle the ferry before the road men tear up the benches for planks."
 
-The wool men muttered. A farmer near the door said, "Ferry first," and then looked sorry he had been heard. Others took it up under their breath, not because they hated Wren, Elsbet thought, but because wet grain did not wait for justice to become legible.
+The wool men muttered. A farmer near the door said, "Ferry first," and looked sorry when Wren heard. Others took it up under their breath. Not hatred, Elsbet thought. Wet grain, cold animals, unpaid tolls, and the shame of needing a child's loss to hurry.
 
 Ruan had placed them all on his scale again.
 
 Harl listened to the room count its own need. His expression gave nothing away. At last he sat, and the chair's legs scraped once against the boards.
 
-"Very well," he said. "The court will hear the wardship and ferry claim before repairs. Not because Master Kest requests it. Because every later fee depends on whose rope may lawfully cross the water. Clerk, enter: disputed chapel cause before wardship. Father Orlan, bring the rough register to the table. Mistress Vale, stand where your hand can be seen. Child, hold whatever household object you have brought and do not mistake possession for proof."
+"Very well," he said. "The court will hear the wardship and ferry claim before repairs. Not because Master Kest requests it. Because every later fee depends on whose rope may lawfully cross the water. Clerk, enter: disputed chapel cause before wardship. Father Orlan, bring the rough register. Mistress Vale, stand where your hand can be seen. Child, hold your household object and do not mistake possession for proof."
 
 Wren lifted the cord a little higher. Her hands shook. She made no sound.
 

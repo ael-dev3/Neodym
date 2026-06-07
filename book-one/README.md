@@ -50,4 +50,4 @@ No plot-critical document, place, body, relic, prisoner, or road may be accessib
 
 ## Next action
 
-Use the next run to create a fresh 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. Chapters 1, 2, 4, 5, 6, 7, 8, 10, 11, and 12 have been compressed/revised, with Chapter 1 now sharpened after the latest count-flat opening pass; candidate next targets are light Chapter 2 or Chapter 9 procedural tightening.
+Use the next run to create a fresh 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. Chapters 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, and 12 have been compressed/revised, with Chapter 9 now sharpened after the latest count-flat court-setup pass; the next likely target is light Chapter 2 candle-custom tightening if it feels slow in the full read.
