@@ -7,7 +7,7 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 | Chapter | File | Words | Status |
 |---|---|---:|---|
 | 1 | `chapter-01-the-fair-copy.md` | 1,858 | revised after compression |
-| 2 | `chapter-02-the-missing-ninth.md` | 1,773 | compressed |
+| 2 | `chapter-02-the-missing-ninth.md` | 1,694 | revised/compressed |
 | 3 | `chapter-03-wren-at-the-chapel-door.md` | 1,753 | drafted |
 | 4 | `chapter-04-matras-wax-slats.md` | 1,989 | compressed twice |
 | 5 | `chapter-05-the-meadow-under-water.md` | 1,934 | compressed |
@@ -21,8 +21,8 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 
 ## Current manuscript count
 
-- Total manuscript words: 22,233
-- Estimated pages: 88.9
+- Total manuscript words: 22,154
+- Estimated pages: 88.6
 - Hard cap: 25,000 words / 100 pages
 - Compression mode: watch / currently below trigger
 - Counting method: direct `wc -w` over `chapter-*.md`
@@ -30,6 +30,6 @@ Book One manuscript prose is drafted for **The Ninth Candle**.
 ## Next planned work
 
 - Full-story audit before the next prose move, then a count-flat revision or light compression of the weakest passage rather than support framework.
-- Candidate next target: light Chapter 2 candle-custom tightening if it feels slow after the next full read; Chapter 9 has received a count-flat court-setup pass. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
+- Candidate next target: Chapter 7 route/Glass Mile density if it still feels excursion-prone after the next full read; Chapter 2 has received its candle-custom tightening pass. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, and Aurelith absence.
 
 Every future run must create a visible audit under `book-one/cron/audits/` before changing manuscript prose.

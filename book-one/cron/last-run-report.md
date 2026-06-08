@@ -2,9 +2,9 @@
 
 ## Run
 
-- Date/time: 2026-06-07 22:51 +0200
+- Date/time: 2026-06-08 23:01 +0200
 - Mode: Revision Mode
-- Audit file: `book-one/cron/audits/2026-06-07-2251-audit.md`
+- Audit file: `book-one/cron/audits/2026-06-08-2301-audit.md`
 
 ## What changed this 24-hour run
 
@@ -12,18 +12,18 @@
 - Read owner feedback, active support files, logic files, and all 12 current manuscript chapters before editing.
 - Recalculated the active manuscript at 22,233 words / 88.9 pages before edits.
 - Created the required audit before touching manuscript/support files.
-- Revised `book-one/manuscript/chapter-09-before-the-flood-court.md` count-flat: 71 words added, 71 words removed, net 0.
-- Sharpened the Chapter 9 proof-limit exchange, Ruan's ridicule, Wren's exposure to ferry-first pressure, and Harl's transition into the candle-count hearing without changing canon, adding a scene, or invoking Aurelith/magic.
-- Updated page budget, manuscript status/index files, daily changelog, Book One README, and 24-hour writing rules.
+- Revised `book-one/manuscript/chapter-02-the-missing-ninth.md`: 22 words added, 101 words removed, net -79.
+- Tightened the candle-custom explanation, Orlan's note about what he did and did not record, and Tomas's bond-pressure lead-in without changing the proof chain, Wren's entrance, or any canon outcome.
+- Updated page budget, manuscript status/index files, daily changelog, Book One README, chapter beats, logic validation notes, and 24-hour writing rules.
 
 ## Why
 
-The completed draft is coherent and below the compression threshold, but the full read identified Chapter 9 as the remaining passage most likely to feel like procedural setup. A count-flat revision improves momentum into the candle-count climax while preserving the legal limits that make the ending credible.
+The completed draft is coherent and below the compression threshold, but the full read identified Chapter 2 as the early passage most likely to feel procedural. A compact revision improves momentum from the ninth-candle discovery into Tomas's bond pressure and Wren's accusation while preserving the custom's evidentiary limits.
 
 ## What to read next
 
-1. `book-one/cron/audits/2026-06-07-2251-audit.md`
-2. `book-one/manuscript/chapter-09-before-the-flood-court.md`
+1. `book-one/cron/audits/2026-06-08-2301-audit.md`
+2. `book-one/manuscript/chapter-02-the-missing-ninth.md`
 3. `book-one/page-budget.md`
 4. `book-one/daily-changelog.md`
 
@@ -33,14 +33,14 @@ The Ninth Candle is a complete 12-chapter compact human novella about Elsbet Val
 
 ## Active manuscript status
 
-- Active manuscript word count: 22,233 words
-- Estimated pages: 88.9
+- Active manuscript word count: 22,154 words
+- Estimated pages: 88.6
 - Hard cap: 25,000 words / 100 pages
-- Remaining before hard cap: 2,767 words
+- Remaining before hard cap: 2,846 words
 - Compression status: watch / currently below the 22,500-word / 90-page trigger
 - Chapters drafted: 12 of 12
-- Chapter revised this run: Chapter 9 — Before the Flood Court
-- Manuscript change this run: 0 net words
+- Chapter revised this run: Chapter 2 — The Missing Ninth
+- Manuscript change this run: -79 net words
 
 ## Archived material
 
@@ -48,11 +48,11 @@ None this run.
 
 ## Risks
 
-- The draft remains near the compression trigger with a 267-word cushion, so future revisions should stay count-flat or count-negative unless replacing weaker material.
-- Chapter 2 is the best candidate next target if the candle-custom explanation feels procedural in the next full-story reread.
-- Chapter 9 should not be reopened again unless a specific remaining weakness appears in a full read.
+- The draft remains near the compression trigger with a 346-word cushion, so future revisions should stay count-flat or count-negative unless replacing weaker material.
+- Chapter 7 is the best candidate next target if the Glass Mile route sequence still feels excursion-prone in the next full-story reread.
+- Chapter 2 should not be reopened again unless a specific remaining weakness appears in a full read.
 
 ## Suggested owner feedback
 
-- Does Chapter 9 now feel more like a pressured hearing than a procedural setup scene?
-- Should the next pass lightly tighten Chapter 2's ninth-candle explanation, or leave the proof mechanics as-is?
+- Does Chapter 2 now move cleanly from proof custom into Tomas/Wren pressure without under-explaining the ninth candle?
+- Should the next prose pass target Chapter 7's route/Glass Mile density, or begin a line-level polish pass from Chapter 1?

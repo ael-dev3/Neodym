@@ -62,15 +62,15 @@ He laughed once. It was not amusement. “You have a cruel tongue when frightene
 
 “I learned from men with gentle ones.”
 
-Father Orlan looked at her then, properly. “The ninth candle was paid?”
+Father Orlan looked at her properly. “The ninth candle was paid?”
 
-“Yes.” Elsbet bent closer, though she knew the mark. “Here. A little notch after the ix. Fee short by one farthing. Promised at thaw.”
+“Yes. Here. A little notch after the ix. Fee short by one farthing, promised at thaw.”
 
 “Who promised?”
 
-She turned the page back and forward, following cramped fever marks: initials, candle sizes, debt scraps, who fetched the body, who stood close enough to count as kin. The rich bought wax and space; the poor bought one flame at a time and prayed the saint could add.
+Elsbet followed the cramped fever marks: initials, candle sizes, debt scraps, who fetched the body, who stood close enough to count as kin.
 
-“Ferry bank,” Elsbet said. “No hand named.”
+“Ferry bank,” she said. “No hand named.”
 
 “Then it is weak.”
 
@@ -88,19 +88,11 @@ She pulled the register nearer and set a clean work scrap beside the fair copy. 
 
 He pressed his hands together like an old man warming them over words he wished would burn.
 
-“Eight lights for any soul buried from Saint Brenna’s door when there is coin or charity enough,” he said at last. “One at the feet, one at the head, two for the watchers, four for the road prayers.”
+“Eight lights for any soul buried from Saint Brenna’s door when coin or charity allows,” he said at last. “One at the feet, one at the head, two for the watchers, four for the road prayers.”
 
 “And the ninth?”
 
-“The household light.”
-
-Elsbet wrote household light.
-
-“Not always,” he said quickly.
-
-She looked up.
-
-“Do not make that face. I am being exact. The ninth is set when a household claims the dead aloud: husband, wife, house-holding child, sometimes a guild, sometimes the chapel if no one else will stand.”
+“The household light.” He caught her look. “Not always. Be exact. The ninth is set when a household claims the dead aloud: husband, wife, house-holding child, sometimes a guild, sometimes the chapel if no one else will stand.”
 
 “But not for a woman the court says had no husband entered.”
 
@@ -142,7 +134,7 @@ Elsbet’s pen stilled.
 
 Elsbet stared at him.
 
-“No,” he said again, sharper because he deserved the first one. “I noted the candle. I noted the child. I noted ferry bank because Maura was buried from that house. I did not write every object a grieving child put on a coffin while half the village waited for me to say words over their own dead.”
+“No,” he said again, sharper because he deserved the first one. “I noted the candle, the child, ferry bank because Maura was buried from that house. I did not note every object on the coffin while half the village waited for words over their own dead.”
 
 His voice broke on the last phrase, just a little. Elsbet let the silence take it. Not because she forgave him. Because truth, too, needed room to breathe if it was going to stand upright.
 
@@ -178,7 +170,7 @@ Tomas Vale was sixteen: nearly a man when the miller wanted sacks lifted, still 
 
 Father Orlan’s eyes went to Elsbet.
 
-Tomas either missed the look or chose to. He crossed the room dripping onto the flags and held out a folded parchment tied with mill twine, sealed with a thumb of brown wax. Not the manor hawk. Lower than that. Crueler, because it needed no emblem.
+Tomas missed the look or chose to. He crossed the room dripping and held out a folded parchment tied with mill twine, sealed with a thumb of brown wax. Not the manor hawk. Lower. Crueler, because it needed no emblem.
 
 Elsbet took it. Her fingers left ink on the damp outside.
 
@@ -198,7 +190,7 @@ Review pending at court bell. Household conduct to be considered.
 
 No threat. No demand. Only conduct, a word clean enough to wash blood from its sleeves.
 
-Tomas leaned close, trying to read upside down. He could make out numbers, some names, not the whole of it. Elsbet folded the strip before his shame could ask her for help.
+Tomas leaned close to read upside down. Elsbet folded the strip before his shame could ask her for help.
 
 “What does it say?” he asked.
 

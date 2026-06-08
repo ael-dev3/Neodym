@@ -1,5 +1,64 @@
 # Daily Changelog
 
+## 2026-06-08 23:01 - Daily audit and Chapter 2 candle-custom tightening
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-08-2301-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-08-2301-audit.md`
+- `book-one/manuscript/chapter-02-the-missing-ninth.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+- `book-one/04-chapter-beats.md`
+- `book-one/logic/README.md`
+- `book-one/logic/validation-checklist.md`
+
+**Chapter worked on:** Chapter 2 — The Missing Ninth.
+
+**Chapters archived:** none.
+
+**Words added:** 22 manuscript words in line-level revision.
+
+**Words removed:** 101 manuscript words in line-level revision.
+
+**Net word-count change:** -79 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,154 words.
+
+**Current manuscript page estimate:** 88.6 pages.
+
+**Remaining words before cap:** 2,846 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 2 from 1,773 words to 1,694 words.
+- Tightened Orlan's candle-custom explanation so the ninth household light stays legible without slowing the early proof sequence.
+- Cut repeated phrasing around what Orlan did and did not note on Maura's coffin.
+- Shortened Tomas's bond-message lead-in so Wren's entrance arrives with more urgency.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or magic entered the chapter.
+
+**What remains weak:**
+
+- The draft remains near the compression trigger, with a 346-word cushion below 22,500 words / 90 pages, so future revisions should stay count-flat or count-negative.
+- Chapter 7 remains the strongest likely light-tightening target if the Glass Mile route sequence feels excursion-prone in the next full-story reread.
+- Chapter 2 should not be reopened again unless a full read identifies a specific remaining weakness.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat or count-negative prose revision. The likely next target is Chapter 7 route/Glass Mile density if it still feels excursion-prone; preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, small-scale human conflict, and Aurelith absence.
+
+**Questions for owner:**
+
+1. Does Chapter 2 now move cleanly from ninth-candle proof into Tomas/Wren pressure without under-explaining the custom?
+2. Should the next prose pass target Chapter 7's route/Glass Mile density, or begin a clean line-level polish pass from Chapter 1?
+
 ## 2026-06-07 22:51 - Daily audit and Chapter 9 count-flat revision
 
 **Mode:** Revision Mode.

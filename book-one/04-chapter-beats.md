@@ -4,7 +4,7 @@ Planned chapters: 12.
 
 Target final prose: about 21,800 words. Hard cap: 25,000 words / 100 pages.
 
-Chapter 1 must not be drafted until the logic audit remains stable after owner review or one more autonomous audit pass.
+Current manuscript state: all 12 planned chapters are drafted; use these beats as a live function map for revisions, not as permission to expand beyond the 25,000-word cap.
 
 ## Chapter 1: The Fair Copy
 
@@ -86,6 +86,6 @@ Chapter 1 must not be drafted until the logic audit remains stable after owner r
 ## Chapter 12: The Name in the Margin
 
 - **Target words:** 1900
-- **What happens:** Elsbet adds Maura's married name to a lawful margin note and prepares to carry copies to a deanery or harvest hearing.
+- **What happens:** Elsbet adds Maura's married name to a lawful margin note and keeps the fair copy from sealing a clean omission before review.
 - **Pressure:** every scene must clarify access, motive, institution, or consequence.
 - **Hook/turn:** The Glass Mile remains silent; the human road bends around it.

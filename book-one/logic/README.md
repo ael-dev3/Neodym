@@ -11,9 +11,9 @@ Read in this order:
 5. [`antagonist-motive-test.md`](antagonist-motive-test.md)
 6. [`owner-skeptic-questions.md`](owner-skeptic-questions.md)
 
-## Pass condition before prose
+## Current validation result
 
-Chapter 1 must not be drafted until these are true:
+The logic-first gate has passed and the active manuscript now has a complete 12-chapter draft. Future prose revisions should keep these conditions true:
 
 - the protagonist's access is legitimate;
 - every institution has a custodian and procedure;
@@ -22,4 +22,4 @@ Chapter 1 must not be drafted until these are true:
 - the Aurelith layer is no more than a thin-veil boundary, rumor, or pressure;
 - the story still works if no Aurelith ever appears.
 
-Current result: **foundation passes for outlining, not yet for prose until owner feedback or one more daily audit confirms it.**
+Current result: **foundation passed for prose; keep validating access, custody, motive, causality, and thin-veil restraint during revisions.**
