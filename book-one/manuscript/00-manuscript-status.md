@@ -2,7 +2,7 @@
 
 ## Current mode
 
-Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass tightened Chapter 2 and kept the draft below the 22,500-word / 90-page trigger with a 346-word cushion; future runs should keep revisions count-flat or count-negative unless a needed prose repair clearly justifies added words.
+Post-compression watch after completion of the first 12-chapter draft under the 24-hour audit-first workflow. The latest pass tightened Chapter 10 and kept the draft below the 22,500-word / 90-page trigger with a 473-word cushion; future runs should keep revisions count-flat or count-negative unless a needed prose repair clearly justifies added words.
 
 ## Working title
 
@@ -10,11 +10,11 @@ The Ninth Candle
 
 ## Current count
 
-- Manuscript words: 22,154
-- Estimated pages: 88.6
+- Manuscript words: 22,027
+- Estimated pages: 88.1
 - Drafted chapters: 12 of 12
 - Hard cap: 25,000 words / 100 pages
-- Remaining words before hard cap: 2,846
+- Remaining words before hard cap: 2,973
 - Compression mode: watch / currently below trigger
 - Counting method: direct `wc -w` over `chapter-*.md`
 
@@ -31,7 +31,7 @@ The Ninth Candle
 | 7 | `chapter-07-the-glass-mile-bend.md` | 1,736 | revised/compressed |
 | 8 | `chapter-08-a-debt-called-mercy.md` | 1,783 | compressed |
 | 9 | `chapter-09-before-the-flood-court.md` | 1,674 | revised count-flat |
-| 10 | `chapter-10-candles-counted-aloud.md` | 2,080 | compressed three times |
+| 10 | `chapter-10-candles-counted-aloud.md` | 1,953 | compressed four times |
 | 11 | `chapter-11-ward-of-saint-brenna.md` | 1,855 | revised after compression |
 | 12 | `chapter-12-the-name-in-the-margin.md` | 1,927 | compressed |
 
@@ -41,7 +41,7 @@ The Ninth Candle
 
 ## Latest audit
 
-- `book-one/cron/audits/2026-06-08-2301-audit.md`
+- `book-one/cron/audits/2026-06-09-2314-audit.md`
 
 ## What Chapter 1 proves
 
@@ -129,6 +129,7 @@ The Ninth Candle
 - Matra appears through the already established court-candle order, not as a convenient rescuer, and her original proof remains at her shed.
 - Orlan's help stays limited to custody, reading, and responsibility; he does not win the case.
 - Wren gains temporary chapel keeping and a same-day reprieve, while the meadow, Tomas's bond, Orlan's debt, and Ruan's power remain unresolved.
+- The latest revision tightened repeated courtroom explanation and reduced the chapter to 1,953 words while preserving the candle-count proof, Harl's limited order, and the partial nature of the victory.
 
 ## What Chapter 11 proves
 
@@ -150,12 +151,12 @@ The Ninth Candle
 
 ## Current weak points
 
-- The completed draft is safely below but still near the compression trigger at 22,154 words / 88.6 pages, so revisions should remain count-flat or count-negative unless a clear prose repair requires added words.
+- The completed draft is safely below but still near the compression trigger at 22,027 words / 88.1 pages, so revisions should remain count-flat or count-negative unless a clear prose repair requires added words.
 - Chapters 1, 4, 5, 6, 11, and 12 remain over individual targets, though none triggers per-chapter compression.
-- Chapter 7 is now the most likely light tightening target if the Glass Mile route sequence feels excursion-prone on the next full read; Chapter 2 has received its candle-custom tightening pass.
+- Chapter 7 remains a possible light tightening target if the Glass Mile route sequence feels excursion-prone on the next full read; Chapter 11 is another possible target if the aftermath repeats the partial-victory costs.
 - Chapter 1 has received a count-flat opening pass; future Chapter 1 work should only happen if a full-story reread finds a specific remaining weakness.
 - Any future Chapter 12 work should stay style-level and avoid over-compressing the lawful margin-note ending.
 
 ## Next likely work
 
-Create the next 24-hour audit, reread the full manuscript, then choose a count-flat or count-negative prose revision rather than new framework. The most likely next target is Chapter 7 route/Glass Mile density if it still feels excursion-prone in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.
+Create the next 24-hour audit, reread the full manuscript, then choose a count-flat or count-negative prose revision rather than new framework. The most likely next target is Chapter 7 route/Glass Mile density or Chapter 11 aftermath repetition if either still feels slow in the full read. Preserve the small-scale human conflict, Aurelith absence, Maura Dain's margin note, Tomas's unresolved bond cost, and custody/access logic.

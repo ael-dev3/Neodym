@@ -10,12 +10,12 @@
 
 ## Current manuscript count
 
-- Current new-version manuscript word count: **22,154 words**.
-- Current page estimate: **88.6 pages**.
-- Remaining words before hard cap: **2,846 words**.
-- Remaining pages before hard cap: **11.4 pages**.
+- Current new-version manuscript word count: **22,027 words**.
+- Current page estimate: **88.1 pages**.
+- Remaining words before hard cap: **2,973 words**.
+- Remaining pages before hard cap: **11.9 pages**.
 - Drafted chapters: **12 of 12**.
-- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the Chapter 2 candle-custom tightening pass, with a 346-word cushion before compression mode reactivates.
+- Compression status: **watch** — below the active 22,500-word / 90-page trigger after the Chapter 10 courtroom tightening pass, with a 473-word cushion before compression mode reactivates.
 - Counting method: direct `wc -w` count over `book-one/manuscript/chapter-*.md`.
 - Archived/discarded chapters are excluded from the active manuscript count.
 
@@ -32,22 +32,22 @@
 | 7 | The Glass Mile Bend | 1,850 | 1,736 | -114 | revised/compressed; latest pass cut route and grain-interruption drag while preserving the Glass Mile as silent pressure and the conditional witness |
 | 8 | A Debt Called Mercy | 1,800 | 1,783 | -17 | compressed; latest pass cut repeated private-compromise and court-room procedural phrasing while preserving Ruan's leverage and Wren's cord intervention |
 | 9 | Before the Flood Court | 1,750 | 1,674 | -76 | revised count-flat; latest pass sharpened the proof-limit and ferry-pressure setup before the candle count without changing canon |
-| 10 | Candles Counted Aloud | 2,300 | 2,080 | -220 | compressed three times; latest pass removed repeated candle-count, court-order, and not-victory explanation while preserving the public ruling |
+| 10 | Candles Counted Aloud | 2,300 | 1,953 | -347 | compressed four times; latest pass removed repeated courtroom explanation and tightened the candle-count/order sequence while preserving the public ruling |
 | 11 | Ward of Saint Brenna | 1,750 | 1,855 | +105 | compressed; latest revision sharpened the post-court cost to Elsbet and Tomas while trimming repeated aftermath procedure |
 | 12 | The Name in the Margin | 1,900 | 1,927 | +27 | compressed; latest pass tightened final margin-note aftermath while preserving Maura Dain's name, Tomas's cost, and the quiet ending |
 
 Planned target total: **21,850 words**.
 
-Completed draft total: **22,154 words**.
+Completed draft total: **22,027 words**.
 
 ## Budget flags
 
 - Chapters over budget: Chapters 1, 4, 5, 6, 11, and 12 are over target; all remain below the 20% over-target per-chapter compression trigger.
-- Chapters under budget: Chapter 2 is **56 words under target**, Chapter 3 is **47 words under target**, Chapter 7 is **114 words under target**, Chapter 8 is **17 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **220 words under target** after compression/revision.
-- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,154 words / 88.6 pages, 346 words below the 22,500-word threshold and about 1.4 pages below the 90-page threshold.
-- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,846 words of space before the cap.
-- Latest manuscript revision: Chapter 2 moved from 1,773 to 1,694 words after a focused line revision, adding 22 words and removing 101 words while tightening the candle-custom explanation and Tomas bond-pressure lead-in without changing canon or Wren's entrance.
+- Chapters under budget: Chapter 2 is **56 words under target**, Chapter 3 is **47 words under target**, Chapter 7 is **114 words under target**, Chapter 8 is **17 words under target**, Chapter 9 is **76 words under target**, and Chapter 10 is **347 words under target** after compression/revision.
+- Compression trigger: **watch / currently below active trigger**. Current manuscript is 22,027 words / 88.1 pages, 473 words below the 22,500-word threshold and about 1.9 pages below the 90-page threshold.
+- Hard-cap warning: the complete draft remains under 25,000 words / 100 pages, with 2,973 words of space before the cap.
+- Latest manuscript revision: Chapter 10 moved from 2,080 to 1,953 words after a focused courtroom tightening pass, removing 127 words while preserving the public candle-count proof, Harl's limited order, Wren's partial payoff, and the small-scale human stakes.
 
 ## Next recommended action
 
-Create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. The draft is below the compression trigger, but future work should still avoid expansion; after the Chapter 2 tightening pass, the next best target is likely Chapter 7 route/Glass Mile density if it still feels excursion-prone in the full read. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and Aurelith absence.
+Create the next 24-hour audit, reread the full manuscript, then make one count-flat prose revision or light compression based on the weakest remaining passage. The draft is below the compression trigger, but future work should still avoid expansion; after the Chapter 10 tightening pass, the next best target is likely Chapter 7 route/Glass Mile density or Chapter 11 aftermath repetition if either still feels slow in the full read. Preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, the small-scale human conflict, and Aurelith absence.

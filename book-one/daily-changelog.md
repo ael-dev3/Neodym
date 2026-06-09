@@ -1,5 +1,60 @@
 # Daily Changelog
 
+## 2026-06-09 23:14 - Daily audit and Chapter 10 courtroom tightening
+
+**Mode:** Revision Mode.
+
+**Audit file created:** `book-one/cron/audits/2026-06-09-2314-audit.md`.
+
+**Files changed:**
+
+- `book-one/cron/audits/2026-06-09-2314-audit.md`
+- `book-one/manuscript/chapter-10-candles-counted-aloud.md`
+- `book-one/manuscript/00-manuscript-status.md`
+- `book-one/manuscript/README.md`
+- `book-one/page-budget.md`
+- `book-one/daily-changelog.md`
+- `book-one/cron/last-run-report.md`
+- `book-one/cron/24h-writing-rules.md`
+- `book-one/README.md`
+
+**Chapter worked on:** Chapter 10 — Candles Counted Aloud.
+
+**Chapters archived:** none.
+
+**Words added:** 22 manuscript words in line-level revision.
+
+**Words removed:** 149 manuscript words in line-level revision.
+
+**Net word-count change:** -127 words by direct chapter-file count.
+
+**Current manuscript word count:** 22,027 words.
+
+**Current manuscript page estimate:** 88.1 pages.
+
+**Remaining words before cap:** 2,973 words.
+
+**What improved:**
+
+- Created the required pre-change audit before touching manuscript prose.
+- Revised Chapter 10 from 2,080 words to 1,953 words.
+- Cut repeated courtroom explanation around the opening number, the room slipping toward Ruan, Harl's pen/order beat, and the final not-victory framing.
+- Preserved the public candle-count proof, Matra's arrival through the court-candle order, Orlan's custody defense, Harl's limited delay, Wren's temporary chapel keeping, and the unresolved costs to Tomas, Orlan, Matra, and the meadow.
+- Kept the conflict human-first; no Aurelith appearance, explanation, or magic entered the chapter.
+
+**What remains weak:**
+
+- The draft remains near the compression trigger, with a 473-word cushion below 22,500 words / 90 pages, so future revisions should stay count-flat or count-negative.
+- Chapter 7 may still need a light reread for route/Glass Mile density, though it currently keeps the Glass Mile as background pressure rather than a plot solution.
+- Chapter 11 may be the next best light-tightening target if the aftermath repeats the partial-victory costs after a full read.
+
+**Next recommended action:** create the next 24-hour audit, reread the full manuscript, then make one count-flat or count-negative prose revision. The likely next targets are Chapter 7 route/Glass Mile density or Chapter 11 aftermath repetition if either still feels slow; preserve the lawful margin note, Maura Dain's name, Tomas's unresolved bond cost, custody limits, small-scale human conflict, and Aurelith absence.
+
+**Questions for owner:**
+
+1. Does the tightened Chapter 10 still give enough weight to the public candle-count proof and Harl's limited order?
+2. Should the next prose pass focus on Chapter 7's route/Glass Mile density, Chapter 11's aftermath pacing, or a clean line-level polish pass from Chapter 1?
+
 ## 2026-06-08 23:01 - Daily audit and Chapter 2 candle-custom tightening
 
 **Mode:** Revision Mode.

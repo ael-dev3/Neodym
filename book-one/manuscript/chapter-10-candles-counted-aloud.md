@@ -1,10 +1,8 @@
 # Chapter 10 — Candles Counted Aloud
 
-The court heard the number before it heard the dead woman.
+The court heard the number before it heard the dead woman's name.
 
 "Nine," Elsbet said.
-
-The word went poorly into the room: only one more than eight, too small for water worrying at the yard and grain rotting while justice learned to stand.
 
 Harl Brey looked at the rough register as if it had inconvenienced him personally. Father Orlan had opened it to the winter fever pages with both hands braced beside the ink. The old book lay swollen under the court light beside the clerk's clean roll.
 
@@ -24,7 +22,7 @@ Ruan spoke before the lean could become sympathy. "A crowded fever page, Master 
 
 "No one asked you to preach grief," Harl said. "Mistress Vale, why does the number matter? Briefly."
 
-Briefly was cruel. Elsbet wanted to give him the fever weeks—smoke, coughs, bodies waiting—but kept her eyes on the page.
+Elsbet wanted to give him the fever weeks—smoke, coughs, bodies waiting—but kept her eyes on the page.
 
 "Eight lights are common burial lights from Saint Brenna's door when coin or charity allows," she said. "The ninth is a household light, set when the dead is claimed aloud by a house: husband, wife, house-holding child, guild, or chapel for the unclaimed."
 
@@ -84,7 +82,7 @@ Wren flinched as if the number had struck her.
 
 Orlan closed his eyes. "Not alone."
 
-Ruan's breath left him softly. Elsbet hated that sound more than any shout.
+Ruan's breath left him softly.
 
 "There," he said. "The child laid a cord. A grieving priest let an extra candle stand. That is all this proves."
 
@@ -92,7 +90,7 @@ Ruan's breath left him softly. Elsbet hated that sound more than any shout.
 
 Ruan bowed his head a little, but his mouth kept the shape of victory.
 
-Elsbet felt the room slipping toward him because his answer made fewer demands. Everyone could go home wet and guilty but not responsible.
+The room slipped toward him because his answer made fewer demands.
 
 She put her hand on the rough register, not over the ink, only on the torn lower corner where old thumbs had already darkened the page.
 
@@ -122,7 +120,7 @@ The steward read the draft. His expression did not change.
 
 "My time has suffered many kindnesses today." Harl set the draft beside the clerk's roll. "Where is Matra Voss?"
 
-The court door opened as if the question had struck wood.
+The court door opened.
 
 Matra Voss came in with a candle box, rain-plastered hair, and a manor boy behind her carrying two seal candles.
 
@@ -132,7 +130,7 @@ Ruan's face did not move. That was how Elsbet knew the arrival mattered.
 
 Harl looked from the box to Ruan. "You ordered a candlewright to attend my court with candles and did not summon her to a candle matter. Efficient again."
 
-Matra's eyes found Wren, the cord, then Elsbet; in them was fear sharpened into anger because anger could stand in public better.
+Matra's eyes found Wren, the cord, then Elsbet; her fear had sharpened into anger.
 
 "Mistress Voss," Harl said, "remain."
 
@@ -172,9 +170,9 @@ Matra looked at Elsbet, then away. "In front of Elsbet Vale and Wren Dain. From 
 
 "Safely absent," Father Orlan said.
 
-Everyone looked at him. Even Harl.
+Everyone looked at him. Even Harl. The old priest's hand had stopped shaking around his key cord.
 
-The old priest's hand had stopped shaking around his key cord. "I locked them because if we dragged every poor thing through rain in frightened hands, Master Kest would call it planted, altered, stolen, or taught after quarrel. So I kept the slat copy and tally under chapel key. If that is wrong, punish me for custody, not her for invention."
+"I locked them because if we dragged every poor thing through rain in frightened hands, Master Kest would call it planted, altered, stolen, or taught after quarrel. So I kept the slat copy and tally under chapel key. If that is wrong, punish me for custody, not her for invention."
 
 Elsbet had not known he had that voice left.
 
@@ -196,7 +194,7 @@ Ruan bowed. "Then the manor handling should stand until—"
 
 The bailiff stopped.
 
-Harl took the clerk's pen. He did not write. He held it above the roll as if making the room watch ink decide whether to become law.
+Harl took the clerk's pen and held it above the roll.
 
 "Enter this: chapel fair copy refused for stated cause. Rough register names Maura Dain and records nine lights. Marriage line disputed. Candlewright present but original trade slat not summoned. Chapel-held copy slat and ferry tally to be produced under court order. No final wardship placement and no new ferry lease entered today."
 
@@ -215,8 +213,6 @@ Ruan said, very softly, "The road will not thank you."
 "And the ferry?" one of the wool men called before fear caught him.
 
 Harl's eyes moved to the benches. "Emergency crossings may run under the old toll tally until next hearing. Fees to the court pouch. Any man moving rope stakes before the order is read pays twice what his cart is worth."
-
-That was not justice. It was money made cautious, and enough for this hour.
 
 "The child," Ruan said.
 
@@ -248,9 +244,7 @@ She lit the ninth.
 
 The flame leaned, caught, and held.
 
-Elsbet looked at Maura's name, Wren's cord, and Ruan's clean draft lying useless for now under Harl's hand. Tomas's bond waited. Orlan's debt waited. The meadow was not safe. Ruan had only been checked before witnesses.
-
-But the clerk had written delay into the roll; a false clean line had failed to become law before noon. Not victory: a door held shut with one shaking hand while everyone inside searched for a bar.
+Elsbet looked at Maura's name, Wren's cord, and Ruan's clean draft lying useless for now under Harl's hand. Tomas's bond waited. Orlan's debt waited. The meadow was not safe. But a false clean line had failed to become law before noon.
 
 Wren looked at Elsbet across the candles.
 
